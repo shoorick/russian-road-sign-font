@@ -14,12 +14,13 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 632 699837233 8314019]
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359148965
+ModificationTime: 1359152682
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,16 +38,37 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
-Encoding: UnicodeBmp
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 17 7
-OnlyBitmaps: 1
+WinInfo: 17 17 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 0
+BeginChars: 1114112 1
+
+StartChar: F
+Encoding: 70 70 0
+Width: 752
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+140 0 m 29
+ 280 0 l 29
+ 280 340 l 29
+ 570 340 l 29
+ 570 460 l 29
+ 280 460 l 29
+ 280 670 l 29
+ 650 670 l 29
+ 650 800 l 29
+ 140 800 l 29
+ 140 0 l 29
+EndSplineSet
+EndChar
 EndChars
 EndSplineFont
