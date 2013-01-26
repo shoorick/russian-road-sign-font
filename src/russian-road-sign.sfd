@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359205709
+ModificationTime: 1359209539
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,7 +35,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -45,7 +44,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 8 6
+WinInfo: 32 8 6
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 8
@@ -177,47 +176,46 @@ EndChar
 
 StartChar: numbersign
 Encoding: 35 35 5
-Width: 1000
+Width: 694
 VWidth: 0
-HStem: 0 21G<201.737 282.519 373.474 461.026> 152 86<86 194 286 370> 158 80<86 143 468 538> 434 68<280 361.75 462 534> 442 72<88 125.8>
-VStem: 196 84<238 422 514 578.5> 206 62<534.5 678> 374 86<0 114 240 432> 374 78<510 595>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-280 432 m 25x85
- 280 236 l 25
- 378 232 l 25
- 374 432 l 25
- 280 432 l 25x85
-206 678 m 25xca
- 268 680 l 25
- 276 506 l 25
- 374 510 l 25
- 368 680 l 25
- 440 678 l 25
- 452 504 l 25xca80
- 536 502 l 25
- 534 434 l 25
- 462 436 l 25
- 466 240 l 25
- 540 240 l 25
- 538 162 l 25
- 468 156 l 25
- 460 0 l 25
- 374 0 l 25
- 370 152 l 25
- 286 154 l 25
- 282 0 l 25
- 202 0 l 25
- 200 152 l 25xd1
- 86 158 l 25xa1
- 86 238 l 25
- 194 238 l 25
- 196 422 l 25xc5
- 88 442 l 25
- 86 514 l 25
- 198 514 l 25
- 206 678 l 25xca
+259 336 m 25
+ 245 224 l 25
+ 357 224 l 25
+ 371 336 l 25
+ 259 336 l 25
+196 560 m 25
+ 294 560 l 25
+ 273 420 l 25
+ 385 420 l 25
+ 406 560 l 25
+ 504 560 l 25
+ 483 420 l 25
+ 560 420 l 25
+ 560 336 l 25
+ 469 336 l 25
+ 455 224 l 25
+ 532 224 l 25
+ 532 140 l 25
+ 441 140 l 25
+ 420 0 l 25
+ 322 0 l 25
+ 343 140 l 25
+ 231 140 l 25
+ 210 0 l 25
+ 112 0 l 25
+ 133 140 l 25
+ 56 140 l 25
+ 56 224 l 25
+ 147 224 l 25
+ 161 336 l 25
+ 84 336 l 25
+ 84 420 l 25
+ 175 420 l 25
+ 196 560 l 25
 EndSplineSet
 EndChar
 
@@ -252,12 +250,13 @@ StartChar: Y
 Encoding: 89 89 7
 Width: 588
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<245 343> 540 20G<70 191.697 396.303 518>
+VStem: 245 98<0 224>
 LayerCount: 2
 Fore
 SplineSet
-245 0 m 17
- 245 0 l 9
+245 0 m 25
  245 224 l 1
  70 560 l 9
  182 560 l 9
@@ -266,7 +265,7 @@ SplineSet
  518 560 l 9
  343 224 l 1
  343 0 l 17
- 245 0 l 17
+ 245 0 l 25
 EndSplineSet
 EndChar
 EndChars
