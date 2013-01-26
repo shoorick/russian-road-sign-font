@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359213430
+ModificationTime: 1359214497
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,10 +45,10 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 72 8 6
+WinInfo: 88 8 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 9
+BeginChars: 1114112 10
 
 StartChar: F
 Encoding: 70 70 0
@@ -274,7 +274,6 @@ StartChar: Z
 Encoding: 90 90 8
 Width: 560
 VWidth: 0
-Flags: H
 LayerCount: 2
 Fore
 SplineSet
@@ -289,6 +288,28 @@ SplineSet
  343 476 l 29
  91 91 l 29
  91 0 l 29
+EndSplineSet
+EndChar
+
+StartChar: z
+Encoding: 122 122 9
+Width: 490
+VWidth: 0
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+98 0 m 25
+ 385 0 l 25
+ 385 77 l 25
+ 203 77 l 25
+ 378 308 l 25
+ 378 392 l 25
+ 98 392 l 25
+ 98 315 l 25
+ 280 315 l 25
+ 98 77 l 25
+ 98 0 l 25
 EndSplineSet
 EndChar
 EndChars
