@@ -51,47 +51,47 @@ BeginChars: 1114112 2
 
 StartChar: F
 Encoding: 70 70 0
-Width: 752
+Width: 526
 VWidth: 0
 Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-140 0 m 29
- 280 0 l 29
- 280 340 l 29
- 570 340 l 29
- 570 460 l 29
- 280 460 l 29
- 280 670 l 29
- 650 670 l 29
- 650 800 l 29
- 140 800 l 29
- 140 0 l 29
+98 0 m 25
+ 196 0 l 25
+ 196 238 l 25
+ 399 238 l 25
+ 399 322 l 25
+ 196 322 l 25
+ 196 469 l 25
+ 455 469 l 25
+ 455 560 l 25
+ 98 560 l 25
+ 98 0 l 25
 EndSplineSet
 EndChar
 
 StartChar: E
 Encoding: 69 69 1
-Width: 768
+Width: 538
 VWidth: 0
 Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-140 0 m 25
- 650 0 l 21
- 650 120 l 1
- 280 120 l 1
- 280 360 l 9
- 570 360 l 25
- 570 480 l 25
- 280 480 l 25
- 280 670 l 25
- 640 670 l 25
- 640 800 l 25
- 140 800 l 25
- 140 0 l 25
+98 0 m 25
+ 455 0 l 21
+ 455 84 l 1
+ 196 84 l 1
+ 196 252 l 9
+ 399 252 l 25
+ 399 336 l 25
+ 196 336 l 25
+ 196 469 l 25
+ 448 469 l 25
+ 448 560 l 25
+ 98 560 l 25
+ 98 0 l 25
 EndSplineSet
 EndChar
 EndChars
