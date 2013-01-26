@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: russian-road-sign
+FontName: russian-road-sign-medium
 FullName: Russian Road Sign
 FamilyName: Russian Road Sign
 Weight: Medium
-Copyright: Created by Alexander Sapozhnikov with FontForge 2.0 (http://fontforge.sf.net)
+Copyright: CC-BY-SA. Based on standards GOST 10807-78 and GOST R 52290-22004. Digitized by Alexander Sapozhnikov http://shoorick.ru
 UComments: "2013-1-26: Created." 
 Version: 001.000
 ItalicAngle: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359199517
+ModificationTime: 1359204562
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,7 +35,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -45,29 +44,29 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 56 8 6
+WinInfo: 64 8 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 5
+BeginChars: 1114112 7
 
 StartChar: F
 Encoding: 70 70 0
 Width: 526
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 98 0 m 25
- 196 0 l 25
- 196 238 l 25
- 399 238 l 25
- 399 322 l 25
- 196 322 l 25
- 196 469 l 25
- 455 469 l 25
- 455 560 l 25
  98 560 l 25
+ 455 560 l 25
+ 455 469 l 25
+ 196 469 l 25
+ 196 322 l 25
+ 399 322 l 25
+ 399 238 l 25
+ 196 238 l 25
+ 196 0 l 25
  98 0 l 25
 EndSplineSet
 EndChar
@@ -76,32 +75,32 @@ StartChar: E
 Encoding: 69 69 1
 Width: 538
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 98 0 m 25
- 455 0 l 21
- 455 84 l 1
- 196 84 l 1
- 196 252 l 9
- 399 252 l 25
- 399 336 l 25
- 196 336 l 25
- 196 469 l 25
- 448 469 l 25
- 448 560 l 25
  98 560 l 25
+ 448 560 l 25
+ 448 469 l 25
+ 196 469 l 25
+ 196 336 l 25
+ 399 336 l 25
+ 399 252 l 25
+ 196 252 l 17
+ 196 84 l 1
+ 455 84 l 1
+ 455 0 l 9
  98 0 l 25
 EndSplineSet
 EndChar
 
 StartChar: H
 Encoding: 72 72 2
-Width: 750
+Width: 602
 VWidth: 0
 Flags: W
-HStem: 0 21G<98 196 406 504> 252 84<196 406>
+HStem: 0 21G<98 196 406 504> 252 84<196 406> 540 20G<98 196 406 504>
 VStem: 98 98<0 252 336 560> 406 98<0 252 336 560>
 LayerCount: 2
 Fore
@@ -131,19 +130,19 @@ HStem: 0 21G<70 181.25 434.75 546> 540 20G<245.5 370.5>
 LayerCount: 2
 Fore
 SplineSet
-252 560 m 29
- 364 560 l 29
- 546 0 l 29
- 441 0 l 29
- 406 112 l 5
- 210 112 l 5
- 175 0 l 29
- 70 0 l 29
- 252 560 l 29
-238 196 m 5
- 378 196 l 5
- 308 434 l 5
- 239 196 l 5
+238 196 m 1
+ 378 196 l 1
+ 308 434 l 1
+ 238 196 l 1
+252 560 m 25
+ 364 560 l 25
+ 546 0 l 25
+ 441 0 l 25
+ 406 112 l 1
+ 210 112 l 1
+ 175 0 l 25
+ 70 0 l 25
+ 252 560 l 25
 EndSplineSet
 EndChar
 
@@ -151,23 +150,95 @@ StartChar: X
 Encoding: 88 88 4
 Width: 586
 VWidth: 0
-Flags: HWO
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-189 560 m 5
- 280 385 l 29
- 371 560 l 5
- 496 560 l 5
- 336 294 l 29
- 510 0 l 5
- 392 0 l 5
- 280 203 l 29
- 168 0 l 5
- 50 0 l 5
- 224 294 l 29
- 64 560 l 5
- 189 560 l 5
+189 560 m 1
+ 280 385 l 25
+ 371 560 l 1
+ 496 560 l 1
+ 336 294 l 25
+ 510 0 l 1
+ 392 0 l 1
+ 280 203 l 25
+ 168 0 l 1
+ 50 0 l 1
+ 224 294 l 25
+ 64 560 l 1
+ 189 560 l 1
+EndSplineSet
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 5
+Width: 1000
+VWidth: 0
+HStem: 0 21G<201.737 282.519 373.474 461.026> 152 86<86 194 286 370> 158 80<86 143 468 538> 434 68<280 361.75 462 534> 442 72<88 125.8>
+VStem: 196 84<238 422 514 578.5> 206 62<534.5 678> 374 86<0 114 240 432> 374 78<510 595>
+LayerCount: 2
+Fore
+SplineSet
+280 432 m 25x85
+ 280 236 l 25
+ 378 232 l 25
+ 374 432 l 25
+ 280 432 l 25x85
+206 678 m 25xca
+ 268 680 l 25
+ 276 506 l 25
+ 374 510 l 25
+ 368 680 l 25
+ 440 678 l 25
+ 452 504 l 25xca80
+ 536 502 l 25
+ 534 434 l 25
+ 462 436 l 25
+ 466 240 l 25
+ 540 240 l 25
+ 538 162 l 25
+ 468 156 l 25
+ 460 0 l 25
+ 374 0 l 25
+ 370 152 l 25
+ 286 154 l 25
+ 282 0 l 25
+ 202 0 l 25
+ 200 152 l 25xd1
+ 86 158 l 25xa1
+ 86 238 l 25
+ 194 238 l 25
+ 196 422 l 25xc5
+ 88 442 l 25
+ 86 514 l 25
+ 198 514 l 25
+ 206 678 l 25xca
+EndSplineSet
+EndChar
+
+StartChar: W
+Encoding: 87 87 6
+Width: 812
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+189 560 m 25
+ 267 169 l 1
+ 273 169 l 1
+ 357 560 l 25
+ 455 560 l 25
+ 546 163 l 1
+ 623 560 l 25
+ 728 560 l 25
+ 609 0 l 25
+ 497 0 l 25
+ 406 369 l 1
+ 315 0 l 25
+ 203 0 l 25
+ 84 560 l 25
+ 189 560 l 25
 EndSplineSet
 EndChar
 EndChars
