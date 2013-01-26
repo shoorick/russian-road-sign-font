@@ -16,16 +16,17 @@ Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
 NeedsXUIDChange: 1
 XUID: [1021 632 699837233 8314019]
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359152898
+ModificationTime: 1359191704
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 90
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -34,7 +35,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -44,16 +44,16 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 17 17 7
+WinInfo: 0 15 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 2
+BeginChars: 1114112 3
 
 StartChar: F
 Encoding: 70 70 0
 Width: 526
 VWidth: 0
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -75,7 +75,7 @@ StartChar: E
 Encoding: 69 69 1
 Width: 538
 VWidth: 0
-Flags: HWO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -91,6 +91,32 @@ SplineSet
  448 469 l 25
  448 560 l 25
  98 560 l 25
+ 98 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: H
+Encoding: 72 72 2
+Width: 750
+VWidth: 0
+Flags: W
+HStem: 0 21G<98 196 406 504> 252 84<196 406>
+VStem: 98 98<0 252 336 560> 406 98<0 252 336 560>
+LayerCount: 2
+Fore
+SplineSet
+98 0 m 25
+ 98 560 l 25
+ 196 560 l 25
+ 196 336 l 25
+ 406 336 l 25
+ 406 560 l 25
+ 504 560 l 25
+ 504 0 l 25
+ 406 0 l 25
+ 406 252 l 25
+ 196 252 l 25
+ 196 0 l 25
  98 0 l 25
 EndSplineSet
 EndChar
