@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: russian-road-sign-medium
+FontName: russianroadsign-medium
 FullName: Russian Road Sign
 FamilyName: Russian Road Sign
 Weight: Medium
-Copyright: CC-BY-SA. Based on standards GOST 10807-78 and GOST R 52290-22004. Digitized by Alexander Sapozhnikov http://shoorick.ru
+Copyright: CC-BY-SA. Based on standards GOST 10807-78 and GOST R 52290-2004. Digitized by Alexander Sapozhnikov http://shoorick.ru
 UComments: "2013-1-26: Created." 
 Version: 001.000
 ItalicAngle: 0
@@ -14,14 +14,13 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 632 699837233 8314019]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359231024
+ModificationTime: 1359231297
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,10 +43,10 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 990 11 7
+WinInfo: 1023 11 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 25
+BeginChars: 1114112 26
 
 StartChar: F
 Encoding: 70 70 0
@@ -641,7 +640,9 @@ StartChar: hyphen
 Encoding: 45 45 23
 Width: 336
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 147 91<70 266>
+VStem: 70 196<147 238>
 LayerCount: 2
 Fore
 SplineSet
@@ -657,7 +658,9 @@ StartChar: afii10030
 Encoding: 1052 1052 24
 Width: 700
 VWidth: 0
-Flags: HWO
+Flags: W
+HStem: 0 21G<63 169.695 530.305 637> 540 20G<123.75 233.231 466.769 576.25>
+VStem: 63 105<0 62.2222> 532 105<0 62.2222>
 LayerCount: 2
 Fore
 SplineSet
@@ -674,6 +677,31 @@ SplineSet
  203 413 l 1
  168 0 l 1
  63 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10078
+Encoding: 1084 1084 25
+Width: 588
+VWidth: 0
+Flags: W
+HStem: 0 21G<77 162.538 425.462 511> 372 20G<110.214 206 382 477.786>
+LayerCount: 2
+Fore
+SplineSet
+77 0 m 1
+ 112 392 l 1
+ 196 392 l 1
+ 294 196 l 1
+ 392 392 l 1
+ 476 392 l 1
+ 511 0 l 1
+ 427 0 l 1
+ 406 273 l 1
+ 294 49 l 1
+ 182 273 l 1
+ 161 0 l 1
+ 77 0 l 1
 EndSplineSet
 EndChar
 EndChars
