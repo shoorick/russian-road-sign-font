@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359214497
+ModificationTime: 1359215568
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,7 +35,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -295,20 +294,21 @@ StartChar: z
 Encoding: 122 122 9
 Width: 490
 VWidth: 0
-Flags: HO
+Flags: H
+VStem: 98 287
 LayerCount: 2
 Fore
 SplineSet
 98 0 m 25
- 385 0 l 25
- 385 77 l 25
- 203 77 l 25
- 378 308 l 25
- 378 392 l 25
- 98 392 l 25
- 98 315 l 25
- 280 315 l 25
  98 77 l 25
+ 280 315 l 25
+ 98 315 l 25
+ 98 392 l 25
+ 378 392 l 25
+ 378 308 l 25
+ 203 77 l 25
+ 385 77 l 25
+ 385 0 l 25
  98 0 l 25
 EndSplineSet
 EndChar
