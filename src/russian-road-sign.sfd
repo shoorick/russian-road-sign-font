@@ -14,13 +14,14 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 632 699837233 8314019]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359231297
+ModificationTime: 1359273359
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,84 +44,84 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1023 11 7
+WinInfo: 33 11 7
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 26
 
 StartChar: F
 Encoding: 70 70 0
-Width: 526
+Width: 511
 VWidth: 0
 Flags: W
-HStem: 0 21G<98 196> 238 84<196 399> 469 91<196 455>
-VStem: 98 98<0 238 322 469>
+HStem: 0 21G<91 189> 238 84<189 392> 469 91<189 448>
+VStem: 91 98<0 238 322 469>
 LayerCount: 2
 Fore
 SplineSet
-98 0 m 25
- 98 560 l 25
- 455 560 l 25
- 455 469 l 25
- 196 469 l 25
- 196 322 l 25
- 399 322 l 25
- 399 238 l 25
- 196 238 l 25
- 196 0 l 25
- 98 0 l 25
+91 0 m 25
+ 91 560 l 25
+ 448 560 l 25
+ 448 469 l 25
+ 189 469 l 25
+ 189 322 l 25
+ 392 322 l 25
+ 392 238 l 25
+ 189 238 l 25
+ 189 0 l 25
+ 91 0 l 25
 EndSplineSet
 EndChar
 
 StartChar: E
 Encoding: 69 69 1
-Width: 538
+Width: 539
 VWidth: 0
 Flags: W
-HStem: 0 84<196 455> 252 84<196 399> 469 91<196 448>
-VStem: 98 98<84 252 336 469>
+HStem: 0 84<189 448> 252 84<189 392> 469 91<189 441>
+VStem: 91 98<84 252 336 469>
 LayerCount: 2
 Fore
 SplineSet
-98 0 m 25
- 98 560 l 25
- 448 560 l 25
- 448 469 l 25
- 196 469 l 25
- 196 336 l 25
- 399 336 l 25
- 399 252 l 25
- 196 252 l 17
- 196 84 l 1
- 455 84 l 1
- 455 0 l 9
- 98 0 l 25
+91 0 m 25
+ 91 560 l 25
+ 441 560 l 25
+ 441 469 l 25
+ 189 469 l 25
+ 189 336 l 25
+ 392 336 l 25
+ 392 252 l 25
+ 189 252 l 17
+ 189 84 l 1
+ 448 84 l 1
+ 448 0 l 9
+ 91 0 l 25
 EndSplineSet
 EndChar
 
 StartChar: H
 Encoding: 72 72 2
-Width: 602
+Width: 588
 VWidth: 0
 Flags: W
-HStem: 0 21G<98 196 406 504> 252 84<196 406> 540 20G<98 196 406 504>
-VStem: 98 98<0 252 336 560> 406 98<0 252 336 560>
+HStem: 0 21G<91 189 399 497> 252 84<189 399> 540 20G<91 189 399 497>
+VStem: 91 98<0 252 336 560> 399 98<0 252 336 560>
 LayerCount: 2
 Fore
 SplineSet
-98 0 m 25
- 98 560 l 25
- 196 560 l 25
- 196 336 l 25
- 406 336 l 25
- 406 560 l 25
- 504 560 l 25
- 504 0 l 25
- 406 0 l 25
- 406 252 l 25
- 196 252 l 25
- 196 0 l 25
- 98 0 l 25
+91 0 m 25
+ 91 560 l 25
+ 189 560 l 25
+ 189 336 l 25
+ 399 336 l 25
+ 399 560 l 25
+ 497 560 l 25
+ 497 0 l 25
+ 399 0 l 25
+ 399 252 l 25
+ 189 252 l 25
+ 189 0 l 25
+ 91 0 l 25
 EndSplineSet
 EndChar
 
@@ -151,25 +152,25 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 4
-Width: 561
+Width: 544
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-189 560 m 1
- 280 385 l 25
- 371 560 l 1
- 496 560 l 1
- 336 294 l 25
- 510 0 l 1
- 392 0 l 1
- 280 203 l 25
- 168 0 l 1
- 50 0 l 1
- 224 294 l 25
- 64 560 l 1
- 189 560 l 1
+181 560 m 1
+ 272 385 l 25
+ 363 560 l 1
+ 488 560 l 1
+ 328 294 l 25
+ 502 0 l 1
+ 384 0 l 1
+ 272 203 l 25
+ 160 0 l 1
+ 42 0 l 1
+ 216 294 l 25
+ 56 560 l 1
+ 181 560 l 1
 EndSplineSet
 EndChar
 
