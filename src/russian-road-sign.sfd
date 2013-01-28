@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359401313
+ModificationTime: 1359402760
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,7 +35,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -45,10 +44,10 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 33 11 7
+WinInfo: 44 11 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 32
+BeginChars: 1114112 33
 
 StartChar: F
 Encoding: 70 70 0
@@ -711,7 +710,9 @@ StartChar: P
 Encoding: 80 80 26
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<91 189> 196 84<189 325.057> 476 84<189 322.727>
+VStem: 91 98<0 196 280 476> 364 105<316.223 439.777>
 LayerCount: 2
 Fore
 SplineSet
@@ -736,7 +737,9 @@ StartChar: R
 Encoding: 82 82 27
 Width: 616
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<98 196 409.082 539> 224 84<196 312.563> 476 84<196 334.284>
+VStem: 98 98<0 224 308 476> 364 98<336.207 447.71>
 LayerCount: 2
 Fore
 SplineSet
@@ -765,7 +768,9 @@ StartChar: T
 Encoding: 84 84 28
 Width: 532
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<217 315> 476 84<63 217 315 469>
+VStem: 217 98<0 476>
 LayerCount: 2
 Fore
 SplineSet
@@ -785,7 +790,9 @@ StartChar: K
 Encoding: 75 75 29
 Width: 583
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<95 193 388.878 529> 540 20G<95 193 374.227 515>
+VStem: 95 98<0 560>
 LayerCount: 2
 Fore
 SplineSet
@@ -808,7 +815,9 @@ StartChar: L
 Encoding: 76 76 30
 Width: 504
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 84<189 441> 540 20G<91 189>
+VStem: 91 98<84 560>
 LayerCount: 2
 Fore
 SplineSet
@@ -826,7 +835,9 @@ StartChar: afii10049
 Encoding: 1071 1071 31
 Width: 588
 VWidth: 0
-Flags: HWO
+Flags: W
+HStem: 0 21G<42 175 399 497> 224 84<274.969 399> 476 84<245.984 399>
+VStem: 112 98<335.803 444.548> 399 98<0 224 308 476>
 LayerCount: 2
 Fore
 SplineSet
@@ -849,6 +860,25 @@ SplineSet
  210 332 259 308 315 308 c 2
  399 308 l 1
  399 476 l 1
+EndSplineSet
+EndChar
+
+StartChar: V
+Encoding: 86 86 32
+Width: 581
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+231 0 m 1
+ 70 560 l 1
+ 182 560 l 1
+ 294 140 l 1
+ 406 560 l 1
+ 511 560 l 1
+ 357 0 l 1
+ 231 0 l 1
 EndSplineSet
 EndChar
 EndChars
