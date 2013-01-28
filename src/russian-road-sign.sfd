@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359404330
+ModificationTime: 1359404442
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,10 +44,10 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 902 11 7
+WinInfo: 1012 11 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 50
+BeginChars: 1114112 52
 
 StartChar: F
 Encoding: 70 70 0
@@ -1092,6 +1092,26 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 36 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rho
+Encoding: 929 929 50
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 26 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10034
+Encoding: 1056 1056 51
+Width: 560
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 26 80 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
