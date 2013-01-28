@@ -9,17 +9,19 @@ Available glyphs
 
 GOST 10807-78 contains 420 glyphs. Font now (Jan 29, 2013) contains:
 
-* Digits and punctuation signs: 11 of 22 defined in GOST (50 %)
-* Latin alphabet: 21 of 94 (22 %)
-* Cyrillic alphabet: 3 (+10 references) of 163
+* Digits and punctuation signs: 12 of 22 defined in GOST (55 %)
+* Latin alphabet: 26 of 94 (28 %)
+* Cyrillic alphabet: 7 (+10 references) of 163
 * Armenian alphabet: 0 of 75
 * Georgian alphabet: 0 of 66
 
 Additional glyphs which not described by GOSTs:
 
-* Punctuation signs: 1
-* Greek: (+11)
+* Punctuation signs: 3
+* Latin alphabet: 1
+* Greek alphabet: (+11)
 
+Font contains all symbols (digits and letters AEHKMP) which used as numbers of russian roads.
 
 Author
 ------
@@ -48,19 +50,21 @@ _Same in Russian:_
 Доступные символы
 ----------------
 
-ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 27.01.2013):
+ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 29.01.2013):
 
-* Цифры и знаки пунктуации: 11 из 22, описанных в ГОСТ (50 %)
-* Латинский алфавит: 21 из 94 (22 %)
-* Кириллица: 3 (+10 ссылок) из 163
+* Цифры и знаки пунктуации: 12 из 22, описанных в ГОСТ (55 %)
+* Латинский алфавит: 26 из 94 (28 %)
+* Кириллица: 7 (+10 ссылок) из 163
 * Армянский алфавит: 0 из 75
 * Грузинский алфавит: 0 из 66
 
 Не определены в ГОСТ, но есть в шрифте:
 
-* Знаки пунктуации: 1
+* Знаки пунктуации: 3
+* Латинский алфавит: 1
 * Греческий алфавит: (+11)
 
+В шрифте представлены все цифры и буквы (АЕКМНР), используемые для нумерации российских автодорог.
 
 Проприетарный аналог
 --------------------
