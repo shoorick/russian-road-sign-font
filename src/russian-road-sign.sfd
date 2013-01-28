@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359402954
+ModificationTime: 1359403023
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,7 +47,7 @@ FitToEm: 1
 WinInfo: 44 11 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 35
+BeginChars: 1114112 36
 
 StartChar: F
 Encoding: 70 70 0
@@ -915,6 +915,30 @@ SplineSet
  294 59.8311 238 -14 140 -14 c 0
  105 -14 35 0 35 0 c 1
  42 98 l 1
+EndSplineSet
+EndChar
+
+StartChar: M
+Encoding: 77 77 35
+Width: 700
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 1
+ 84 560 l 1
+ 196 560 l 1
+ 350 301 l 1
+ 504 560 l 1
+ 616 560 l 1
+ 616 0 l 1
+ 525 0 l 1
+ 518 406 l 1
+ 350 112 l 1
+ 182 406 l 1
+ 182 0 l 1
+ 84 0 l 1
 EndSplineSet
 EndChar
 EndChars
