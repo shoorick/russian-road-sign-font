@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359409018
+ModificationTime: 1359409728
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,6 +35,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -44,10 +45,10 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 22 11 7
+WinInfo: 231 11 7
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 66
+BeginChars: 1114112 68
 
 StartChar: F
 Encoding: 70 70 0
@@ -1339,7 +1340,7 @@ StartChar: period
 Encoding: 46 46 65
 Width: 224
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1348,6 +1349,33 @@ SplineSet
  78.3281 -5 51 22.3281 51 56 c 0
  51 89.6719 78.3281 117 112 117 c 0
  145.672 117 173 89.6719 173 56 c 0
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 66
+Width: 224
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 65 46 N 1 0 0 1 0 0 2
+Refer: 65 46 S 1 0 0 1 0 280 2
+EndChar
+
+StartChar: dotlessi
+Encoding: 305 305 67
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 1
+ 84 392 l 1
+ 168 392 l 1
+ 168 0 l 1
+ 84 0 l 1
 EndSplineSet
 EndChar
 EndChars
