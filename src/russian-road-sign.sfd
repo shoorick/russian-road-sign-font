@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359491308
+ModificationTime: 1359491398
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -1510,7 +1510,7 @@ StartChar: afii10024
 Encoding: 1046 1046 72
 Width: 896
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1572,9 +1572,9 @@ EndChar
 
 StartChar: afii10020
 Encoding: 1043 1043 74
-Width: 1000
+Width: 497
 VWidth: 0
-Flags: HO
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
