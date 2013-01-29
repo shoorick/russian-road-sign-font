@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359492637
+ModificationTime: 1359492953
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 891 11 7
+WinInfo: 77 11 7
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 80
@@ -1443,12 +1443,12 @@ StartChar: i
 Encoding: 105 105 68
 Width: 252
 VWidth: 0
-Flags: W
+Flags: HWO
 HStem: 0 21<84 168> 372 20<84 168> 460 122<75.8809 168.119>
 VStem: 61 122<474.881 567.119> 84 84<0 392>
 LayerCount: 2
 Fore
-Refer: 69 775 S 1 0 0 1 234 65 2
+Refer: 69 775 S 1 0 0 1 238.029 65 2
 Refer: 67 305 N 1 0 0 1 0 0 2
 EndChar
 
