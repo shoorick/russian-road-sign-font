@@ -4,6 +4,8 @@ Russian road sign font
 Font which used for road signs in USSR and Russia.
 It described in soviet state standard GOST 10807-78 and in modern russian state standard GOST R 52290-2004.
 
+![Font sample](http://habrastorage.org/storage2/fb7/716/823/fb771682308a41efbfd9082e7633f7e2.png)
+
 Available glyphs
 ----------------
 
