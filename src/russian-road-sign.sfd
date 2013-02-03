@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359920495
+ModificationTime: 1359920673
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1156 17 10
+WinInfo: 1003 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 172
+BeginChars: 1114112 182
 
 StartChar: F
 Encoding: 70 70 0
@@ -3213,6 +3213,106 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 158 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 172
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 173
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 174
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 175
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: itilde
+Encoding: 297 297 176
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: imacron
+Encoding: 299 299 177
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ibreve
+Encoding: 301 301 178
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: iogonek
+Encoding: 303 303 179
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0209
+Encoding: 521 521 180
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020B
+Encoding: 523 523 181
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 305 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
