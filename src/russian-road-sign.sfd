@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359911869
+ModificationTime: 1359911953
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,10 +45,10 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1003 17 10
+WinInfo: 1020 17 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 118
+BeginChars: 1114112 119
 
 StartChar: F
 Encoding: 70 70 0
@@ -2453,7 +2453,7 @@ StartChar: afii10048
 Encoding: 1070 1070 117
 Width: 816
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2474,6 +2474,39 @@ SplineSet
  378 154 434 77 511 77 c 0
  588 77 644 154 644 280 c 0
  644 406 588 483 511 483 c 0
+EndSplineSet
+EndChar
+
+StartChar: afii10146
+Encoding: 1122 1122 118
+Width: 546
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+91 0 m 1
+ 91 419 l 1
+ 0 420 l 1
+ 0 504 l 1
+ 91 503 l 1
+ 91 560 l 1
+ 190 560 l 1
+ 189 504 l 1
+ 308 504 l 1
+ 308 420 l 1
+ 189 420 l 1
+ 189 336 l 1
+ 308 336 l 2
+ 448 336 490 238 490 168 c 0
+ 490 98 434 0 294 0 c 2
+ 91 0 l 1
+189 84 m 1
+ 287 84 l 2
+ 350 84 392 112 392 168 c 0
+ 392 224 350 252 287 252 c 2
+ 189 252 l 1
+ 189 84 l 1
 EndSplineSet
 EndChar
 EndChars
