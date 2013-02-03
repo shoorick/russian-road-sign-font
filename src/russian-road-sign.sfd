@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359925754
+ModificationTime: 1359925876
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 306 17 10
+WinInfo: 510 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 267
+BeginChars: 1114112 272
 
 StartChar: F
 Encoding: 70 70 0
@@ -4310,6 +4310,126 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 88 67 N -1 0 0 1 563 0 2
+EndChar
+
+StartChar: cacute
+Encoding: 263 263 267
+Width: 476
+VWidth: 0
+Flags: W
+HStem: -14 70<199.195 307.696> 336 70<199.195 307.696>
+VStem: 63 91<104.722 287.278>
+LayerCount: 2
+Fore
+SplineSet
+252 406 m 0
+ 330 406 393 362 420 287 c 1
+ 341 257 l 1
+ 326 308 294 336 252 336 c 0
+ 196 336 154 280 154 196 c 0
+ 154 112 196 56 252 56 c 0
+ 294 56 326 84 341 135 c 1
+ 420 105 l 1
+ 393 30 330 -14 252 -14 c 0
+ 147 -14 63 70 63 196 c 0
+ 63 322 147 406 252 406 c 0
+EndSplineSet
+EndChar
+
+StartChar: ccircumflex
+Encoding: 265 265 268
+Width: 476
+VWidth: 0
+Flags: W
+HStem: -14 70<199.195 307.696> 336 70<199.195 307.696>
+VStem: 63 91<104.722 287.278>
+LayerCount: 2
+Fore
+SplineSet
+252 406 m 0
+ 330 406 393 362 420 287 c 1
+ 341 257 l 1
+ 326 308 294 336 252 336 c 0
+ 196 336 154 280 154 196 c 0
+ 154 112 196 56 252 56 c 0
+ 294 56 326 84 341 135 c 1
+ 420 105 l 1
+ 393 30 330 -14 252 -14 c 0
+ 147 -14 63 70 63 196 c 0
+ 63 322 147 406 252 406 c 0
+EndSplineSet
+EndChar
+
+StartChar: cdotaccent
+Encoding: 267 267 269
+Width: 476
+VWidth: 0
+Flags: W
+HStem: -14 70<199.195 307.696> 336 70<199.195 307.696>
+VStem: 63 91<104.722 287.278>
+LayerCount: 2
+Fore
+SplineSet
+252 406 m 0
+ 330 406 393 362 420 287 c 1
+ 341 257 l 1
+ 326 308 294 336 252 336 c 0
+ 196 336 154 280 154 196 c 0
+ 154 112 196 56 252 56 c 0
+ 294 56 326 84 341 135 c 1
+ 420 105 l 1
+ 393 30 330 -14 252 -14 c 0
+ 147 -14 63 70 63 196 c 0
+ 63 322 147 406 252 406 c 0
+EndSplineSet
+EndChar
+
+StartChar: ccaron
+Encoding: 269 269 270
+Width: 476
+VWidth: 0
+Flags: W
+HStem: -14 70<199.195 307.696> 336 70<199.195 307.696>
+VStem: 63 91<104.722 287.278>
+LayerCount: 2
+Fore
+SplineSet
+252 406 m 0
+ 330 406 393 362 420 287 c 1
+ 341 257 l 1
+ 326 308 294 336 252 336 c 0
+ 196 336 154 280 154 196 c 0
+ 154 112 196 56 252 56 c 0
+ 294 56 326 84 341 135 c 1
+ 420 105 l 1
+ 393 30 330 -14 252 -14 c 0
+ 147 -14 63 70 63 196 c 0
+ 63 322 147 406 252 406 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0254
+Encoding: 596 596 271
+Width: 476
+VWidth: 0
+Flags: HWO
+HStem: -14 70<175.304 283.805> 336 70<175.304 283.805>
+VStem: 329 91<104.722 287.278>
+LayerCount: 2
+Fore
+SplineSet
+231 406 m 0
+ 153 406 90 362 63 287 c 1
+ 142 257 l 1
+ 157 308 189 336 231 336 c 0
+ 287 336 329 280 329 196 c 0
+ 329 112 287 56 231 56 c 0
+ 189 56 157 84 142 135 c 1
+ 63 105 l 1
+ 90 30 153 -14 231 -14 c 0
+ 336 -14 420 70 420 196 c 0
+ 420 322 336 406 231 406 c 0
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
