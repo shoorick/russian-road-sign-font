@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359924123
+ModificationTime: 1359924254
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 187 17 10
+WinInfo: 1326 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 209
+BeginChars: 1114112 222
 
 StartChar: F
 Encoding: 70 70 0
@@ -3726,6 +3726,136 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 209
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 210
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 211
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 212
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 213
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ohungarumlaut
+Encoding: 336 336 214
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Obreve
+Encoding: 334 334 215
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omacron
+Encoding: 332 332 216
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022A
+Encoding: 554 554 217
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022C
+Encoding: 556 556 218
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022E
+Encoding: 558 558 219
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0230
+Encoding: 560 560 220
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omicrontonos
+Encoding: 908 908 221
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 76 79 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
