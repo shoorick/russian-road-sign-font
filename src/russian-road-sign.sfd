@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359924254
+ModificationTime: 1359924323
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1326 17 10
+WinInfo: 0 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 222
+BeginChars: 1114112 232
 
 StartChar: F
 Encoding: 70 70 0
@@ -3856,6 +3856,106 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 76 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 222
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 223
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 224
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 225
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Utilde
+Encoding: 360 360 226
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Umacron
+Encoding: 362 362 227
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ubreve
+Encoding: 364 364 228
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uring
+Encoding: 366 366 229
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uhungarumlaut
+Encoding: 368 368 230
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uogonek
+Encoding: 370 370 231
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 93 85 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
