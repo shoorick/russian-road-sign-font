@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359924002
+ModificationTime: 1359924123
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1275 17 10
+WinInfo: 187 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 197
+BeginChars: 1114112 209
 
 StartChar: F
 Encoding: 70 70 0
@@ -3606,6 +3606,126 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 197
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 198
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 199
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 200
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Itilde
+Encoding: 296 296 201
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Imacron
+Encoding: 298 298 202
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ibreve
+Encoding: 300 300 203
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idotaccent
+Encoding: 304 304 204
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: IJ
+Encoding: 306 306 205
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CF
+Encoding: 463 463 206
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0208
+Encoding: 520 520 207
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020A
+Encoding: 522 522 208
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
