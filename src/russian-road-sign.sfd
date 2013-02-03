@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359924960
+ModificationTime: 1359925082
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 153 17 10
+WinInfo: 221 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
@@ -3690,11 +3690,12 @@ EndChar
 
 StartChar: IJ
 Encoding: 306 306 205
-Width: 280
+Width: 582
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
+Refer: 34 74 N 1 0 0 1 197 0 2
 Refer: 33 73 N 1 0 0 1 0 0 2
 EndChar
 
@@ -4203,7 +4204,7 @@ StartChar: ydieresis
 Encoding: 255 255 256
 Width: 490
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 121 168 S 1 0 0 1 34 0 2
