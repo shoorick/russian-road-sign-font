@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359924570
+ModificationTime: 1359924685
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 765 17 10
+WinInfo: 1224 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 243
+BeginChars: 1114112 255
 
 StartChar: F
 Encoding: 70 70 0
@@ -4066,6 +4066,126 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 100 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ograve
+Encoding: 242 242 243
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: oacute
+Encoding: 243 243 244
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ocircumflex
+Encoding: 244 244 245
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 246
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 247
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: omacron
+Encoding: 333 333 248
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: obreve
+Encoding: 335 335 249
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ohungarumlaut
+Encoding: 337 337 250
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022B
+Encoding: 555 555 251
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022D
+Encoding: 557 557 252
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022F
+Encoding: 559 559 253
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0231
+Encoding: 561 561 254
+Width: 504
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 101 111 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
