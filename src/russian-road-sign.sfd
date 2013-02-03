@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359923866
+ModificationTime: 1359924002
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 136 17 10
+WinInfo: 1275 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 183
+BeginChars: 1114112 197
 
 StartChar: F
 Encoding: 70 70 0
@@ -3230,7 +3230,7 @@ StartChar: adieresis
 Encoding: 228 228 163
 Width: 476
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: -14 70<176.13 267.824> 336 70<155.585 283.279>
 VStem: 70 91<71.2275 156.146> 308 84<91.8617 189 252 311.627>
 LayerCount: 2
@@ -3466,6 +3466,146 @@ VStem: 30 122<471.881 564.119> 140 84<0 392> 214 122<471.881 564.119>
 LayerCount: 2
 Fore
 Refer: 175 239 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 183
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 184
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 185
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 186
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 187
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 188
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Amacron
+Encoding: 256 256 189
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Abreve
+Encoding: 258 258 190
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01E0
+Encoding: 480 480 191
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01DE
+Encoding: 478 478 192
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CD
+Encoding: 461 461 193
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0200
+Encoding: 512 512 194
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0226
+Encoding: 550 550 195
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Alphatonos
+Encoding: 902 902 196
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
