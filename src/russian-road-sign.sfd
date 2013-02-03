@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359920994
+ModificationTime: 1359923866
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,6 +35,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0"  {"Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -45,7 +46,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 986 17 10
+WinInfo: 136 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
@@ -3122,7 +3123,7 @@ StartChar: afii10076
 Encoding: 1082 1082 157
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<91 175 324 455> 184 67<175.141 228.645> 329 70<366.108 394.1> 372 20G<91 175>
 VStem: 91 84<0 183.999 251 392>
 LayerCount: 2
@@ -3229,11 +3230,12 @@ StartChar: adieresis
 Encoding: 228 228 163
 Width: 476
 VWidth: 0
-Flags: W
+Flags: HWO
 HStem: -14 70<176.13 267.824> 336 70<155.585 283.279>
 VStem: 70 91<71.2275 156.146> 308 84<91.8617 189 252 311.627>
 LayerCount: 2
 Fore
+Refer: 121 168 S 1 0 0 1 36 0 2
 Refer: 158 97 N 1 0 0 1 0 0 2
 EndChar
 
@@ -3373,7 +3375,7 @@ StartChar: idieresis
 Encoding: 239 239 175
 Width: 366
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21<140 224> 372 20<140 224> 457 122<44.8809 137.119 228.881 321.119>
 VStem: 30 122<471.881 564.119> 140 84<0 392> 214 122<471.881 564.119>
 LayerCount: 2
