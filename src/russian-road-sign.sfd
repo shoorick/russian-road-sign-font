@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359914744
+ModificationTime: 1359915068
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1003 17 10
+WinInfo: 323 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 125
+BeginChars: 1114112 139
 
 StartChar: F
 Encoding: 70 70 0
@@ -2590,7 +2590,7 @@ StartChar: afii10071
 Encoding: 1105 1105 124
 Width: 504
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: -14 77<199.907 320.926> 168 70<161 342.999> 336 70<192.9 305.187>
 VStem: 68 93<102.002 168 238 304.155> 343 91<199.5 299.165>
 AnchorPoint: "FirstAnchor" 250 458 basechar 0
@@ -2615,6 +2615,146 @@ SplineSet
  434 189 425 168 413 168 c 2
 EndSplineSet
 Refer: 121 168 S 1 0 0 1 46 0 2
+EndChar
+
+StartChar: uni0400
+Encoding: 1024 1024 125
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10023
+Encoding: 1025 1025 126
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 127
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 128
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 129
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 130
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Emacron
+Encoding: 274 274 131
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ebreve
+Encoding: 276 276 132
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edotaccent
+Encoding: 278 278 133
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecaron
+Encoding: 282 282 134
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni018E
+Encoding: 398 398 135
+Width: 539
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 1 69 S -1 0 0 1 539 0 2
+EndChar
+
+StartChar: uni0204
+Encoding: 516 516 136
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0206
+Encoding: 518 518 137
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Epsilontonos
+Encoding: 904 904 138
+Width: 539
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1 69 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
