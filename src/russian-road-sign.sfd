@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359912803
+ModificationTime: 1359914272
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 260 0 0 "Mark to base attachment lookup 0"  {"Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
@@ -45,10 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 952 17 10
+WinInfo: 646 17 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 121
+AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
+BeginChars: 1114112 123
 
 StartChar: F
 Encoding: 70 70 0
@@ -2113,9 +2115,10 @@ StartChar: e
 Encoding: 101 101 100
 Width: 504
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: -14 77<199.907 320.926> 168 70<161 342.999> 336 70<192.9 305.187>
 VStem: 68 93<102.002 168 238 304.155> 343 91<199.5 299.165>
+AnchorPoint: "FirstAnchor" 250 458 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2543,11 +2546,33 @@ StartChar: afii10045
 Encoding: 1067 1067 120
 Width: 714
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 44 1030 N 1 0 0 1 434 0 2
 Refer: 116 1068 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dieresis
+Encoding: 168 168 121
+Width: 406
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 65 46 N 1 0 0 1 -224 462 2
+Refer: 65 46 N 1 0 0 1 -408 462 2
+EndChar
+
+StartChar: uni0308
+Encoding: 776 776 122
+Width: 0
+VWidth: 0
+Flags: HW
+AnchorPoint: "FirstAnchor" -204 469 basechar 0
+LayerCount: 2
+Fore
+Refer: 121 168 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
