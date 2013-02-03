@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359911953
+ModificationTime: 1359912395
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,7 +48,7 @@ FitToEm: 1
 WinInfo: 1020 17 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 119
+BeginChars: 1114112 120
 
 StartChar: F
 Encoding: 70 70 0
@@ -2315,8 +2315,37 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: afii10025
+Encoding: 1047 1047 112
+Width: 532
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+217 252 m 1
+ 217 336 l 1
+ 280 336 l 2
+ 336 336 357 385 357 406 c 0
+ 357 427 343 483 266 483 c 0
+ 168 483 126 429 126 429 c 1
+ 73 511 l 1
+ 73 511 154 574 266 574 c 0
+ 378 574 448 504 448 420 c 0
+ 448 315 350 294 350 294 c 1
+ 350 294 469 266 469 154 c 0
+ 469 84 392 -14 259 -14 c 0
+ 140 -14 49 63 49 63 c 1
+ 112 140 l 1
+ 112 140 161 77 266 77 c 0
+ 322 77 371 112 371 161 c 0
+ 371 217 329 252 280 252 c 2
+ 217 252 l 1
+EndSplineSet
+EndChar
+
 StartChar: afii10038
-Encoding: 1060 1060 112
+Encoding: 1060 1060 113
 Width: 700
 VWidth: 0
 Flags: HW
@@ -2349,7 +2378,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10041
-Encoding: 1063 1063 113
+Encoding: 1063 1063 114
 Width: 560
 VWidth: 0
 Flags: HW
@@ -2373,7 +2402,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10044
-Encoding: 1066 1066 114
+Encoding: 1066 1066 115
 Width: 616
 VWidth: 0
 Flags: HW
@@ -2400,7 +2429,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10046
-Encoding: 1068 1068 115
+Encoding: 1068 1068 116
 Width: 539
 VWidth: 0
 Flags: HW
@@ -2425,7 +2454,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10047
-Encoding: 1069 1069 116
+Encoding: 1069 1069 117
 Width: 560
 VWidth: 0
 Flags: HWO
@@ -2450,7 +2479,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10048
-Encoding: 1070 1070 117
+Encoding: 1070 1070 118
 Width: 816
 VWidth: 0
 Flags: HW
@@ -2478,7 +2507,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10146
-Encoding: 1122 1122 118
+Encoding: 1122 1122 119
 Width: 546
 VWidth: 0
 Flags: HWO
