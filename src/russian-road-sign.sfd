@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1359918891
+ModificationTime: 1359919166
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1054 17 10
+WinInfo: 1037 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 155
+BeginChars: 1114112 156
 
 StartChar: F
 Encoding: 70 70 0
@@ -2972,7 +2972,7 @@ StartChar: afii10088
 Encoding: 1094 1094 154
 Width: 504
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2989,6 +2989,26 @@ SplineSet
  392 0 l 1
  84 0 l 1
  84 392 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10084
+Encoding: 1090 1090 155
+Width: 419
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+50 392 m 1
+ 369 392 l 1
+ 369 315 l 1
+ 252 315 l 1
+ 252 0 l 1
+ 168 0 l 1
+ 168 315 l 1
+ 50 315 l 1
+ 50 392 l 1
 EndSplineSet
 EndChar
 EndChars
