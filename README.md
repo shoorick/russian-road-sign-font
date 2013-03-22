@@ -9,11 +9,11 @@ It described in soviet state standard GOST 10807-78 and in modern russian state 
 Available glyphs
 ----------------
 
-GOST 10807-78 contains 420 glyphs. Font now (Feb 1, 2013) contains:
+GOST 10807-78 contains 420 glyphs. Font now (Mar 22, 2013) contains:
 
 * Digits and punctuation signs: 12 of 22 defined in GOST (55 %)
 * Latin alphabet: 40 (+3 references) = 43 of 94 (46 %)
-* Cyrillic alphabet: 38 (+26) = 64 of 163 (39 %)
+* Cyrillic alphabet: 46 (+27) = 73 of 163 (45 %)
 * Armenian alphabet: 0 of 75
 * Georgian alphabet: 0 of 66
 
@@ -52,11 +52,11 @@ _Same in Russian:_
 Доступные символы
 ----------------
 
-ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 30.01.2013):
+ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 22.03.2013):
 
 * Цифры и знаки пунктуации: 12 из 22, описанных в ГОСТ (55 %)
 * Латинский алфавит: 40 (+3 ссылки) = 43 из 94 (46 %)
-* Кириллица: 38 (+26) = 64 из 163 (39 %)
+* Кириллица: 46 (+27) = 73 из 163 (45 %)
 * Армянский алфавит: 0 из 75
 * Грузинский алфавит: 0 из 66
 
