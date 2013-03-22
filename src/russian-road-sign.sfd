@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1363970270
+ModificationTime: 1363970469
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -50,7 +50,7 @@ WinInfo: 986 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 277
+BeginChars: 1114112 278
 
 StartChar: F
 Encoding: 70 70 0
@@ -4545,7 +4545,7 @@ StartChar: afii10066
 Encoding: 1073 1073 276
 Width: 511
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4566,6 +4566,35 @@ SplineSet
  168 91 224 56 259 56 c 0
  301 56 350 91 350 189 c 0
  350 287 301 322 259 322 c 0
+EndSplineSet
+EndChar
+
+StartChar: afii10069
+Encoding: 1076 1076 277
+Width: 497
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+133 392 m 1
+ 413 392 l 1
+ 413 77 l 1
+ 462 77 l 1
+ 462 -84 l 1
+ 385 -84 l 1
+ 385 0 l 1
+ 119 0 l 1
+ 119 -84 l 1
+ 35 -84 l 1
+ 35 77 l 1
+ 75 77 l 1
+ 110 158 133 252 133 392 c 1
+217 315 m 1
+ 210 237 201 145 166 77 c 1
+ 329 77 l 1
+ 329 315 l 1
+ 217 315 l 1
 EndSplineSet
 EndChar
 EndChars
