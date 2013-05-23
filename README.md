@@ -9,11 +9,11 @@ It described in soviet state standard GOST 10807-78 and in modern russian state 
 Available glyphs
 ----------------
 
-GOST 10807-78 contains 420 glyphs. Font now (Mar 22, 2013) contains:
+GOST 10807-78 contains 420 glyphs. Font now (May 23, 2013) contains:
 
-* Digits and punctuation signs: 12 of 22 defined in GOST (55 %)
+* Digits and punctuation signs: 15 of 22 defined in GOST (68 %)
 * Latin alphabet: 40 (+3 references) = 43 of 94 (46 %)
-* Cyrillic alphabet: 46 (+27) = 73 of 163 (45 %)
+* Cyrillic alphabet: 50 (+27) = 77 of 163 (47 %)
 * Armenian alphabet: 0 of 75
 * Georgian alphabet: 0 of 66
 
@@ -23,7 +23,7 @@ Additional glyphs which not described by GOST:
 * Latin alphabet and IPA: 4
 * Greek alphabet: (+17)
 
-Font contains all uppercase symbols of Russian and Basic Latin alphabets.
+Font contains all digits, uppercase symbols of Russian and Basic Latin alphabets, lowercase symbols from Russian alphabet.
 
 Author
 ------
@@ -52,11 +52,11 @@ _Same in Russian:_
 Доступные символы
 ----------------
 
-ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 22.03.2013):
+ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 23.05.2013):
 
-* Цифры и знаки пунктуации: 12 из 22, описанных в ГОСТ (55 %)
+* Цифры и знаки пунктуации: 15 из 22, описанных в ГОСТ (68 %)
 * Латинский алфавит: 40 (+3 ссылки) = 43 из 94 (46 %)
-* Кириллица: 46 (+27) = 73 из 163 (45 %)
+* Кириллица: 50 (+27) = 77 из 163 (47 %)
 * Армянский алфавит: 0 из 75
 * Грузинский алфавит: 0 из 66
 
@@ -66,7 +66,7 @@ _Same in Russian:_
 * Латинский алфавит и МФА: 4
 * Греческий алфавит: (+17)
 
-В шрифте представлены все цифры и заглавные буквы русского и основного латинского алфавитов.
+В шрифте представлены все цифры, заглавные буквы русского и основного латинского алфавитов, строчные буквы русского алфавита.
 
 Проприетарный аналог
 --------------------
