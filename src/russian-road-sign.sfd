@@ -35,7 +35,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0"  {"Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -4991,11 +4990,13 @@ StartChar: afii10075
 Encoding: 1081 1081 286
 Width: 504
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<84 187.105 336 420> 372 20G<84 168 316.895 420> 448 56<199.874 300.378> 540 20G<112 185.5 315 392>
+VStem: 84 84<126 392> 112 70<522.082 560> 336 84<0 266>
 LayerCount: 2
 Fore
 SplineSet
-84 392 m 1
+84 392 m 1xfa
  168 392 l 1
  168 126 l 1
  329 392 l 1
@@ -5005,14 +5006,14 @@ SplineSet
  336 266 l 1
  175 -0 l 1
  84 0 l 1
- 84 392 l 1
-112 560 m 1
+ 84 392 l 1xfa
+112 560 m 1xf6
  182 560 l 1
  189 525 217 504 252 504 c 0
  287 504 308 525 322 560 c 1
  392 560 l 1
  392 560 378 448 252 448 c 0
- 126 448 112 560 112 560 c 1
+ 126 448 112 560 112 560 c 1xf6
 EndSplineSet
 EndChar
 
@@ -5020,7 +5021,9 @@ StartChar: afii10110
 Encoding: 1118 1118 287
 Width: 448
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -168 77<101.639 158.934> 372 20G<42 147.027 302.054 406> 448 56<178.874 279.378> 540 20G<91 164.5 294 371>
+VStem: 91 70<522.082 560>
 LayerCount: 2
 Fore
 SplineSet
@@ -5050,7 +5053,10 @@ StartChar: afii10086
 Encoding: 1092 1092 288
 Width: 672
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -168 21G<294 378> -1 71<209.908 294 378 462.092> 322 71<210.373 294 378 461.627>
+VStem: 70 84<126.109 265.891> 294 84<-168 -1 70 322 393 546> 518 84<126.109 265.891>
+CounterMasks: 1 1c
 LayerCount: 2
 Fore
 SplineSet
@@ -5084,7 +5090,9 @@ StartChar: afii10097
 Encoding: 1103 1103 289
 Width: 490
 VWidth: 0
-Flags: HWO
+Flags: WO
+HStem: 0 21G<42 150 308 392> 159 65<219.594 307.581> 315 77<190.148 308>
+VStem: 91 91<232.799 307.248> 308 84<0 158.985 224 315>
 LayerCount: 2
 Fore
 SplineSet
@@ -5112,7 +5120,9 @@ StartChar: exclam
 Encoding: 33 33 290
 Width: 252
 VWidth: 0
-Flags: HWO
+Flags: WO
+HStem: -5 122<79.7704 172.23> 543 20G<101.5 150.5>
+VStem: 65 122<9.77037 102.23 260.217 550.83>
 LayerCount: 2
 Fore
 SplineSet
@@ -5134,7 +5144,9 @@ StartChar: quotesingle
 Encoding: 39 39 291
 Width: 245
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 334 112<76.9218 141.584>
+VStem: 142 38<305.159 338>
 LayerCount: 2
 Fore
 SplineSet
