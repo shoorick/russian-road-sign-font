@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1363972214
+ModificationTime: 1369326511
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,6 +35,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0"  {"Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -49,7 +50,7 @@ WinInfo: 1003 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 286
+BeginChars: 1114112 287
 
 StartChar: F
 Encoding: 70 70 0
@@ -4983,6 +4984,35 @@ SplineSet
  301 77 322 91 322 119 c 0xf4
  322 147 301 168 273 168 c 2
  168 168 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10075
+Encoding: 1081 1081 286
+Width: 504
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+84 392 m 1
+ 168 392 l 1
+ 168 126 l 1
+ 329 392 l 1
+ 420 392 l 1
+ 420 0 l 1
+ 336 0 l 1
+ 336 266 l 1
+ 175 -0 l 1
+ 84 0 l 1
+ 84 392 l 1
+112 560 m 1
+ 182 560 l 1
+ 189 525 217 504 252 504 c 0
+ 287 504 308 525 322 560 c 1
+ 392 560 l 1
+ 392 560 378 448 252 448 c 0
+ 126 448 112 560 112 560 c 1
 EndSplineSet
 EndChar
 EndChars
