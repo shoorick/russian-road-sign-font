@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509747167
+ModificationTime: 1509747871
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,11 +45,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 833 17 10
+WinInfo: 51 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 312
+BeginChars: 1114112 314
 
 StartChar: F
 Encoding: 70 70 0
@@ -5302,7 +5302,7 @@ StartChar: Delta
 Encoding: 916 916 301
 Width: 581
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5420,6 +5420,43 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 299 59 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 312
+Width: 392
+VWidth: 0
+Flags: W
+HStem: 372 20.25G<134.833 209.5 261.333 336>
+VStem: 48.5 287.5
+LayerCount: 2
+Fore
+SplineSet
+175 224 m 1
+ 273 392 l 1
+ 336 392 l 1
+ 238 224 l 1
+ 336 56 l 1
+ 273 56 l 1
+ 175 224 l 1
+48.5 224.25 m 1
+ 146.5 392.25 l 1
+ 209.5 392.25 l 1
+ 111.5 224.25 l 1
+ 209.5 56.25 l 1
+ 146.5 56.25 l 1
+ 48.5 224.25 l 1
+EndSplineSet
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 313
+Width: 392
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 312 171 S -1 0 0 1 392 0 2
 EndChar
 EndChars
 EndSplineFont
