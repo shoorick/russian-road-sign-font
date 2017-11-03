@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509746574
+ModificationTime: 1509747167
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,11 +45,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1003 17 10
+WinInfo: 833 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 304
+BeginChars: 1114112 312
 
 StartChar: F
 Encoding: 70 70 0
@@ -2853,10 +2853,11 @@ Encoding: 376 376 142
 Width: 588
 VWidth: 0
 Flags: W
-HStem: 0 21<245 343> 540 20<70 191.697 396.303 518>
-VStem: 245 98<0 224>
+HStem: 0 21<245 343> 540 20<70 191.697 396.303 518> 625 122<156.881 249.119 340.881 433.119>
+VStem: 142 122<639.881 732.119> 245 98<0 224> 326 122<639.881 732.119>
 LayerCount: 2
 Fore
+Refer: 122 776 S 1 0 0 1 92 168 2
 Refer: 7 89 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5339,6 +5340,86 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 275 1101 S -1 0 0 1 450 0 2
+EndChar
+
+StartChar: uni03F3
+Encoding: 1011 1011 304
+Width: 252
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 295 106 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03F5
+Encoding: 1013 1013 305
+Width: 450
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 303 1108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Phi
+Encoding: 934 934 306
+Width: 700
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 113 1060 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iotadieresis
+Encoding: 938 938 307
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 200 207 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Upsilondieresis
+Encoding: 939 939 308
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 142 376 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Etatonos
+Encoding: 905 905 309
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 41 919 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iotatonos
+Encoding: 906 906 310
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 43 921 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni037E
+Encoding: 894 894 311
+Width: 224
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 299 59 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
