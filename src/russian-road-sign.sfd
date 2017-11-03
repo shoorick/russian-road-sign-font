@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509745936
+ModificationTime: 1509746361
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,11 +45,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 238 17 10
+WinInfo: 816 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 301
+BeginChars: 1114112 302
 
 StartChar: F
 Encoding: 70 70 0
@@ -2708,7 +2708,7 @@ StartChar: Edieresis
 Encoding: 203 203 130
 Width: 539
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 84<189 448> 252 84<189 392> 469 91<189 441> 625 122<130.881 223.119 314.881 407.119>
 VStem: 91 98<84 252 336 469> 116 122<639.881 732.119> 300 122<639.881 732.119>
 LayerCount: 2
@@ -3516,7 +3516,7 @@ StartChar: Adieresis
 Encoding: 196 196 187
 Width: 616
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21<70 181.25 434.75 546> 540 20<245.5 370.5> 625 122<168.881 261.119 352.881 445.119>
 VStem: 154 122<639.881 732.119> 338 122<639.881 732.119>
 LayerCount: 2
@@ -3664,7 +3664,7 @@ StartChar: Idieresis
 Encoding: 207 207 200
 Width: 280
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21<91 189> 540 20<91 189> 625 122<1.8809 94.119 185.881 278.119>
 VStem: -13 122<639.881 732.119> 91 98<0 560> 171 122<639.881 732.119>
 LayerCount: 2
@@ -3822,7 +3822,7 @@ StartChar: Odieresis
 Encoding: 214 214 213
 Width: 588
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -14 91<231.397 356.603> 483 91<231.397 356.603> 625 122<154.881 247.119 338.881 431.119>
 VStem: 66 95<163.059 396.941> 140 122<639.881 732.119> 324 122<639.881 732.119> 427 95<163.059 396.941>
 LayerCount: 2
@@ -3967,7 +3967,7 @@ StartChar: Udieresis
 Encoding: 220 220 225
 Width: 588
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -7 77<229.375 358.625> 540 20<91 189 399 497> 625 122<157.881 250.119 341.881 434.119>
 VStem: 91 98<110.759 560> 143 122<639.881 732.119> 327 122<639.881 732.119> 399 98<110.759 560>
 LayerCount: 2
@@ -5295,6 +5295,30 @@ VStem: 65 122<8.16998 298.783 456.77 549.23>
 LayerCount: 2
 Fore
 Refer: 290 33 S 1 0 0 -1 0 559 2
+EndChar
+
+StartChar: Delta
+Encoding: 916 916 301
+Width: 581
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+231 560 m 1
+ 357 560 l 1
+ 511 0 l 1
+ 427 0 l 1
+ 406 0 l 1
+ 182 0 l 1
+ 168 0 l 1
+ 70 0 l 1
+ 231 560 l 1
+294 420 m 1
+ 204.4 84 l 1
+ 383.6 84 l 1
+ 294 420 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

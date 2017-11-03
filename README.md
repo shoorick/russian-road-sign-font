@@ -1,7 +1,7 @@
 Russian road sign font
 ======================
 
-Font which used for road signs in USSR and Russia.
+The Font which used for road signs in USSR and Russia.
 It was described in Soviet state standard GOST 10807-78 and in modern Russian state standard GOST R 52290-2004.
 
 ![Font sample](http://habrastorage.org/storage2/fb7/716/823/fb771682308a41efbfd9082e7633f7e2.png)
@@ -9,19 +9,19 @@ It was described in Soviet state standard GOST 10807-78 and in modern Russian st
 Available glyphs
 ----------------
 
-GOST 10807-78 contains 420 glyphs. Now (May 23, 2013) font contains:
+GOST 10807-78 contains 420 glyphs. Now (November 4, 2017) font contains:
 
 * Digits and punctuation signs: 15 of 22 defined in GOST (68 %)
-* Latin alphabet: 40 (+3 references) = 43 of 94 (46 %)
-* Cyrillic alphabet: 50 (+27) = 77 of 163 (47 %)
+* Latin alphabet: 41 (+3 references) = 44 of 94 (45 %)
+* Cyrillic alphabet: 50 (+28) = 78 of 163 (47 %)
 * ~~Armenian alphabet:~~ 0 of 75
 * ~~Georgian alphabet:~~ 0 of 66
 
 Additional glyphs which are not described by GOST:
 
-* Punctuation signs: 3
-* Latin alphabet and IPA: 4
-* Greek alphabet: (+17)
+* Punctuation signs: 4
+* Latin alphabet and IPA: 5
+* Greek alphabet: (+18)
 
 Font contains all digits, uppercase symbols of Russian and Basic Latin alphabets, lowercase symbols from Russian alphabet.
 
@@ -55,15 +55,15 @@ _Same in Russian:_
 ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 23.05.2013):
 
 * Цифры и знаки пунктуации: 15 из 22, описанных в ГОСТ (68 %)
-* Латинский алфавит: 40 (+3 ссылки) = 43 из 94 (46 %)
-* Кириллица: 50 (+27) = 77 из 163 (47 %)
+* Латинский алфавит: 41 (+3 ссылки) = 44 из 94 (47 %)
+* Кириллица: 50 (+28) = 78 из 163 (47 %)
 * ~~Армянский алфавит:~~ 0 из 75
 * ~~Грузинский алфавит:~~ 0 из 66
 
 Не определены в ГОСТ, но есть в шрифте:
 
-* Знаки пунктуации: 3
-* Латинский алфавит и МФА: 4
+* Знаки пунктуации: 4
+* Латинский алфавит и МФА: 5
 * Греческий алфавит: (+17)
 
 В шрифте представлены все цифры, заглавные буквы русского и основного латинского алфавитов, строчные буквы русского алфавита.
