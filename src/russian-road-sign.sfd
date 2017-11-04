@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509829618
+ModificationTime: 1509830271
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,11 +45,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8262 17 10
+WinInfo: 272 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 446
+BeginChars: 1114112 454
 
 StartChar: F
 Encoding: 70 70 0
@@ -7776,12 +7776,111 @@ StartChar: uni2078
 Encoding: 8312 8312 445
 Width: 420
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 266 63<148.685 271.315> 525 49<165.518 254.433>
 VStem: 63 84<336.068 383.523> 77 84<463 517.523> 259 84<462.94 517.587> 273 84<336.068 383.523>
 LayerCount: 2
 Fore
 Refer: 444 8328 S 1 0 0 1 0 280 2
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 446
+Width: 385
+VWidth: 0
+Flags: W
+HStem: -2 112<76.9218 141.584 216.922 281.584>
+VStem: 142 38<-30.841 2> 282 38<-30.841 2>
+LayerCount: 2
+Fore
+Refer: 291 39 S 1 0 0 1 140 -336 2
+Refer: 291 39 S 1 0 0 1 0 -336 2
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 447
+Width: 245
+VWidth: 0
+Flags: W
+HStem: 334 112<76.9218 141.584>
+VStem: 142 38<305.159 338>
+LayerCount: 2
+Fore
+Refer: 291 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 448
+Width: 385
+VWidth: 0
+Flags: W
+HStem: 334 112<76.9218 141.584 216.922 281.584>
+VStem: 142 38<305.159 338> 282 38<305.159 338>
+LayerCount: 2
+Fore
+Refer: 291 39 N 1 0 0 1 140 0 2
+Refer: 291 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 449
+Width: 245
+VWidth: 0
+Flags: W
+HStem: 334 112<103.416 168.078>
+VStem: 65 38<442 474.841>
+LayerCount: 2
+Fore
+Refer: 291 39 S -1 0 0 -1 245 780 2
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 450
+Width: 385
+VWidth: 0
+Flags: W
+HStem: 334 112<103.416 168.078 243.416 308.078>
+VStem: 65 38<442 474.841> 205 38<442 474.841>
+LayerCount: 2
+Fore
+Refer: 449 8216 N 1 0 0 1 140 0 2
+Refer: 449 8216 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 8218 8218 451
+Width: 245
+VWidth: 0
+Flags: W
+HStem: 0 112<76.9218 141.584>
+VStem: 142 38<-28.841 4>
+LayerCount: 2
+Fore
+Refer: 447 8217 S 1 0 0 1 0 -334 2
+EndChar
+
+StartChar: quotereversed
+Encoding: 8219 8219 452
+Width: 245
+VWidth: 0
+Flags: W
+HStem: 334 112<103.416 168.078>
+VStem: 65 38<305.159 338>
+LayerCount: 2
+Fore
+Refer: 447 8217 S -1 0 0 1 245 0 2
+EndChar
+
+StartChar: uni201F
+Encoding: 8223 8223 453
+Width: 385
+VWidth: 0
+Flags: W
+HStem: 334 112<103.416 168.078 243.416 308.078>
+VStem: 65 38<305.159 338> 205 38<305.159 338>
+LayerCount: 2
+Fore
+Refer: 448 8221 S -1 0 0 1 385 0 2
 EndChar
 EndChars
 EndSplineFont
