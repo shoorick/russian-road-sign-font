@@ -12,7 +12,7 @@ Available glyphs
 GOST 10807-78 contains 420 glyphs. Now (November 4, 2017) font contains:
 
 * Digits and punctuation signs: 22 of 22 defined in GOST
-* Latin alphabet: 44 (+3 references) = 47 of 94 (50 %)
+* Latin alphabet: 45 (+3 references) = 48 of 94 (51 %)
 * Cyrillic alphabet: 50 (+31) = 81 of 163 (49 %)
 * ~~Armenian alphabet:~~ 0 of 75
 * ~~Georgian alphabet:~~ 0 of 66
