@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509813299
+ModificationTime: 1509813707
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,11 +45,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 884 17 10
+WinInfo: 0 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 403
+BeginChars: 1114112 409
 
 StartChar: F
 Encoding: 70 70 0
@@ -7041,6 +7041,80 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 401 945 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: r
+Encoding: 114 114 403
+Width: 406
+VWidth: 0
+Flags: W
+HStem: 0 21G<84 168> 315 84<206.255 320.262> 372 20G<84 157.531>
+VStem: 84 84<0 283.854> 84 72<346.5 392>
+LayerCount: 2
+Fore
+SplineSet
+280 399 m 0xc8
+ 308.775 399 324.951 398.501 343 385 c 1
+ 315 301 l 1
+ 301 315 280 315 259 315 c 0
+ 218.855 315 189 294 168 252 c 1
+ 168 0 l 1
+ 84 0 l 1xd0
+ 84 392 l 1
+ 156 392 l 1xa8
+ 159.062 374.79 163.605 356.545 170 346 c 1
+ 170 346 210 399 280 399 c 0xc8
+EndSplineSet
+EndChar
+
+StartChar: racute
+Encoding: 341 341 404
+Width: 406
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 403 114 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: rcaron
+Encoding: 345 345 405
+Width: 406
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 403 114 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcaron
+Encoding: 344 344 406
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 27 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcommaaccent
+Encoding: 342 342 407
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 27 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Racute
+Encoding: 340 340 408
+Width: 616
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 27 82 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
