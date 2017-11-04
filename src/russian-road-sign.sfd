@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509805014
+ModificationTime: 1509809093
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,11 +45,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1088 17 10
+WinInfo: 170 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 349
+BeginChars: 1114112 355
 
 StartChar: F
 Encoding: 70 70 0
@@ -6352,7 +6352,9 @@ StartChar: h
 Encoding: 104 104 346
 Width: 469
 VWidth: 0
-Flags: HWO
+Flags: W
+HStem: 0 21G<91 175 329 413> 329 70<223.251 317.778> 540 20G<91 175>
+VStem: 91 84<0 285.153 336 560> 329 84<0 316.976>
 LayerCount: 2
 Fore
 SplineSet
@@ -6390,6 +6392,82 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 346 104 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: n
+Encoding: 110 110 349
+Width: 469
+VWidth: 0
+Flags: W
+HStem: 0 21G<91 175 329 413> 329 70<218.948 317.778> 372 20G<91 164.531>
+VStem: 91 84<0 285.153> 91 72<346.5 392> 329 84<0 316.976>
+LayerCount: 2
+Fore
+SplineSet
+294 399 m 0xcc
+ 371 399 413 350 413 280 c 2
+ 413 0 l 1
+ 329 0 l 1
+ 329 273 l 2
+ 329 294 315 329 273 329 c 0
+ 232.855 329 196 294 175 252 c 1
+ 175 0 l 1
+ 91 0 l 1xd4
+ 91 392 l 1
+ 163 392 l 1xac
+ 166.062 374.79 170.605 356.545 177 346 c 1
+ 177 346 224 399 294 399 c 0xcc
+EndSplineSet
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 350
+Width: 469
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 349 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nacute
+Encoding: 324 324 351
+Width: 469
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 349 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ncommaaccent
+Encoding: 326 326 352
+Width: 469
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 349 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ncaron
+Encoding: 328 328 353
+Width: 469
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 349 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: napostrophe
+Encoding: 329 329 354
+Width: 469
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 349 110 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
