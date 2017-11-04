@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509819633
+ModificationTime: 1509822450
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,11 +45,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 17 17 10
+WinInfo: 8279 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 420
+BeginChars: 1114112 429
 
 StartChar: F
 Encoding: 70 70 0
@@ -7266,6 +7266,163 @@ VStem: 91 87<257.143 320.423> 308 91<74.0469 146.494>
 LayerCount: 2
 Fore
 Refer: 412 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 420
+Width: 728
+VWidth: 0
+Flags: HW
+HStem: -84 28<280.16 447.84> 1 73<294.172 437.189> 374 73<291.849 427.791> 504 28<280.16 447.84>
+VStem: 56 28<140.16 307.84> 138 95<137.877 309.599> 644 28<140.16 307.84>
+LayerCount: 2
+Fore
+SplineSet
+362 447 m 0
+ 381 447 400 446 419 443 c 0
+ 485 433 543 387 570 327 c 1
+ 476 301 l 1
+ 465 328 448 349 419 364 c 1
+ 403 371 385 374 367 374 c 0
+ 335 374 304 364 280 343 c 0
+ 249 315 234 273 233 232 c 0
+ 231 189 243 143 274 111 c 0
+ 298 86 333 74 367 74 c 0
+ 375 74 381 75 389 76 c 5
+ 429 80 463 110 475 148 c 1
+ 568 119 l 1
+ 556 91 533 63 509 44 c 0
+ 469 13 417 1 367 1 c 0
+ 361 1 354 2 348 2 c 1
+ 293 4 237 22 198 62 c 0
+ 154 106 136 171 138 232 c 1
+ 139 290 160 349 202 389 c 0
+ 245 430 304 447 362 447 c 0
+364 532 m 0
+ 534 532 672 394 672 224 c 0
+ 672 54 534 -84 364 -84 c 0
+ 194 -84 56 54 56 224 c 0
+ 56 394 194 532 364 532 c 0
+364 504 m 0
+ 209 504 84 379 84 224 c 0
+ 84 69 209 -56 364 -56 c 0
+ 519 -56 644 69 644 224 c 0
+ 644 379 519 504 364 504 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2160
+Encoding: 8544 8544 421
+Width: 280
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2161
+Encoding: 8545 8545 422
+Width: 462
+VWidth: 0
+Flags: W
+HStem: 0 21<91 189 273 371> 540 20<91 189 273 371>
+VStem: 91 98<0 560> 273 98<0 560>
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 182 0 2
+Refer: 33 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2162
+Encoding: 8546 8546 423
+Width: 644
+VWidth: 0
+Flags: W
+HStem: 0 21<91 189 273 371 455 553> 540 20<91 189 273 371 455 553>
+VStem: 91 98<0 560> 273 98<0 560> 455 98<0 560>
+CounterMasks: 1 38
+LayerCount: 2
+Fore
+Refer: 33 73 N 1 0 0 1 0 0 2
+Refer: 33 73 N 1 0 0 1 364 0 2
+Refer: 33 73 N 1 0 0 1 182 0 2
+EndChar
+
+StartChar: uni2070
+Encoding: 8304 8304 424
+Width: 420
+VWidth: 0
+Flags: WO
+HStem: 266 63<167.5 252.5> 511 63<167.5 252.624>
+VStem: 63 84<349.459 490.541> 273 84<350.354 488.922>
+LayerCount: 2
+Fore
+Refer: 425 8320 S 1 0 0 1 0 280 2
+EndChar
+
+StartChar: uni2080
+Encoding: 8320 8320 425
+Width: 420
+VWidth: 0
+Flags: W
+HStem: -14 63<167.5 252.5> 231 63<167.5 252.624>
+VStem: 63 84<69.4594 210.541> 273 84<70.3544 208.922>
+LayerCount: 2
+Fore
+SplineSet
+210 294 m 0
+ 308 294 361 230 357 140 c 1
+ 357 56 308 -14 210 -14 c 0
+ 112 -14 63 56 63 140 c 0
+ 63 224 112 294 210 294 c 0
+210 231 m 0
+ 161 231 147 175 147 140 c 0
+ 147 105 161 49 210 49 c 0
+ 259 49 273 105 273 140 c 0
+ 273 175 259 231 210 231 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni2081
+Encoding: 8321 8321 426
+Width: 238
+VWidth: 0
+Flags: WO
+HStem: 0 280<98 175>
+VStem: 91 84<0 189>
+LayerCount: 2
+Fore
+SplineSet
+98 280 m 1
+ 175 280 l 1
+ 175 0 l 1
+ 91 0 l 1
+ 91 189 l 1
+ 28 161 l 1
+ 7 196 l 1
+ 98 280 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni2071
+Encoding: 8305 8305 427
+Width: 238
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni00B9
+Encoding: 185 185 428
+Width: 238
+VWidth: 0
+Flags: W
+HStem: 280 280<98 175>
+VStem: 91 84<280 469>
+LayerCount: 2
+Fore
+Refer: 426 8321 S 1 0 0 1 0 280 2
 EndChar
 EndChars
 EndSplineFont
