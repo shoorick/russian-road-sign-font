@@ -14,8 +14,8 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="o.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="c.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="168.26667"
-     inkscape:cy="445.42698"
+     inkscape:zoom="2"
+     inkscape:cx="209.04477"
+     inkscape:cy="340.0948"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-height="970"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,11 +82,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-52.362183)"
-     style="opacity:0.33000004;display:inline"
+     style="display:inline;opacity:0.33000004"
      sodipodi:insensitive="true">
+    <image
+       y="287.80734"
+       x="-16.5"
+       id="image4491"
+       xlink:href="file:///home/as/font/gost/glyphs/latin/small/c.png"
+       height="794.96387"
+       width="509.6579" />
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="-5.9505138"
        y="871.17053"
        id="text3143"
@@ -100,7 +107,7 @@
        id="text3147"
        y="731.17053"
        x="-5.9505138"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="731.17053"
          x="-5.9505138"
@@ -111,7 +118,7 @@
        id="text3151"
        y="591.17053"
        x="-5.9505138"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="591.17053"
          x="-5.9505138"
@@ -119,7 +126,7 @@
          sodipodi:role="line">10</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="-5.9505138"
        y="451.17053"
        id="text3155"
@@ -130,7 +137,7 @@
          y="451.17053">15</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="-5.9505138"
        y="311.17053"
        id="text3159"
@@ -171,13 +178,6 @@
        transform="translate(558,560)"
        width="1000"
        height="1000" />
-    <image
-       y="287.80734"
-       x="-16.5"
-       id="image4491"
-       xlink:href="file:///home/as/font/gost/glyphs/latin/small/c.png"
-       height="794.96387"
-       width="509.6579" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -185,7 +185,7 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="color:#000000;fill:#990000;stroke:none;stroke-width:1.79743396999999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#990000;stroke:none;stroke-width:1.79743397;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.8"
        d="m 252,394 c -105,0 -189,84 -189,210 0,126 84,210 189,210 78.00358,0 140.99174,-43.50259 168,-119 l -79,-30 c -14.61277,50.54298 -47.29956,79 -89,79 -56,0 -98,-56 -98,-140 0,-84 42,-140 98,-140 41.70044,0 74.38723,28.45702 89,79 l 79,-30 C 392.99174,437.50259 330.00358,394 252,394 z"
        id="path4407"
        inkscape:connector-curvature="0"
