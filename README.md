@@ -11,8 +11,8 @@ Available glyphs
 
 GOST 10807-78 contains 420 glyphs. Now (November 4, 2017) font contains:
 
-* Digits and punctuation signs: 19 of 22 defined in GOST (86 %)
-* Latin alphabet: 41 (+3 references) = 44 of 94 (47 %)
+* Digits and punctuation signs: 22 of 22 defined in GOST
+* Latin alphabet: 42 (+3 references) = 45 of 94 (48 %)
 * Cyrillic alphabet: 50 (+30) = 80 of 163 (49 %)
 * ~~Armenian alphabet:~~ 0 of 75
 * ~~Georgian alphabet:~~ 0 of 66
@@ -21,7 +21,7 @@ Additional glyphs which are not described by GOST:
 
 * Punctuation signs: 6
 * Latin alphabet and IPA: 5
-* Greek alphabet: (+18)
+* Greek alphabet: 1 (+19) = 20
 
 Font contains all digits, uppercase symbols of Russian and Basic Latin alphabets, lowercase symbols from Russian alphabet.
 
@@ -41,7 +41,7 @@ Proprietary analog
 * IndorSoftRoadSignLetters.ttf from [IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/) program.
 
 --------------------------------------------------
-_Same in Russian:_
+_The same in Russian:_
 
 Шрифт российских дорожных знаков
 ================================
@@ -52,10 +52,10 @@ _Same in Russian:_
 Доступные символы
 ----------------
 
-ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 23.05.2013):
+ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 04.11.2017):
 
-* Цифры и знаки пунктуации: 19 из 22, описанных в ГОСТ (86 %)
-* Латинский алфавит: 41 (+3 ссылки) = 44 из 94 (47 %)
+* Цифры и знаки пунктуации: 22 из 22, описанных в ГОСТ
+* Латинский алфавит: 42 (+3 ссылки) = 45 из 94 (48 %)
 * Кириллица: 50 (+30) = 80 из 163 (49 %)
 * ~~Армянский алфавит:~~ 0 из 75
 * ~~Грузинский алфавит:~~ 0 из 66
@@ -64,7 +64,7 @@ _Same in Russian:_
 
 * Знаки пунктуации: 6
 * Латинский алфавит и МФА: 5
-* Греческий алфавит: (+17)
+* Греческий алфавит: 1 (+19) = 20
 
 В шрифте представлены все цифры, заглавные буквы русского и основного латинского алфавитов, строчные буквы русского алфавита.
 
