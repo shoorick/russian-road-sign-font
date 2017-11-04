@@ -9,21 +9,23 @@ It was described in Soviet state standard GOST 10807-78 and in modern Russian st
 Available glyphs
 ----------------
 
-GOST 10807-78 contains 420 glyphs. Now (November 4, 2017) font contains:
+GOST 10807-78 contains 420 glyphs. By November 5, 2017 font contains:
 
 * Digits and punctuation signs: 22 of 22 defined in GOST
-* Latin alphabet: 45 (+3 references) = 48 of 94 (51 %)
-* Cyrillic alphabet: 50 (+31) = 81 of 163 (49 %)
+* Latin alphabet: 52 (+12 references) = 64 of 94 (68 %)
+* Cyrillic alphabet: 47 (+44) = 91 of 163 (55 %)
 * ~~Armenian alphabet:~~ 0 of 75
 * ~~Georgian alphabet:~~ 0 of 66
 
 Additional glyphs which are not described by GOST:
 
-* Punctuation signs: 6
-* Latin alphabet and IPA: 5
-* Greek alphabet: 1 (+19) = 20
+* Punctuation signs: 1 (+10) = 11
+* Latin alphabet and IPA: (+18)
+* Cyrillic alphabet: 2 (+6) = 8
+* Greek alphabet: 3 (+17) = 20
 
-Font contains all digits, uppercase symbols of Russian and Basic Latin alphabets, lowercase symbols from Russian alphabet.
+Font contains all digits (normal size, subscript, superscript),
+uppercase and lowercase symbols of Russian and Basic Latin alphabets.
 
 Author
 ------
@@ -52,21 +54,23 @@ _The same in Russian:_
 Доступные символы
 ----------------
 
-ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 04.11.2017):
+ГОСТ 10807-78 описывает 420 символов. Данный шрифт по состоянию на 05.11.2017 содержит:
 
 * Цифры и знаки пунктуации: 22 из 22, описанных в ГОСТ
-* Латинский алфавит: 44 (+3 ссылки) = 47 из 94 (50 %)
-* Кириллица: 50 (+31) = 81 из 163 (49 %)
+* Латинский алфавит: 52 (+12 ссылки) = 64 из 94 (68 %)
+* Кириллица: 47 (+44) = 91 из 163 (55 %)
 * ~~Армянский алфавит:~~ 0 из 75
 * ~~Грузинский алфавит:~~ 0 из 66
 
 Не определены в ГОСТ, но есть в шрифте:
 
-* Знаки пунктуации: 6
-* Латинский алфавит и МФА: 5
-* Греческий алфавит: 1 (+19) = 20
+* Знаки пунктуации: 1 (+10) = 11
+* Латинский алфавит и МФА: (+18)
+* Кириллица: 2 (+6) = 8
+* Греческий алфавит: 3 (+17) = 20
 
-В шрифте представлены все цифры, заглавные буквы русского и основного латинского алфавитов, строчные буквы русского алфавита.
+В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
+буквы русского и основного латинского алфавитов.
 
 Проприетарный аналог
 --------------------
