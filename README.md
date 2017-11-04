@@ -12,7 +12,7 @@ Available glyphs
 GOST 10807-78 contains 420 glyphs. Now (November 4, 2017) font contains:
 
 * Digits and punctuation signs: 22 of 22 defined in GOST
-* Latin alphabet: 42 (+3 references) = 45 of 94 (48 %)
+* Latin alphabet: 43 (+3 references) = 46 of 94 (48 %)
 * Cyrillic alphabet: 50 (+30) = 80 of 163 (49 %)
 * ~~Armenian alphabet:~~ 0 of 75
 * ~~Georgian alphabet:~~ 0 of 66
@@ -55,7 +55,7 @@ _The same in Russian:_
 ГОСТ 10807-78 описывает 420 символов. Данный шрифт содержит (по состоянию на 04.11.2017):
 
 * Цифры и знаки пунктуации: 22 из 22, описанных в ГОСТ
-* Латинский алфавит: 42 (+3 ссылки) = 45 из 94 (48 %)
+* Латинский алфавит: 43 (+3 ссылки) = 46 из 94 (48 %)
 * Кириллица: 50 (+30) = 80 из 163 (49 %)
 * ~~Армянский алфавит:~~ 0 из 75
 * ~~Грузинский алфавит:~~ 0 из 66
