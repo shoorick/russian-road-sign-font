@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="5.svg">
   <defs
      id="defs4" />
@@ -25,20 +25,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="126.03548"
-     inkscape:cy="602.26639"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="76.533073"
+     inkscape:cy="375.25222"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1280"
-     inkscape:window-height="732"
+     inkscape:window-height="970"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -82,8 +87,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-52.362183)"
-     style="opacity:0.33000004;display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.33000004">
     <image
        y="287.6163"
        x="-14.928568"
@@ -91,6 +95,61 @@
        xlink:href="file:///home/as/font/gost/glyphs/digit/5.png"
        height="794.81732"
        width="506.06168" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;opacity:1;fill:#800000;fill-opacity:1;stroke:none"
+       x="-14.420428"
+       y="867.24988"
+       id="text3143"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3145"
+         x="-14.420428"
+         y="867.24988">0</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3147"
+       y="727.24994"
+       x="-14.420428"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;opacity:1;fill:#800000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="727.24994"
+         x="-14.420428"
+         id="tspan3149"
+         sodipodi:role="line">5</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3151"
+       y="587.24994"
+       x="-14.420428"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;opacity:1;fill:#800000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="587.24994"
+         x="-14.420428"
+         id="tspan3153"
+         sodipodi:role="line">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;opacity:1;fill:#800000;fill-opacity:1;stroke:none"
+       x="-14.420428"
+       y="447.24991"
+       id="text3155"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3157"
+         x="-14.420428"
+         y="447.24991">15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;opacity:1;fill:#800000;fill-opacity:1;stroke:none"
+       x="-14.420428"
+       y="307.24991"
+       id="text3159"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3161"
+         x="-14.420428"
+         y="307.24991">20</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -98,7 +157,7 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       style="fill:#8b0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;opacity:0.8"
        d="m 371,331 28,-91 -322,0 0,273 63,35 c 14,-7 42,-42 84,-42 63,0 98,56 98,105 0,70 -70,105 -126,105 -46.01452,0 -99.37866,-5.01593 -133,-28 l 14,91 c 0,0 70,28 133,28 133,0 217,-91 217,-203 0,-112 -91,-175 -168,-175 -32.49957,0 -70,7 -91,35 l 0,-133 z"
        id="path3756"
        inkscape:connector-curvature="0"
