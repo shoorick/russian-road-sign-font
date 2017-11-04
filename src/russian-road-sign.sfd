@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509748893
+ModificationTime: 1509793001
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -44,11 +44,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 34 17 10
+WinInfo: 8092 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
-BeginChars: 1114112 316
+BeginChars: 1114112 322
 
 StartChar: F
 Encoding: 70 70 0
@@ -5548,6 +5548,103 @@ VStem: 77 98<87.5664 190.322> 219 122<452.067 553.933>
 LayerCount: 2
 Fore
 Refer: 314 63 S -1 0 0 -1 476 559 2
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 316
+Width: 329
+VWidth: 0
+Flags: W
+HStem: -84 84<168 252> 504 84<168 252>
+VStem: 77 175<-84 0 504 588> 77 91<0 504>
+LayerCount: 2
+Fore
+SplineSet
+77 -84 m 5xe0
+ 77 588 l 5
+ 252 588 l 1
+ 252 504 l 1xe0
+ 168 504 l 1
+ 168 0 l 1xd0
+ 252 0 l 1
+ 252 -84 l 1
+ 77 -84 l 5xe0
+EndSplineSet
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 317
+Width: 329
+VWidth: 0
+Flags: W
+HStem: -84 84<77 161> 504 84<77 161>
+VStem: 77 175<-84 0 504 588> 161 91<0 504>
+LayerCount: 2
+Fore
+Refer: 316 91 N -1 0 0 1 329 0 2
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 318
+Width: 364
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+287.5 538.9 m 26,0,0
+224 574 m 1,0,-1
+ 287 539 l 1,1,-1
+ 282 531.4 175.309 419.832 175 196 c 5,4,-1
+ 174.593 -28.1143 282.833 -141.667 287 -147 c 5,7,-1
+ 224 -182 l 1,8,-1
+ 219.833 -177.667 77.3676 -41.1419 77 196 c 1,11,-1
+ 77.2719 433.799 222.167 571.167 224 574 c 1,14,-1
+EndSplineSet
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 319
+Width: 364
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 318 40 S -1 0 0 1 364 0 2
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 320
+Width: 505
+VWidth: 0
+Flags: W
+HStem: 146 90<70 435>
+LayerCount: 2
+Fore
+SplineSet
+70 146 m 1
+ 70 236 l 1
+ 435 236 l 1
+ 435 146 l 1
+ 70 146 l 1
+EndSplineSet
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 321
+Width: 491
+VWidth: 0
+Flags: W
+HStem: 146 90<70 421>
+LayerCount: 2
+Fore
+SplineSet
+70 146 m 1
+ 70 236 l 1
+ 421 236 l 1
+ 421 146 l 1
+ 70 146 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
