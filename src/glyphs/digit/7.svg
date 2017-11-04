@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="7.svg">
   <defs
      id="defs4" />
@@ -25,20 +25,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="213.14684"
-     inkscape:cy="686.50363"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="506.40203"
+     inkscape:cy="497.59834"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1280"
-     inkscape:window-height="732"
+     inkscape:window-height="970"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -73,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -184,8 +188,8 @@
      id="layer3"
      inkscape:label="glyph">
     <path
-       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 49,331 21,-91 336,0 0,70 C 336,450 266,590 224,793 l -105,0 C 147,625 231,457 308,331 z"
+       style="fill:#8b0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.8"
+       d="m 49,331 21,-91 336,0 0,70 C 336,450 266,597 224,800 l -105,0 C 147,632 231,457 308,331 Z"
        id="path4191"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
