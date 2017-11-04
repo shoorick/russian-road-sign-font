@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1509823190
+ModificationTime: 1509823381
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,7 +45,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8279 17 10
+WinInfo: 1020 17 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor"  "Mark to base attachment lookup 0-1" 
@@ -714,25 +714,31 @@ Encoding: 80 80 26
 Width: 560
 VWidth: 0
 Flags: W
-HStem: 0 21G<91 189> 196 84<189 325.057> 476 84<189 322.727>
-VStem: 91 98<0 196 280 476> 364 105<316.223 439.777>
+HStem: 0 21G<91 189> 196 84<189 326.006> 476 84<189 326.006>
+VStem: 91 98<0 196 280 476> 364 98<316.654 439.346>
 LayerCount: 2
 Fore
 SplineSet
-91 560 m 1
- 280 560 l 2
- 420 560 469 448 469 378 c 0
- 469 308 392 196 280 196 c 2
- 189 196 l 1
- 189 0 l 1
- 91 0 l 1
- 91 560 l 1
-189 476 m 1
- 189 280 l 1
- 252 280 l 2
- 308 280 364 308 364 378 c 0
- 364 448 308 476 252 476 c 2
- 189 476 l 1
+90 -0 m 5,0,-1
+92 0 m 5,1,-1
+190 280 m 5,2,-1
+188 280 m 5,3,-1
+190 280 m 5,4,-1
+188 280 m 5,5,-1
+91 560 m 5,6,-1
+ 280 560 l 6,7,-1
+ 413 560 462 455 462 378 c 4,10,-1
+ 462 301 413 196 280 196 c 6,13,-1
+ 189 196 l 5,14,-1
+ 189 0 l 5,15,-1
+ 91 0 l 5,16,-1
+ 91 560 l 5,6,-1
+189 476 m 5,17,-1
+ 189 280 l 5,18,-1
+ 252 280 l 6,19,-1
+ 308 280 364 308 364 378 c 4,22,-1
+ 364 448 308 476 252 476 c 6,25,-1
+ 189 476 l 5,17,-1
 EndSplineSet
 EndChar
 
@@ -1135,8 +1141,8 @@ Encoding: 929 929 50
 Width: 560
 VWidth: 0
 Flags: W
-HStem: 0 21<91 189> 196 84<189 325.057> 476 84<189 322.727>
-VStem: 91 98<0 196 280 476> 364 105<316.223 439.777>
+HStem: 0 21<91 189> 196 84<189 326.006> 476 84<189 326.006>
+VStem: 91 98<0 196 280 476> 364 98<316.654 439.346>
 LayerCount: 2
 Fore
 Refer: 26 80 N 1 0 0 1 0 0 2
@@ -1146,9 +1152,9 @@ StartChar: afii10034
 Encoding: 1056 1056 51
 Width: 560
 VWidth: 0
-Flags: W
-HStem: 0 21<91 189> 196 84<189 325.057> 476 84<189 322.727>
-VStem: 91 98<0 196 280 476> 364 105<316.223 439.777>
+Flags: WO
+HStem: 0 21<91 189> 196 84<189 326.006> 476 84<189 326.006>
+VStem: 91 98<0 196 280 476> 364 98<316.654 439.346>
 LayerCount: 2
 Fore
 Refer: 26 80 N 1 0 0 1 0 0 2
