@@ -14,8 +14,8 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="empty-letter-grid.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="p.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,20 +25,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="267.52524"
-     inkscape:cy="405.10097"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="119.21172"
+     inkscape:cy="225.20045"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1280"
-     inkscape:window-height="732"
+     inkscape:window-height="970"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -184,10 +188,10 @@
      id="layer3"
      inkscape:label="glyph">
     <path
-       style="opacity:1;fill:#800000;stroke:none"
-       d="m 91,240 0,560 98,0 0,-196 91,0 C 392,604 469,492 469,422 469,352 420,240 280,240 z m 98,84 63,0 c 56,0 112,28 112,98 0,70 -56,98 -112,98 l -63,0 z"
+       style="opacity:0.8;fill:#800000;stroke:none"
+       d="m 91,240 0,560 98,0 0,-196 91,0 C 413,604 461.71429,499.71429 461.85714,422.35714 462,345 413,240 280,240 Z m 98,84 63,0 c 56,0 112,28 112,98 0,70 -56,98 -112,98 l -63,0 z"
        id="path4731"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccsssccssscc" />
+       sodipodi:nodetypes="ccccszsccssscc" />
   </g>
 </svg>
