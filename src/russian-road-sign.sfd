@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1517695788
+ModificationTime: 1517698342
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 832 26 10
+WinInfo: 286 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 492
+BeginChars: 1114112 503
 
 StartChar: F
 Encoding: 70 70 0
@@ -2931,13 +2931,13 @@ StartChar: uni0204
 Encoding: 516 516 136
 Width: 539
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 84<189 448> 252 84<189 392> 469 91<189 441>
 VStem: 91 98<84 252 336 469>
 LayerCount: 2
 Fore
-Refer: 1 69 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 492 783 N 1 0 0 1 65.5 193 2
+Refer: 1 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0206
@@ -3031,7 +3031,7 @@ StartChar: Upsilontonos
 Encoding: 910 910 143
 Width: 588
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: 0 21<245 343> 540 20<70 191.697 396.303 518>
 VStem: 245 98<0 224>
 LayerCount: 2
@@ -3673,13 +3673,13 @@ StartChar: uni0209
 Encoding: 521 521 180
 Width: 252
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<84 168> 372 20<84 168>
 VStem: 84 84<0 392>
 LayerCount: 2
 Fore
-Refer: 67 305 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 492 783 N 1 0 0 1 -74.5 25 2
+Refer: 67 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020B
@@ -3845,12 +3845,12 @@ StartChar: uni0200
 Encoding: 512 512 194
 Width: 616
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<70 181.25 434.75 546> 540 20<245.5 370.5>
 LayerCount: 2
 Fore
-Refer: 3 65 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 492 783 N 1 0 0 1 107.5 193 2
+Refer: 3 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0226
@@ -4014,13 +4014,13 @@ StartChar: uni0208
 Encoding: 520 520 207
 Width: 280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189> 540 20<91 189>
 VStem: 91 98<0 560>
 LayerCount: 2
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 492 783 N 1 0 0 1 -60.5 193 2
+Refer: 33 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020A
@@ -8512,14 +8512,15 @@ StartChar: uni030B
 Encoding: 779 779 454
 Width: 0
 VWidth: 0
-Flags: HW
-HStem: 609 147
+Flags: W
+HStem: 441 147
+VStem: -5 292
 LayerCount: 2
 Fore
 SplineSet
 56 588 m 1
  147 588 l 1
- 45.6328125 441 l 1
+ 46 441 l 1
  -5 441 l 1
  56 588 l 1
 196 588 m 1
@@ -8971,6 +8972,129 @@ LayerCount: 2
 Fore
 Refer: 490 900 N 1 0 0 1 106 25 2
 Refer: 108 959 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni030F
+Encoding: 783 783 492
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 441 147
+VStem: -5 292
+LayerCount: 2
+Fore
+Refer: 454 779 S -1 0 0 1 282 0 2
+EndChar
+
+StartChar: uni0205
+Encoding: 517 517 493
+Width: 504
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 N 1 0 0 1 51.5 25 2
+Refer: 100 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0201
+Encoding: 513 513 494
+Width: 476
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 N 1 0 0 1 23.5 25 2
+Refer: 158 97 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni020C
+Encoding: 524 524 495
+Width: 588
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 N 1 0 0 1 93.5 193 2
+Refer: 76 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni020D
+Encoding: 525 525 496
+Width: 504
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 N 1 0 0 1 51.5 25 2
+Refer: 101 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0210
+Encoding: 528 528 497
+Width: 616
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 S 1 0 0 1 98 193 2
+Refer: 27 82 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0211
+Encoding: 529 529 498
+Width: 406
+VWidth: 0
+Flags: HO
+LayerCount: 2
+Fore
+Refer: 492 783 S 1 0 0 1 55 25 2
+Refer: 403 114 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0214
+Encoding: 532 532 499
+Width: 588
+VWidth: 0
+HStem: -7 77<229.375 358.625> 540 20G<91 189 399 497> 634 147
+VStem: 88.5 292 91 98<110.759 560> 399 98<110.759 560>
+LayerCount: 2
+Fore
+Refer: 492 783 N 1 0 0 1 93.5 193 2
+Refer: 93 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0215
+Encoding: 533 533 500
+Width: 469
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 N 1 0 0 1 51.5 25 2
+Refer: 357 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0476
+Encoding: 1142 1142 501
+Width: 623
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 S 1 0 0 1 156 193 2
+Refer: 488 1140 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0477
+Encoding: 1143 1143 502
+Width: 490
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 492 783 N 1 0 0 1 58 25 2
+Refer: 489 1141 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
