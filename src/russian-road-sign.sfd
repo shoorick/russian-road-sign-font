@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1517699540
+ModificationTime: 1517699865
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 234 26 10
+WinInfo: 936 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 517
+BeginChars: 1114112 522
 
 StartChar: F
 Encoding: 70 70 0
@@ -2839,13 +2839,13 @@ StartChar: Ecircumflex
 Encoding: 202 202 129
 Width: 539
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 84<189 448> 252 84<189 392> 469 91<189 441>
 VStem: 91 98<84 252 336 469>
 LayerCount: 2
 Fore
-Refer: 1 69 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 60 186 2
+Refer: 1 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Edieresis
@@ -3004,13 +3004,13 @@ StartChar: Ycircumflex
 Encoding: 374 374 141
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<245 343> 540 20<70 191.697 396.303 518>
 VStem: 245 98<0 224>
 LayerCount: 2
 Fore
-Refer: 7 89 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 88 186 2
+Refer: 7 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ydieresis
@@ -3425,13 +3425,13 @@ StartChar: acircumflex
 Encoding: 226 226 161
 Width: 476
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 70<176.13 267.824> 336 70<155.585 283.279>
 VStem: 70 91<71.2275 156.146> 308 84<91.8617 189 252 311.627>
 LayerCount: 2
 Fore
-Refer: 158 97 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 18 18 2
+Refer: 158 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: atilde
@@ -3736,12 +3736,12 @@ StartChar: Acircumflex
 Encoding: 194 194 185
 Width: 616
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<70 181.25 434.75 546> 540 20<245.5 370.5>
 LayerCount: 2
 Fore
-Refer: 3 65 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 102 186 2
+Refer: 3 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Atilde
@@ -3882,39 +3882,39 @@ StartChar: Igrave
 Encoding: 204 204 197
 Width: 280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189> 540 20<91 189>
 VStem: 91 98<0 560>
 LayerCount: 2
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 471 715 N 1 0 0 1 8.5 193 2
+Refer: 33 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Iacute
 Encoding: 205 205 198
 Width: 280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189> 540 20<91 189>
 VStem: 91 98<0 560>
 LayerCount: 2
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 472 714 N 1 0 0 1 119.5 193 2
+Refer: 33 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Icircumflex
 Encoding: 206 206 199
 Width: 280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189> 540 20<91 189>
 VStem: 91 98<0 560>
 LayerCount: 2
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 -66 186 2
+Refer: 33 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Idieresis
@@ -4066,13 +4066,13 @@ StartChar: Ocircumflex
 Encoding: 212 212 211
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 91<231.397 356.603> 483 91<231.397 356.603>
 VStem: 66 95<163.059 396.941> 427 95<163.059 396.941>
 LayerCount: 2
 Fore
-Refer: 76 79 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 88 186 2
+Refer: 76 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Otilde
@@ -4236,13 +4236,13 @@ StartChar: Ucircumflex
 Encoding: 219 219 224
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 77<229.375 358.625> 540 20<91 189 399 497>
 VStem: 91 98<110.759 560> 399 98<110.759 560>
 LayerCount: 2
 Fore
-Refer: 93 85 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 88 186 2
+Refer: 93 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Udieresis
@@ -4419,13 +4419,13 @@ StartChar: ecircumflex
 Encoding: 234 234 238
 Width: 504
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 77<200.02 320.926> 168 70<161 342.999> 336 70<191.679 305.613>
 VStem: 68 93<102.002 168 238 305.22> 343 91<199.5 298.871>
 LayerCount: 2
 Fore
-Refer: 100 101 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 46 18 2
+Refer: 100 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: emacron
@@ -4511,13 +4511,13 @@ StartChar: ocircumflex
 Encoding: 244 244 245
 Width: 504
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 70<199.469 304.531> 336 70<199.469 304.531>
 VStem: 70 84<104.722 287.278> 350 84<104.722 287.278>
 LayerCount: 2
 Fore
-Refer: 101 111 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 46 18 2
+Refer: 101 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: otilde
@@ -4669,12 +4669,12 @@ StartChar: ycircumflex
 Encoding: 375 375 257
 Width: 490
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -168 75.64<81.6584 158.973> 372 20<56 161.119 308.475 413>
 LayerCount: 2
 Fore
-Refer: 10 121 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 28.5 18 2
+Refer: 10 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni028E
@@ -4745,13 +4745,13 @@ StartChar: Ccircumflex
 Encoding: 264 264 263
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 91<231.397 357.981> 483 91<231.397 357.981>
 VStem: 66 95<162.98 397.02>
 LayerCount: 2
 Fore
-Refer: 88 67 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 88 186 2
+Refer: 88 67 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Cdotaccent
@@ -4810,25 +4810,13 @@ StartChar: ccircumflex
 Encoding: 265 265 268
 Width: 476
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 70<199.195 307.696> 336 70<199.195 307.696>
 VStem: 63 91<104.722 287.278>
 LayerCount: 2
 Fore
-SplineSet
-252 406 m 0
- 330 406 393 362 420 287 c 1
- 341 257 l 1
- 326 308 294 336 252 336 c 0
- 196 336 154 280 154 196 c 0
- 154 112 196 56 252 56 c 0
- 294 56 326 84 341 135 c 1
- 420 105 l 1
- 393 30 330 -14 252 -14 c 0
- 147 -14 63 70 63 196 c 0
- 63 322 147 406 252 406 c 0
-EndSplineSet
-Validated: 1
+Refer: 517 770 N 1 0 0 1 46 18 2
+Refer: 99 99 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: cdotaccent
@@ -5542,13 +5530,13 @@ StartChar: jcircumflex
 Encoding: 309 309 294
 Width: 252
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -167.852 80.7072<3.77816 98.1943> 372 20G<84 168>
 VStem: 84 84<-84.2206 392>
 LayerCount: 2
 Fore
-Refer: 293 567 S 1 0 0 1 0 0 2
-Validated: 5
+Refer: 517 770 N 1 0 0 1 -80 18 2
+Refer: 293 567 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: j
@@ -6693,13 +6681,13 @@ StartChar: gcircumflex
 Encoding: 285 285 341
 Width: 483
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -179 71<138.333 307.871> -14 70<192.569 302.285> 329 77<188.999 303.589> 372 20<355.469 427>
 VStem: 56 84<114.844 277.673> 343 84<-74.5715 42 98.017 290.804> 357 70<350.497 392>
 LayerCount: 2
 Fore
-Refer: 340 103 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 39 18 2
+Refer: 340 103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: gbreve
@@ -6989,13 +6977,13 @@ StartChar: ucircumflex
 Encoding: 251 251 360
 Width: 469
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 70<186.222 285.052> 0 20<339.469 413> 371 21<91 175 329 413>
 VStem: 91 84<75.0244 392> 329 84<106.847 392> 341 72<0 45.5001>
 LayerCount: 2
 Fore
-Refer: 357 117 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 46 18 2
+Refer: 357 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: udieresis
@@ -7339,12 +7327,12 @@ StartChar: wcircumflex
 Encoding: 373 373 387
 Width: 679
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<169.286 278 394 503.071> 372 20<63 162.338 289.038 389.962 516.662 616>
 LayerCount: 2
 Fore
-Refer: 64 119 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 133.5 18 2
+Refer: 64 119 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: afii10109
@@ -7778,8 +7766,8 @@ HStem: -14 70<173.935 290.619> 336 70<191.322 315.45>
 VStem: 91 87<257.187 320.398> 308 91<74.0469 146.501>
 LayerCount: 2
 Fore
-Refer: 412 115 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 39 18 2
+Refer: 412 115 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: scaron
@@ -7812,13 +7800,13 @@ StartChar: Scircumflex
 Encoding: 348 348 417
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 91<214.881 386.465> 483 91<249.671 405.56>
 VStem: 119 98<361.096 451.521> 420.462 104.538<111.504 208.663>
 LayerCount: 2
 Fore
-Refer: 92 83 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 116 186 2
+Refer: 92 83 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Scaron
@@ -9111,7 +9099,8 @@ StartChar: uni030C
 Encoding: 780 780 505
 Width: 0
 VWidth: 0
-Flags: HO
+HStem: 448 168
+VStem: 50 312
 LayerCount: 2
 Fore
 SplineSet
@@ -9245,6 +9234,61 @@ LayerCount: 2
 Fore
 Refer: 472 714 N 1 0 0 1 287.5 193 2
 Refer: 90 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0302
+Encoding: 770 770 517
+Width: 0
+VWidth: 0
+Flags: HW
+HStem: 448 168
+VStem: 50 312
+LayerCount: 2
+Fore
+Refer: 505 780 S -1 0 0 -1 412 1064 2
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 518
+Width: 452
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 517 770 N 1 0 0 1 20 0 2
+EndChar
+
+StartChar: Gcircumflex
+Encoding: 284 284 519
+Width: 588
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 517 770 N 1 0 0 1 102 186 2
+Refer: 90 71 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Jcircumflex
+Encoding: 308 308 520
+Width: 392
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 517 770 N 1 0 0 1 39 186 2
+Refer: 34 74 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Wcircumflex
+Encoding: 372 372 521
+Width: 812
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 517 770 N 1 0 0 1 200 186 2
+Refer: 6 87 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
