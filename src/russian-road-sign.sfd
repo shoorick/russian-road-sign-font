@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1517695420
+ModificationTime: 1517695788
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 936 26 10
+WinInfo: 832 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 490
+BeginChars: 1114112 492
 
 StartChar: F
 Encoding: 70 70 0
@@ -2957,13 +2957,13 @@ StartChar: Epsilontonos
 Encoding: 904 904 138
 Width: 539
 VWidth: 0
-Flags: W
-HStem: 0 84<189 448> 252 84<189 392> 469 91<189 441>
-VStem: 91 98<84 252 336 469>
+Flags: HW
+HStem: -100 84<-11 248> 152 84<-11 192> 369 91<-11 241>
+VStem: -109 98<-16 152 236 369>
 LayerCount: 2
 Fore
-Refer: 1 69 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 490 900 S 1 0 0 1 -60 93 2
+Refer: 39 917 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Lambda
@@ -3031,13 +3031,13 @@ StartChar: Upsilontonos
 Encoding: 910 910 143
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HWO
 HStem: 0 21<245 343> 540 20<70 191.697 396.303 518>
 VStem: 245 98<0 224>
 LayerCount: 2
 Fore
-Refer: 7 89 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 490 900 N 1 0 0 1 -70 93 2
+Refer: 144 933 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Upsilon
@@ -3870,11 +3870,12 @@ Encoding: 902 902 196
 Width: 616
 VWidth: 0
 Flags: W
-HStem: 0 21<70 181.25 434.75 546> 540 20<245.5 370.5>
+HStem: 0 21<70 181.25 434.75 546> 534 147 540 20<245.5 370.5>
+VStem: 113 162
 LayerCount: 2
 Fore
-Refer: 3 65 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 490 900 S 1 0 0 1 48 93 2
+Refer: 37 913 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Igrave
@@ -4196,13 +4197,13 @@ StartChar: Omicrontonos
 Encoding: 908 908 221
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 91<231.397 356.603> 483 91<231.397 356.603>
 VStem: 66 95<163.059 396.941> 427 95<163.059 396.941>
 LayerCount: 2
 Fore
-Refer: 76 79 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 490 900 S 1 0 0 1 -32 93 2
+Refer: 77 927 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ugrave
@@ -5767,26 +5768,26 @@ StartChar: Etatonos
 Encoding: 905 905 309
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189 399 497> 252 84<189 399> 540 20<91 189 399 497>
 VStem: 91 98<0 252 336 560> 399 98<0 252 336 560>
 LayerCount: 2
 Fore
-Refer: 41 919 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 490 900 S 1 0 0 1 -60 93 2
+Refer: 41 919 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Iotatonos
 Encoding: 906 906 310
 Width: 280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189> 540 20<91 189>
 VStem: 91 98<0 560>
 LayerCount: 2
 Fore
-Refer: 43 921 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 490 900 S 1 0 0 1 -60 93 2
+Refer: 43 921 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni037E
@@ -7582,13 +7583,13 @@ StartChar: alphatonos
 Encoding: 940 940 402
 Width: 483
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 70<192.569 302.285> 0 21<343 427> 329 77<188.999 303.589> 372 20<355.469 427>
 VStem: 56 84<114.844 277.673> 343 84<0 42 98.017 290.804> 357 70<350.497 392>
 LayerCount: 2
 Fore
-Refer: 401 945 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 490 900 N 1 0 0 1 99 25 2
+Refer: 401 945 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: r
@@ -8931,7 +8932,7 @@ StartChar: afii10196
 Encoding: 1141 1141 489
 Width: 490
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<168.571 279.336> 329 70<382.754 429.1> 372 20G<49 148.934>
 LayerCount: 2
 Fore
@@ -8947,6 +8948,29 @@ SplineSet
  272 280 l 2
  287.470412833 331.890343045 333.058547974 391.666656494 427 399 c 5xc0
 EndSplineSet
+EndChar
+
+StartChar: tonos
+Encoding: 900 900 490
+Width: 292
+VWidth: 0
+Flags: W
+HStem: 441 147
+VStem: 65 162
+LayerCount: 2
+Fore
+Refer: 473 180 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: omicrontonos
+Encoding: 972 972 491
+Width: 504
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 490 900 N 1 0 0 1 106 25 2
+Refer: 108 959 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
