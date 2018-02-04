@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1517768788
+ModificationTime: 1517769665
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1118 26 10
+WinInfo: 1066 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 569
+BeginChars: 1114112 572
 
 StartChar: F
 Encoding: 70 70 0
@@ -188,7 +188,7 @@ StartChar: numbersign
 Encoding: 35 35 5
 Width: 694
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<112 213 322 423> 140 84<56 133 245 343 455 532> 336 84<84 161 273 371 483 560> 540 20G<193 294 403 504>
 VStem: 112 98<0 46.6667> 322 98<0 46.6667>
 LayerCount: 2
@@ -10605,6 +10605,56 @@ VStem: 105 84<80.373 140 203 300.138> 336 91<235.854 320.772>
 LayerCount: 2
 Fore
 Refer: 158 97 S -1 0 0 -1 497 392 2
+EndChar
+
+StartChar: uni04E8
+Encoding: 1256 1256 569
+Width: 588
+VWidth: 0
+Flags: W
+HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.554>
+VStem: 66 96<159.405 252 322 400.615> 426 96<159.405 252 322 400.615>
+LayerCount: 2
+Fore
+SplineSet
+294 574 m 0
+ 446.173370275 574 522 445.699970118 522 280 c 4
+ 522 118 448 -14 294 -14 c 0
+ 140 -14 66 118 66 280 c 0
+ 66 442 140 574 294 574 c 0
+294 483 m 0
+ 226 483 174 423 163 322 c 1
+ 425 322 l 1
+ 414 423 362 483 294 483 c 0
+162 252 m 1
+ 170 143 223 77 294 77 c 0
+ 365 77 418 143 426 252 c 1
+ 162 252 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni04EA
+Encoding: 1258 1258 570
+Width: 588
+VWidth: 0
+HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.554> 634 122<155.881 248.119 339.881 432.119>
+VStem: 66 96<159.405 252 322 400.615> 141 122<648.881 741.119> 325 122<648.881 741.119> 426 96<159.405 252 322 400.615>
+LayerCount: 2
+Fore
+Refer: 121 168 N 1 0 0 1 91 177 2
+Refer: 569 1256 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10147
+Encoding: 1138 1138 571
+Width: 588
+VWidth: 0
+Flags: W
+HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.554>
+VStem: 66 96<159.405 252 322 400.615> 426 96<159.405 252 322 400.615>
+LayerCount: 2
+Fore
+Refer: 569 1256 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
