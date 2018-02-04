@@ -16,12 +16,13 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 632 699837233 8314019]
+StyleMap: 0x0000
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1517742799
+ModificationTime: 1517757865
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -50,7 +50,7 @@ WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 534
+BeginChars: 1114112 535
 
 StartChar: F
 Encoding: 70 70 0
@@ -3595,12 +3595,12 @@ Encoding: 238 238 174
 Width: 252
 VWidth: 0
 Flags: W
-HStem: 0 21<84 168> 372 20<84 168>
-VStem: 84 84<0 392>
+HStem: 0 21G<84 168> 372 20G<84 168> 466 168
+VStem: -30 312 84 84<0 392>
 LayerCount: 2
 Fore
-Refer: 67 305 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 -80 18 2
+Refer: 67 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: idieresis
@@ -9238,7 +9238,7 @@ StartChar: uni0302
 Encoding: 770 770 517
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 448 168
 VStem: 50 312
 LayerCount: 2
@@ -9454,6 +9454,23 @@ SplineSet
  156 105 189 70 252 70 c 0xb4
  282.813476562 70 321.572265625 83.7841796875 353.681640625 105.904296875 c 1
  251.533203125 253.451171875 l 1
+EndSplineSet
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 534
+Width: 500
+VWidth: 0
+Flags: WO
+HStem: -139 55<0 500>
+LayerCount: 2
+Fore
+SplineSet
+0 -84 m 5
+ 500 -84 l 1
+ 500 -139 l 1
+ 0 -139 l 1
+ 0 -84 l 5
 EndSplineSet
 EndChar
 EndChars
