@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1517736103
+ModificationTime: 1517738767
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 26 26 10
+WinInfo: 858 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 522
+BeginChars: 1114112 526
 
 StartChar: F
 Encoding: 70 70 0
@@ -3621,13 +3621,13 @@ StartChar: itilde
 Encoding: 297 297 176
 Width: 252
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<84 168> 372 20<84 168>
 VStem: 84 84<0 392>
 LayerCount: 2
 Fore
-Refer: 67 305 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 -70.5 18 2
+Refer: 67 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: imacron
@@ -3935,13 +3935,13 @@ StartChar: Itilde
 Encoding: 296 296 201
 Width: 280
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189> 540 20<91 189>
 VStem: 91 98<0 560>
 LayerCount: 2
 Fore
-Refer: 33 73 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 -56.5 186 2
+Refer: 33 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Imacron
@@ -4079,13 +4079,13 @@ StartChar: Otilde
 Encoding: 213 213 212
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 91<231.397 356.603> 483 91<231.397 356.603>
 VStem: 66 95<163.059 396.941> 427 95<163.059 396.941>
 LayerCount: 2
 Fore
-Refer: 76 79 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 97.5 186 2
+Refer: 76 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Odieresis
@@ -4263,13 +4263,13 @@ StartChar: Utilde
 Encoding: 360 360 226
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 77<229.375 358.625> 540 20<91 189 399 497>
 VStem: 91 98<110.759 560> 399 98<110.759 560>
 LayerCount: 2
 Fore
-Refer: 93 85 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 97.5 186 2
+Refer: 93 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Umacron
@@ -4341,13 +4341,13 @@ StartChar: Ntilde
 Encoding: 209 209 232
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<84 182 381.655 504> 540 20<84 206.526 406 504>
 VStem: 84 98<0 406> 406 98<161 560>
 LayerCount: 2
 Fore
-Refer: 36 78 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 97.5 186 2
+Refer: 36 78 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ncaron
@@ -4524,13 +4524,13 @@ StartChar: otilde
 Encoding: 245 245 246
 Width: 504
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 70<199.469 304.531> 336 70<199.469 304.531>
 VStem: 70 84<104.722 287.278> 350 84<104.722 287.278>
 LayerCount: 2
 Fore
-Refer: 101 111 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 55.5 18 2
+Refer: 101 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: odieresis
@@ -6153,7 +6153,7 @@ HStem: 0 84<189 441> 540 20<91 189>
 VStem: 91 98<84 560>
 LayerCount: 2
 Fore
-Refer: 475 700 N 1 0 0 1 466 128 2
+Refer: 475 700 S 1 0 0 1 203 128 2
 Refer: 30 76 N 1 0 0 1 0 0 2
 EndChar
 
@@ -6195,13 +6195,13 @@ StartChar: Hcircumflex
 Encoding: 292 292 335
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 189 399 497> 252 84<189 399> 540 20<91 189 399 497>
 VStem: 91 98<0 252 336 560> 399 98<0 252 336 560>
 LayerCount: 2
 Fore
-Refer: 2 72 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 88 186 2
+Refer: 2 72 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01E8
@@ -6773,13 +6773,13 @@ StartChar: hcircumflex
 Encoding: 293 293 347
 Width: 469
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 175 329 413> 329 70<223.251 317.778> 540 20<91 175>
 VStem: 91 84<0 285.153 336 560> 329 84<0 316.976>
 LayerCount: 2
 Fore
-Refer: 346 104 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 517 770 N 1 0 0 1 46 172 2
+Refer: 346 104 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni04BB
@@ -6826,13 +6826,13 @@ StartChar: ntilde
 Encoding: 241 241 350
 Width: 469
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21<91 175 329 413> 329 70<218.948 317.778> 372 20<91 164.531>
 VStem: 91 72<346.5 392> 91 84<0 285.153> 329 84<0 316.976>
 LayerCount: 2
 Fore
-Refer: 349 110 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 55.5 18 2
+Refer: 349 110 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: nacute
@@ -7056,13 +7056,13 @@ StartChar: utilde
 Encoding: 361 361 366
 Width: 469
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 70<186.222 285.052> 0 20<339.469 413> 371 21<91 175 329 413>
 VStem: 91 84<75.0244 392> 329 84<106.847 392> 341 72<0 45.5001>
 LayerCount: 2
 Fore
-Refer: 357 117 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 524 771 N 1 0 0 1 55.5 18 2
+Refer: 357 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D4
@@ -7160,13 +7160,13 @@ StartChar: uni01D7
 Encoding: 471 471 374
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 77<229.375 358.625> 540 20<91 189 399 497>
 VStem: 91 98<110.759 560> 399 98<110.759 560>
 LayerCount: 2
 Fore
-Refer: 93 85 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 472 714 N 1 0 0 1 275.5 366 2
+Refer: 225 220 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni01D9
@@ -7719,9 +7719,9 @@ StartChar: s
 Encoding: 115 115 412
 Width: 455
 VWidth: 0
-Flags: HW
-HStem: -14 77<157.135 289.407> 336 70<188.54 315.607>
-VStem: 88 90<260.617 321.885> 308 91<80.7978 151.065>
+Flags: W
+HStem: -14 77<157.135 289.587> 336 70<188.496 315.51>
+VStem: 88 90<260.741 322> 308 91<82.2614 151.183>
 LayerCount: 2
 Fore
 SplineSet
@@ -9287,6 +9287,57 @@ LayerCount: 2
 Fore
 Refer: 517 770 N 1 0 0 1 200 186 2
 Refer: 6 87 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01A7
+Encoding: 423 423 522
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 92 83 S -1 0 0 1 613 0 2
+EndChar
+
+StartChar: uni01A8
+Encoding: 424 424 523
+Width: 455
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 412 115 S -1 0 0 1 461 0 2
+EndChar
+
+StartChar: tildecomb
+Encoding: 771 771 524
+Width: 0
+VWidth: 0
+HStem: 448 58<207.278 297.235> 499 59<85.4646 180.618>
+VStem: 50 293
+LayerCount: 2
+Fore
+SplineSet
+50 504 m 1x60
+ 50 504 95 558 137 558 c 0x60
+ 179 558 224 506 252 506 c 0
+ 280 506 305 535 312 542 c 1
+ 343 511 l 1
+ 336 504 291 448 249 448 c 0xa0
+ 207 448 162 499 134 499 c 0
+ 106 499 88 480 81 473 c 1
+ 50 504 l 1x60
+EndSplineSet
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 525
+Width: 393
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 524 771 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
