@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1523993716
+ModificationTime: 1523994018
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 624 26 10
+WinInfo: 130 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 646
+BeginChars: 1114112 647
 
 StartChar: F
 Encoding: 70 70 0
@@ -3532,11 +3532,12 @@ Encoding: 229 229 164
 Width: 476
 VWidth: 0
 Flags: W
-HStem: -14 70<176.131 267.824> 189 63<208.058 308> 336 70<154.167 283.319>
-VStem: 70 91<72.4097 155.444> 308 84<91.8617 189 248.468 311.205>
+HStem: -14 70<176.131 267.824> 189 63<208.058 308> 336 70<154.167 283.319> 466 40<202.81 273.19> 588 40<202.81 273.19>
+VStem: 70 91<72.4097 155.444> 157 40<511.81 582.19> 279 40<511.81 582.19> 308 84<91.8617 189 248.468 311.205>
 LayerCount: 2
 Fore
-Refer: 158 97 N 1 0 0 1 0 0 2
+Refer: 645 778 N 1 0 0 1 350 26 2
+Refer: 158 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: amacron
@@ -3876,11 +3877,12 @@ Encoding: 197 197 188
 Width: 616
 VWidth: 0
 Flags: W
-HStem: 0 21G<70 181.25 434.75 546> 540 20G<245.5 370.5>
+HStem: 0 21G<70 181.25 434.75 546> 540 20G<245.5 370.5> 597 40<272.81 343.19> 719 40<272.81 343.19>
+VStem: 227 40<642.81 713.19> 349 40<642.81 713.19>
 LayerCount: 2
 Fore
-Refer: 3 65 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 645 778 S 1 0 0 1 420 157 2
+Refer: 3 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Amacron
@@ -4448,12 +4450,12 @@ Encoding: 366 366 229
 Width: 588
 VWidth: 0
 Flags: W
-HStem: -7 77<229.375 358.625> 540 20G<91 189 399 497>
-VStem: 91 98<110.759 560> 399 98<110.759 560>
+HStem: -7 77<229.375 358.625> 540 20G<91 189 399 497> 634 40<258.81 329.19> 756 40<258.81 329.19>
+VStem: 91 98<110.759 560> 213 40<679.81 750.19> 335 40<679.81 750.19> 399 98<110.759 560>
 LayerCount: 2
 Fore
-Refer: 93 85 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 645 778 N 1 0 0 1 406 194 2
+Refer: 93 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uhungarumlaut
@@ -6878,12 +6880,12 @@ Encoding: 367 367 363
 Width: 469
 VWidth: 0
 Flags: W
-HStem: -7 70<186.222 285.052> 0 20<339.469 413> 371 21<91 175 329 413>
-VStem: 91 84<75.0244 392> 329 84<106.847 392> 341 72<0 45.5001>
+HStem: -7 70<186.222 285.052> 0 20<339.469 413> 371 21<91 175 329 413> 466 40<216.81 287.19> 588 40<216.81 287.19>
+VStem: 91 84<75.0244 392> 171 40<511.81 582.19> 293 40<511.81 582.19> 329 84<106.847 392> 341 72<0 45.5001>
 LayerCount: 2
 Fore
-Refer: 357 117 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 645 778 N 1 0 0 1 364 26 2
+Refer: 357 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ubreve
@@ -9453,24 +9455,23 @@ StartChar: Aringacute
 Encoding: 506 506 531
 Width: 616
 VWidth: 0
-HStem: 0 21G<70 181.25 434.75 546> 540 20G<245.5 370.5> 634 147
-VStem: 282.5 162
+HStem: 0 21G<70 181.25 434.75 546> 540 20G<245.5 370.5> 597 40<272.81 343.19> 719 40<272.81 343.19> 818.6 147
+VStem: 227 40<642.81 713.19> 282.5 162 349 40<642.81 713.19>
 LayerCount: 2
 Fore
-Refer: 472 714 N 1 0 0 1 287.5 193 2
+Refer: 472 714 N 1 0 0 1 287.5 377.6 2
 Refer: 188 197 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: aringacute
 Encoding: 507 507 532
 Width: 476
 VWidth: 0
-HStem: -14 70<176.131 267.824> 189 63<208.058 308> 336 70<154.167 283.319> 466 147
-VStem: 70 91<72.4097 155.444> 212.5 162 308 84<91.8617 189 248.468 311.205>
+HStem: -14 70<176.131 267.824> 189 63<208.058 308> 336 70<154.167 283.319> 466 40<202.81 273.19> 588 40<202.81 273.19> 688 147
+VStem: 70 91<72.4097 155.444> 157 40<511.81 582.19> 212.5 162 279 40<511.81 582.19> 308 84<91.8617 189 248.468 311.205>
 LayerCount: 2
 Fore
-Refer: 472 714 N 1 0 0 1 217.5 25 2
+Refer: 472 714 N 1 0 0 1 217.5 247 2
 Refer: 164 229 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11304,7 +11305,7 @@ StartChar: uni030A
 Encoding: 778 778 645
 Width: 0
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 440 40<-147.19 -76.8102> 562 40<-147.19 -76.8102>
 VStem: -193 40<485.81 556.19> -71 40<485.81 556.19>
 LayerCount: 2
@@ -11321,6 +11322,16 @@ SplineSet
  -153 498 -135 480 -112 480 c 0
  -89 480 -71 498 -71 521 c 0
 EndSplineSet
+EndChar
+
+StartChar: degree
+Encoding: 176 176 646
+Width: 254
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+Refer: 645 778 N 1 0 0 1 239 0 2
 EndChar
 EndChars
 EndSplineFont
