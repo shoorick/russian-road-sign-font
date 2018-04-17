@@ -47,7 +47,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 130 26 10
+WinInfo: 988 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
@@ -11097,7 +11097,7 @@ StartChar: afii10107
 Encoding: 1114 1114 632
 Width: 613
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 77<366 465.404> 168 77<175 282> 175 77<366 465.404> 372 20G<91 175 282 366>
 VStem: 91 84<0 168 245 392> 282 84<77 168 252 392> 476 81<87.2884 164.712>
 LayerCount: 2
@@ -11328,7 +11328,9 @@ StartChar: degree
 Encoding: 176 176 646
 Width: 254
 VWidth: 0
-Flags: HWO
+Flags: WO
+HStem: 440 40<91.8102 162.19> 562 40<91.8102 162.19>
+VStem: 46 40<485.81 556.19> 168 40<485.81 556.19>
 LayerCount: 2
 Fore
 Refer: 645 778 N 1 0 0 1 239 0 2
