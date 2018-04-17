@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1517779934
+ModificationTime: 1523973757
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -46,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 26 26 10
+WinInfo: 1014 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 628
+BeginChars: 1114112 630
 
 StartChar: F
 Encoding: 70 70 0
@@ -1594,7 +1595,7 @@ SplineSet
  84 0 l 1
  84 560 l 1xd8
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: afii10024
@@ -1641,7 +1642,7 @@ SplineSet
  168 448 152 473 98 473 c 1
  126 567 l 1xe8
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: afii10026
@@ -2378,7 +2379,7 @@ SplineSet
  270.96875 63 340.96875 84 340.96875 168 c 1
  88.96875 168 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: omicron
@@ -3757,7 +3758,7 @@ SplineSet
  63 -216.766601562 28 -174.766601562 28 -125.766601562 c 4xdc
  28 -48.7666015625 133 -13.7666015625 168 0.2333984375 c 5
 EndSplineSet
-Validated: 8912901
+Validated: 5
 EndChar
 
 StartChar: uni0209
@@ -9262,7 +9263,7 @@ SplineSet
  272 280 l 2
  287.470412833 331.890343045 333.058547974 391.666656494 427 399 c 5xc0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: tonos
@@ -9882,7 +9883,7 @@ SplineSet
  282.813476562 70 321.572265625 83.7841796875 353.681640625 105.904296875 c 1
  251.533203125 253.451171875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: underscore
@@ -10129,7 +10130,7 @@ SplineSet
  380.5 602 l 1
  380.5 -70 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: backslash
@@ -10195,7 +10196,7 @@ SplineSet
  408.790313378 574 483.908037666 523.985560533 523.916989265 448.721295807 c 0
  528.813231187 439.510555873 537 409.75 537 390 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni0328
@@ -11037,7 +11038,7 @@ SplineSet
  365 77 418 143 426 252 c 1
  162 252 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni04EA
@@ -11091,7 +11092,7 @@ SplineSet
  301.516601562 56 340.080078125 99.7890625 348.34765625 168 c 1
  155.65234375 168 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni04EB
@@ -11713,7 +11714,7 @@ SplineSet
  123 -7 98 19.0009311186 98 63 c 2
  98 392 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: iotadieresis
@@ -11914,7 +11915,7 @@ SplineSet
  98 0 l 1
  98 392.004882812 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: beta
@@ -11944,7 +11945,49 @@ SplineSet
  168 -168 l 1
  84 -168 l 1xfc
 EndSplineSet
-Validated: 524289
+Validated: 1
+EndChar
+
+StartChar: uni019F
+Encoding: 415 415 628
+Width: 588
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 571 1138 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10106
+Encoding: 1113 1113 629
+Width: 622
+VWidth: 0
+Flags: WO
+HStem: -14 21G<59 150.5> 0 77<367 457.404> 175 77<367 457.404> 315 77<216.222 283>
+VStem: 283 84<77 175 252 315> 468 81<87.2884 164.712>
+LayerCount: 2
+Fore
+SplineSet
+367 175 m 1x7c
+ 367 77 l 1
+ 419 77 l 2
+ 447 77 468 103 468 126 c 0
+ 468 149 447 175 419 175 c 2
+ 367 175 l 1x7c
+412 0 m 2
+ 283 0 l 1x7c
+ 283 315 l 1
+ 217 315 l 1
+ 210 189 238 28 63 -14 c 1xbc
+ 47 66 l 1
+ 70 70 101 87 118 119 c 0
+ 135 150 140 315 140 392 c 1
+ 367 392 l 1
+ 367 252 l 1
+ 412 252 l 2
+ 510 252 549 189 549 126 c 0
+ 549 63 510 0 412 0 c 2
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
