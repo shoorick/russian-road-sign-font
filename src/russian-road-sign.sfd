@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1524082468
+ModificationTime: 1524082968
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 910 26 10
+WinInfo: 286 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 676
+BeginChars: 1114112 678
 
 StartChar: F
 Encoding: 70 70 0
@@ -11827,7 +11827,7 @@ StartChar: eta
 Encoding: 951 951 673
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -168 21G<329 413> 0 21G<91 175> 329 70<218.948 317.778> 372 20G<91 164.531>
 VStem: 91 84<0 285.153> 91 72<346.5 392> 329 84<-168 316.976>
 LayerCount: 2
@@ -11871,6 +11871,49 @@ LayerCount: 2
 Fore
 Refer: 490 900 N 1 0 0 1 89 25 2
 Refer: 655 949 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni0511
+Encoding: 1297 1297 676
+Width: 465
+VWidth: 0
+Flags: W
+HStem: -14 70<168.303 310.06> 168 63<163.126 256> 329 70<174.871 311.587>
+VStem: 60 91<74.2501 159.536> 74 84<235.486 312.164>
+LayerCount: 2
+Fore
+Refer: 278 1079 S -1 0 0 1 459 0 2
+EndChar
+
+StartChar: eng
+Encoding: 331 331 677
+Width: 504
+VWidth: 0
+Flags: WO
+HStem: -167.852 80.7067<252.021 327.378> 0 21G<91 175> 329 70<218.948 317.778> 372 20G<91 164.531>
+VStem: 91 84<0 285.153> 91 72<346.5 392> 328.5 84<-84.2205 316.976>
+LayerCount: 2
+Fore
+SplineSet
+294 399 m 0xe6
+ 371 399 413 350 413 280 c 2
+ 412.5 -70 l 2
+ 412.5 -132.866941861 356.735325563 -167.852032724 328.65254851 -167.852032724 c 2
+ 326.544377469 -167.852066912 l 2
+ 285.958191626 -167.852066912 264.840306364 -167.736122546 230.5 -154 c 1
+ 251.5 -84 l 1
+ 262.597990752 -85.7933542419 274.138655881 -87.1453225565 284.804320799 -87.1453225565 c 0
+ 308.881734818 -87.1453225565 328.5 -80.2554637196 328.5 -56 c 2
+ 329 273 l 2
+ 329 294 315 329 273 329 c 0
+ 232.85546875 329 196 294 175 252 c 1
+ 175 0 l 1
+ 91 0 l 1xea
+ 91 392 l 1
+ 163 392 l 1xd6
+ 166.061523438 374.790039062 170.60546875 356.544921875 177 346 c 1
+ 177 346 224 399 294 399 c 0xe6
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
