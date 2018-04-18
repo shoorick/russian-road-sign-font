@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="e.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="294.98346"
-     inkscape:cy="402.51183"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="448.30589"
+     inkscape:cy="336.96235"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,7 +185,7 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="color:#000000;fill:#990000;stroke:none;stroke-width:1.79743397;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#990000;stroke:none;stroke-width:1.79743397;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.8"
        d="m 252,464 c 41.25029,-1.5889 91,42.71912 91,84 0,7 -2,14 -7,14 l -175,0 c 0,-70 46.45476,-96.28419 91,-98 z m 161,168 c 11.66667,0 21,-21 21,-42 0,-105 -84,-196 -182,-196 -53.37059,0 -109.91724,27.71756 -144,70 -28.500593,35.35731 -39.089196,79.43152 -40,140 -1.894523,125.98576 93,210 198,210 49,0 103,-28 152,-91 l -68,-39 c -28,35 -49,53 -84,53 -35,0 -105,-21 -105,-105 z"
        id="path4407"
        inkscape:connector-curvature="0"

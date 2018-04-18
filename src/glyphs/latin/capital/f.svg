@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="f.svg">
   <defs
      id="defs4" />
@@ -25,18 +25,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="646.92392"
-     inkscape:cy="501.82792"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="358.39675"
+     inkscape:cy="851.46509"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-global="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="732"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid3015"
@@ -63,17 +72,17 @@
      id="layer1"
      transform="translate(0,-52.362183)">
     <image
-       sodipodi:absref="/home/as/font/gost/glyphs/latin/capital/f.png"
+       sodipodi:absref="/home/as/font/gost/russian-road-sign-font/src/glyphs/latin/capital/f.png"
        xlink:href="f.png"
-       y="185.07646"
-       x="103.16316"
-       id="image3012"
-       height="517.35754"
+       style="opacity:0.5"
        width="310.1124"
-       style="opacity:0.5" />
+       height="517.35754"
+       id="image3012"
+       x="103.16316"
+       y="185.07646" />
     <path
-       style="fill:#800000;stroke:none"
-       d="m 160,188.36218 204,0 0,55.9372 -148.03372,-0.0674 0.0337,96.13016 116,0 0,56 -116,0 0,152 -56,0 z"
+       style="opacity:0.8;fill:#800000;stroke:none"
+       d="m 160,188.36218 204,0 0,56 -148.03372,-0.1302 0.0337,96.13016 116,0 0,56 -116,0 0,152 -56,0 z"
        id="path3017"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />

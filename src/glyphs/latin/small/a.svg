@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="a.svg">
   <defs
      id="defs4" />
@@ -25,20 +25,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="423.17683"
-     inkscape:cy="834.22733"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-22.749231"
+     inkscape:cy="385.92061"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -73,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,8 +190,10 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="fill:#990000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 224 394 C 154 394 112 422 77 443 L 119 513 C 140 492 182 464 224 464 C 266 464 308 498.50743 308 520 L 308 548 C 308 548 70 555 70 688 C 70 772 140 814 196 814 C 252 814 294 779 308 751 C 315 807 343 814 392 814 L 427 744 C 413 744 392 744 392 709 L 392 520 C 392 450 294 394 224 394 z M 308 611 L 308 681 C 308 688 259 744 217 744 C 203 744 161 730 161 681 C 161 618 273 625 308 611 z "
-       id="path4727" />
+       style="opacity:0.8;fill:#990000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 238,394 c -70,0 -126,28 -161,49 l 42,68 c 21,-19 63,-47 105,-47 49,0 84,35 84,63 l 0,21 c -56,14 -238.106162,7.63697 -238,140 0.06737,83.99997 70,126 126,126 56,0 98,-35 112,-63 7,56 35,63 84,63 l 35,-70 c -14,0 -35,0 -35,-35 l 0,-175 C 392,464 329,394 238,394 Z m 70,217 0,70 c 0,7 -49,63 -91,63 -14,0 -56,-14 -56,-63 0,-63 112,-56 147,-70 z"
+       id="path4727"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccsscsscccssscsssc" />
   </g>
 </svg>

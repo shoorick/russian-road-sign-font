@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="a.svg">
   <defs
      id="defs4" />
@@ -31,10 +31,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="732"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -85,20 +85,20 @@
      style="opacity:0.33000004"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/as/font/gost/glyphs/latin/capital/a.png"
+       sodipodi:absref="/home/as/font/gost/russian-road-sign-font/src/glyphs/latin/capital/a.png"
        xlink:href="a.png"
-       width="639.81128"
-       height="794.57141"
-       id="image3055"
+       y="286.64789"
        x="-11.62561"
-       y="286.64789" />
+       id="image3055"
+       height="794.57141"
+       width="639.81128" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="glyph">
     <path
-       style="fill:#800000;stroke:none"
+       style="fill:#800000;stroke:none;opacity:0.8"
        d="m 252,240 -182,560 105,0 35,-112 196,0 35,112 105,0 -182,-560 z m 56,126 70,238 -140,0 z"
        id="path3096"
        inkscape:connector-curvature="0"
