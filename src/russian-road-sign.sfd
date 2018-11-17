@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1542487112
+ModificationTime: 1542487902
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 688
+BeginChars: 1114112 689
 
 StartChar: F
 Encoding: 70 70 0
@@ -12083,7 +12083,7 @@ StartChar: thorn
 Encoding: 254 254 687
 Width: 497
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -168 21G<84 168> -14 70<200.742 314.512> 329 77<207.411 316.814>
 VStem: 84 84<-168 35 85.9467 290.804 350 546> 357 84<104.991 284.231>
 LayerCount: 2
@@ -12107,6 +12107,35 @@ SplineSet
  189 77 230.3828125 56 266 56 c 0
  315 56 357 112 357 196 c 0
  357 280 315 329 266 329 c 0
+EndSplineSet
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 688
+Width: 560
+VWidth: 0
+Flags: WO
+HStem: 0 21G<91 189> 116 84<189 326.006> 396 84<189 326.006> 540 20G<91 189>
+VStem: 91 98<0 116 200 396 480 560> 364 98<236.654 359.346>
+LayerCount: 2
+Fore
+SplineSet
+91 560 m 1
+ 189 560 l 1
+ 189 480 l 1
+ 280 480 l 2
+ 413 480 462 375 462 298 c 0
+ 462 221 413 116 280 116 c 2
+ 189 116 l 1
+ 189 0 l 1
+ 91 0 l 1
+ 91 560 l 1
+189 396 m 1
+ 189 200 l 1
+ 252 200 l 2
+ 308 200 364 228 364 298 c 0
+ 364 368 308 396 252 396 c 2
+ 189 396 l 1
 EndSplineSet
 EndChar
 EndChars
