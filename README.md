@@ -15,18 +15,17 @@ By November 18, 2018 this font contains 678 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 52 (+61) = 113 of 161 (70 %)
-* ~~Armenian alphabet:~~ 0 (+8) of 77 (10 %)
+* Cyrillic alphabet: 54 (+62) = 116 of 161 (72 %)
+* ~~Armenian alphabet:~~ 0 (+9) = 9 of 77 (11 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
 Additional glyphs which are not described by GOST:
 
 * Digits and punctuation signs: 26 (+39) = 65
-* Latin alphabet and IPA: 21 (+263) = 284
-* Cyrillic alphabet: 11 (+29) = 40
-* Greek alphabet: 8 (+53) = 61
-* other: 3
-
+* Latin alphabet and IPA: 18 (+256) = 274
+* Cyrillic alphabet: 12 (+29) = 41
+* Greek alphabet: 9 (+54) = 63
+* other: 4 (+4)
 
 Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
@@ -65,17 +64,17 @@ _The same in Russian:_
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 52 (+61) = 113 of 161 (70 %)
-* ~~Армянский алфавит:~~ 0 (+8) of 77 (10 %)
+* Кириллица: 52 (+61) = 113 из 161 (70 %)
+* ~~Армянский алфавит:~~ 0 (+9) из 77 (11 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
 Не определены в ГОСТ, но есть в шрифте:
 
 * Цифры и знаки пунктуации: 26 (+39) = 65
-* Латинский алфавит и МФА: 21 (+263) = 284
-* Кириллица: 11 (+29) = 40
-* Греческий алфавит: 8 (+53) = 61
-* прочее: 3
+* Латинский алфавит и МФА: 18 (+256) = 274
+* Кириллица: 12 (+29) = 41
+* Греческий алфавит: 9 (+54) = 63
+* прочее: 4 (+4)
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 буквы русского и основного латинского алфавитов.
