@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1542488823
+ModificationTime: 1542489716
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -12171,32 +12171,31 @@ EndChar
 
 StartChar: uni04B4
 Encoding: 1204 1204 690
-Width: 682
+Width: 700
 VWidth: 0
-Flags: WO
-HStem: 0 84<295 465> 476 84<63 197 295 429>
-VStem: 197 98<84 476> 465 98<84 560> 541.5 84.5<-112 0>
+Flags: HWO
+HStem: -0 84<287 483> 476 84<63 189 287 413>
+VStem: 189 98<84 476> 483 98<84 560> 560 84<-112 0>
 LayerCount: 2
 Fore
 SplineSet
-63 560 m 1xe8
- 429 560 l 1
- 429 476 l 1
- 295 476 l 1
- 295 84 l 1
- 465 84 l 1
- 465 560 l 1
- 563 560 l 1
- 563 84 l 1xf0
- 626 84 l 1
- 626 -112 l 1
- 541.5 -112 l 1
- 542 0 l 1
- 295 0 l 1
- 197 0 l 1
- 197 476 l 1
- 63 476 l 1
- 63 560 l 1xe8
+63 560 m 5xe8
+ 413 560 l 5
+ 413 476 l 5
+ 287 476 l 5
+ 287 84 l 5
+ 483 84 l 5
+ 483 560 l 5
+ 581 560 l 5
+ 581 84 l 5xf0
+ 644 84 l 5
+ 644 -112 l 5
+ 560 -112 l 5
+ 560 0 l 5
+ 436 0 313 0 189 0 c 5
+ 189 476 l 5
+ 63 476 l 5
+ 63 560 l 5xe8
 EndSplineSet
 EndChar
 EndChars
