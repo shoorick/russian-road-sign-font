@@ -10,8 +10,8 @@ in modern Russian state standard GOST R 52290-2004.
 Available glyphs
 ----------------
 
-GOST 10807-78 contains 420 glyphs. By November 18, 2018 font contains
-678 characters including:
+GOST 10807-78 contains 420 glyphs.
+By November 18, 2018 this font contains 678 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
@@ -21,10 +21,12 @@ GOST 10807-78 contains 420 glyphs. By November 18, 2018 font contains
 
 Additional glyphs which are not described by GOST:
 
-* Punctuation signs: 1 (+10) = 11
-* Latin alphabet and IPA: (+18)
-* Cyrillic alphabet: 8 (+6) = 14
-* Greek alphabet: 4 (+17) = 20
+* Digits and punctuation signs: 26 (+39) = 65
+* Latin alphabet and IPA: 21 (+263) = 284
+* Cyrillic alphabet: 11 (+29) = 40
+* Greek alphabet: 8 (+53) = 61
+* other: 3
+
 
 Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
@@ -58,8 +60,8 @@ _The same in Russian:_
 Доступные символы
 ----------------
 
-ГОСТ 10807-78 описывает 420 глифов. Этот шрифт по состоянию на 18.11.2018
-содержит 678 символов, в том числе:
+ГОСТ 10807-78 описывает 420 глифов.
+Этот шрифт по состоянию на 18.11.2018 содержит 678 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
@@ -69,10 +71,11 @@ _The same in Russian:_
 
 Не определены в ГОСТ, но есть в шрифте:
 
-* Знаки пунктуации: 1 (+10) = 11
-* Латинский алфавит и МФА: 1 (+111)
-* Кириллица: 0 (+8) of 77 (10 %)
-* Греческий алфавит: 4 (+17) = 20
+* Цифры и знаки пунктуации: 26 (+39) = 65
+* Латинский алфавит и МФА: 21 (+263) = 284
+* Кириллица: 11 (+29) = 40
+* Греческий алфавит: 8 (+53) = 61
+* прочее: 3
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 буквы русского и основного латинского алфавитов.

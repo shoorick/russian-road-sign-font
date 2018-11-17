@@ -11,16 +11,19 @@ use List::Util qw( uniq );
 use YAML::Tiny;
 
 my $config = YAML::Tiny->read( 'config.yml' )->[0];
-my ( %ranges, @range_by_code, %count_glyph, %count_ref );
+my ( %ranges, %range_by_code, %count_glyph, %count_ref );
+my $other = 0;
 
-foreach my $key ( keys %{ $config->{'gost'} } ) {
-    my @chars = map {
-        /^([\da-f]+)-([\da-f]+)$/
-        ? ( hex($1) .. hex($2) )
-        : hex($_)
-    } split /\s+/, $config->{'gost'}->{$key};
-    $ranges{$key} = \@chars;
-    map { $range_by_code[$_] = $key } @chars;
+foreach my $type ( qw( gost unicode ) ) {
+    foreach my $key ( keys %{ $config->{$type} } ) {
+        my @chars = map {
+            /^([\da-f]+)-([\da-f]+)$/
+            ? ( hex($1) .. hex($2) )
+            : hex($_)
+        } split /\s+/, $config->{$type}->{$key};
+        $ranges{$type}{$key} = \@chars;
+        map { $range_by_code{$type}[$_] = $key } @chars;
+    }
 }
 
 local $/;
@@ -29,31 +32,55 @@ my $font = <>;
 while ( $font =~ /StartChar: (.+?)\nEncoding: (\d+) \d+ (\d+)\n.+?\n(.+?)\nEndChar\n/gs ) {
     my ( $name, $code, $number, $content ) = ( $1, $2, $3, $4 );
     my $ref = $content =~ /Refer:/ ? 'reference' : '';
+    my $set = '';
 
-    printf "%d\t%s (%x)\t%s\n", $number, $name, $code, $ref;
-
-    if ( defined $range_by_code[$code] ) {
+    if ( defined $range_by_code{'gost'}[$code] ) {
+        $set = $range_by_code{'gost'}[$code];
         if ( $ref ) {
-            $count_ref{   $range_by_code[$code] }++;
+            $count_ref{  'gost'}{ $set }++;
         }
         else {
-            $count_glyph{ $range_by_code[$code] }++;
+            $count_glyph{'gost'}{ $set }++;
+        }
+        $set .= ' GOST';
+    }
+    elsif ( defined $range_by_code{'unicode'}[$code] ) {
+        $set = $range_by_code{'unicode'}[$code];
+        if ( $ref ) {
+            $count_ref{  'unicode'}{ $set }++;
+        }
+        else {
+            $count_glyph{'unicode'}{ $set }++;
         }
     }
+    else {
+        $other++;
+    }
+
+    printf "%d\t%s (%x)\t%s\t%s\n", $number, $name, $code, $ref, $set;
 }
 
-foreach my $range ( sort( uniq( keys %count_ref, keys %count_glyph ) ) ) {
-    my $glyphs  = $count_glyph{$range} // 0;
-    my $refs    = $count_ref{$range}   // 0;
-    my $sum     = $glyphs + $refs;
-    my $total   = scalar @{ $ranges{$range} };
-    my $percent = $total
-        ? sprintf ' (%d %%)', 100 * $sum / $total
-        : '';
+print "--------------------\nGOST compliant:\n", stats('gost'),
+    "\n--------------------\nMore:\n",           stats('unicode'),
+    "other\t$other\n";
 
-    printf "%s\t%d + %d = %d of %d%s\n",
-        $range,
-        $glyphs, $refs,
-        $sum, $total, $percent;
+sub stats {
+    my $type = shift;
+    my $out  = '';
+    foreach my $range ( sort( uniq( keys %{ $count_ref{$type} }, keys %{ $count_glyph{$type} } ) ) ) {
+        my $glyphs  = $count_glyph{$type}{$range} // 0;
+        my $refs    = $count_ref{  $type}{$range} // 0;
+        my $sum     = $glyphs + $refs;
+        my $total   = scalar @{ $ranges{$type}{$range} };
+        my $percent = $total && $type eq 'gost'
+            ? sprintf ' (%d %%)', 100 * $sum / $total
+            : '';
+
+        $out .= sprintf "%s\t%d (+%d) = %d of %d%s\n",
+            $range,
+            $glyphs, $refs,
+            $sum, $total, $percent;
+    }
+    return $out;
 }
 
