@@ -9602,7 +9602,7 @@ StartChar: uni03FF
 Encoding: 1023 1023 538
 Width: 560
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -14 91<205.019 331.603> 219 122<221.881 314.119> 483 91<205.019 331.603>
 VStem: 207 122<233.881 326.119> 402 95<162.98 397.02>
 CounterMasks: 1 e0
@@ -9722,7 +9722,7 @@ StartChar: uni018B
 Encoding: 395 395 547
 Width: 567
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 84<217.875 392> 252 84<219.596 392> 476 84<133 392>
 VStem: 91 98<112.147 223.853> 392 98<84 252 336 476>
 LayerCount: 2
@@ -9735,8 +9735,8 @@ StartChar: bar
 Encoding: 124 124 548
 Width: 245
 VWidth: 0
-Flags: HW
-VStem: 77 91
+Flags: W
+VStem: 77 91<-84 588>
 LayerCount: 2
 Fore
 SplineSet
@@ -9810,7 +9810,7 @@ StartChar: slash
 Encoding: 47 47 551
 Width: 523
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 550 92 S -1 0 0 1 523 0 2
@@ -11918,7 +11918,7 @@ StartChar: eng
 Encoding: 331 331 677
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -167.852 80.7067<252.021 327.378> 0 21G<91 175> 329 70<218.948 317.778> 372 20G<91 164.531>
 VStem: 91 84<0 285.153> 91 72<346.5 392> 328.5 84<-84.2205 316.976>
 LayerCount: 2
