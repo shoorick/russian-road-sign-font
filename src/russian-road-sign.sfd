@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1542491559
+ModificationTime: 1542492113
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,7 +47,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1170 26 10
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
@@ -3745,9 +3745,9 @@ StartChar: iogonek
 Encoding: 303 303 179
 Width: 252
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: -217 53<96.0848 199.889> -20 20G<150.5 174.667> 0 21G<84 168> 372 20G<84 168> 460 122<79.7704 172.23>
-VStem: 28 63<-157.189 -80.251> 65 122<474.77 567.23> 84 84<0 392>
+VStem: 28 63<-157.291 -80.3533> 65 122<474.77 567.23> 84 84<0 392>
 LayerCount: 2
 Fore
 SplineSet
@@ -3769,10 +3769,10 @@ SplineSet
  168 -164 210 -140 210 -140 c 1
  224 -175 l 1
  224 -175 189 -217 126 -217 c 0
- 63 -217 28 -174.766601562 28 -125.766601562 c 0xdc
- 28 -48.7666015625 133 -14 168 0 c 1
+ 63 -217 28 -175 28 -126 c 0xdc
+ 28 -49 133 -14 168 0 c 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni0209
@@ -9103,8 +9103,7 @@ StartChar: uni04E5
 Encoding: 1253 1253 504
 Width: 504
 VWidth: 0
-Flags: H
-HStem: 0 21G<84 187.099 336 420> 372 20G<84 168 316.895 420> 466 122<113.881 206.119 297.881 390.119>
+HStem: 0 21G<84 187.105 336 420> 372 20G<84 168 316.895 420> 466 122<113.881 206.119 297.881 390.119>
 VStem: 84 84<126 392> 99 122<480.881 573.119> 283 122<480.881 573.119> 336 84<0 266>
 LayerCount: 2
 Fore
@@ -10407,7 +10406,6 @@ StartChar: uni04D6
 Encoding: 1238 1238 591
 Width: 539
 VWidth: 0
-Flags: H
 HStem: 0 84<189 448> 252 84<189 392> 469 91<189 441> 634 63<207.764 330.749>
 VStem: 91 98<84 252 336 469> 115.5 70<719.75 774> 353.5 63<719.75 774>
 LayerCount: 2
@@ -10835,7 +10833,7 @@ StartChar: phi1
 Encoding: 981 981 619
 Width: 672
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -168 21G<294 378> -1 71<210.969 294 378 461.031> 322 71<210.969 294 378 461.031>
 VStem: 70 84<126.744 267.159> 294 84<-168 -1 70 322 393 546> 518 84<126.744 267.159>
 CounterMasks: 1 1c
@@ -11837,8 +11835,8 @@ StartChar: uni03F4
 Encoding: 1012 1012 672
 Width: 588
 VWidth: 0
-Flags: HW
-HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.554>
+Flags: W
+HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.527>
 VStem: 66 96<159.405 252 322 400.615> 426 96<159.405 252 322 400.615>
 LayerCount: 2
 Fore
@@ -11961,7 +11959,7 @@ StartChar: tau
 Encoding: 964 964 679
 Width: 419
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -7 77<253.43 328.985> 315 77<50 168 252 369>
 VStem: 168 84<71.3338 315>
 LayerCount: 2
@@ -12213,7 +12211,7 @@ StartChar: uni04B5
 Encoding: 1205 1205 691
 Width: 588
 VWidth: 0
-Flags: HW
+Flags: WO
 HStem: 0 77<252 399> 315 77<70 168 252 350>
 VStem: 168 84<77 315> 399 84<77 392> 476 84<-84 0>
 LayerCount: 2
