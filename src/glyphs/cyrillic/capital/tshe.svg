@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ts.svg">
+   sodipodi:docname="tshe.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="296.71583"
-     inkscape:cy="297.86845"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="226.44078"
+     inkscape:cy="560.03817"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -54,6 +54,10 @@
        originy="200px" />
     <sodipodi:guide
        orientation="0,1"
+       position="420,200"
+       id="guide3006" />
+    <sodipodi:guide
+       orientation="0,1"
        position="0,760"
        id="guide3008" />
     <sodipodi:guide
@@ -69,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -168,13 +172,12 @@
        width="1000"
        height="1000" />
     <image
-       y="287.6918"
-       x="-12.121875"
-       id="image4245"
-       xlink:href="file:///home/as/font/gost/glyphs/cyrillic/small/ts.png"
-       height="791.77667"
-       width="532.13879"
-       transform="matrix(0.9999964,0.00268458,0,1,0,0)" />
+       y="287.36218"
+       x="-14"
+       id="image3845"
+       xlink:href="file:///home/as/font/gost/glyphs/cyrillic/capital/ch.png"
+       height="794"
+       width="584.60944" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -182,10 +185,8 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="color:#000000;fill:#990000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.8"
-       d="m 84,408 0,392 308,0 0,84 84,0 0,-161 -77,0 0,-315 -84,0 0,315 -147,0 0,-315 z"
-       id="rect6380"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#800000;stroke:none;stroke-width:3;marker:none;enable-background:accumulate"
+       d="M 63 240 L 63 324 L 197 324 L 197 800 L 295 800 L 295 551.01172 C 326.3549 540.39319 364.17252 534 402 534 C 437 534 451 555 451 591 L 451 800 L 549 800 L 549 555 C 549 485 500 443 402 443 C 372.80594 443 330.09291 446.39139 295 457.85742 L 295 324 L 429 324 L 429 240 L 63 240 z "
+       id="rect3848" />
   </g>
 </svg>
