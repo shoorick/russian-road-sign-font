@@ -31,11 +31,14 @@ unicode:
 # Character sets used in alphabets
 alphabet:
     Armenian:       ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖաբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև
+    Avar:           ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЭЮЯабвгдежзийклмнопрстуфхцчшщъьэюяёӀ
     Azeri_Cyr:      ЈАБВГДЕЖЗИКЛМНОПРСТУФХЧШЫабвгдежзиклмнопрстуфхчшыјҒғҜҝҮүҸҹҺһӘәӨө
     Azeri_Lat:      ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyzÇÖÜçöüĞğİıŞşƏə
     Bashkir:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҒғҘҙҠҡҢңҪҫҮүҺһӘәӨө
     Bulgarian:      АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯабвгдежзийклмнопрстуфхцчшщъьюя
     Byelorussian:   ЁІЎАБВГДЕЖЗЙКЛМНОПРСТУФХЦЧШЫЬЭЮЯабвгдежзйклмнопрстуфхцчшыьэюяёіў
+    Chechen:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӀ
+    Chuvash:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҪҫӐӑӖӗӲӳ
     Croatian:       ABCDEFGHIJKLMNOPRSTUVZabcdefghijklmnoprstuvxzÐĆćČčđŠšŽž
     Czech:          ABCDEFGHIJKLMNOPQRSTUVWXYZhÁÉÍÓÚÝČĎĚŇŘŠŤŮŽabcdefghijklmnopqrstuvwxyzháéíóúýčďěňřšťůž
     English:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
@@ -46,6 +49,7 @@ alphabet:
     German:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÖÜßäöü
     Hungarian:      ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁÉÍÓÖÚÜáéíóöúüŐőŰű
     Kazakh:         ЁІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёіҒғҚқҢңҮүҰұҺһӘәӨө
+    Khakassian:     ЁІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёіҒғҢңӋӌӦӧӰӱ
     Kirghiz:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҢңҮүӨө
     Latvian:        ABCDEFGHIJKLMNOPRSTUVZabcdefghijklmnoprstuvzĀāČčĒēĢģĪīĶķĻļŅņŠšŪūŽž
     Lithuanian:     ABCDEFGHIJKLMNOPRSTUVYZabcdefghijklmnoprstuvyzĄąČčĖėĘęĮįŠšŪūŲųŽž
