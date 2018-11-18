@@ -12765,7 +12765,7 @@ StartChar: uni04A2
 Encoding: 1186 1186 711
 Width: 588
 VWidth: 0
-Flags: HWO
+Flags: WO
 HStem: 0 21G<91 189> 256 80<189 399> 540 20G<91 189 399 497>
 VStem: 91 98<0 256 336 560> 399 98<84 256 336 560> 454 72<-112 -14>
 LayerCount: 2
