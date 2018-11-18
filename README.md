@@ -31,9 +31,10 @@ Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
 and Basic Latin alphabets.
 
-Supported languages: Bulgarian, Byelorussian, Czech, English, Estonian,
-Finnish, German, Hungarian, Latvian, Lithuanian, Macedonian, Moldovan (Cyrillic),
-Romanian, Russian, Spanish, Uzbek (Latin).
+Supported languages: Avar, Bulgarian, Byelorussian, Chechen, Czech, English,
+Estonian, Finnish, German, Hungarian, Kirghiz, Latvian, Lithuanian, Macedonian,
+Moldovan (Cyrillic), Mongol, Romanian, Russian, Spanish, Tatar, Turkmen
+(Cyrillic), Uzbek (Latin).
 
 Author
 ------
@@ -83,9 +84,11 @@ _The same in Russian:_
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 буквы русского и основного латинского алфавитов.
 
-Поддерживаемые языки: английский, белорусский, болгарский, венгерский,
-испанский, латышский, литовский, македонский, молдавский (кириллица), немецкий,
-румынский, русский, узбекский (латиница), финский, чешский, эстонский.
+Поддерживаемые языки: аварский, английский, белорусский, болгарский,
+венгерский, испанский, киргизский, латышский, литовский, македонский,
+молдавский (кириллица), монгольский, немецкий, румынский, русский, татарский,
+туркменский (кириллица), узбекский (латиница), финский, чеченский, чешский,
+эстонский.
 
 Проприетарный аналог
 --------------------
