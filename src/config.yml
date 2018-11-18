@@ -27,3 +27,42 @@ unicode:
                 0-3f 5b-60 7b-7e 300-361
                 2000-208e 2150-218b 2460-249b 24ea-24ff
                 2753-2755 2757 275b-2762 2768-2793 2795-2797
+
+# Character sets used in alphabets
+alphabet:
+    Armenian:       ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖաբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև
+    Azeri_Cyr:      ЈАБВГДЕЖЗИКЛМНОПРСТУФХЧШЫабвгдежзиклмнопрстуфхчшыјҒғҜҝҮүҸҹҺһӘәӨө
+    Azeri_Lat:      ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyzÇÖÜçöüĞğİıŞşƏə
+    Bashkir:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҒғҘҙҠҡҢңҪҫҮүҺһӘәӨө
+    Bulgarian:      АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯабвгдежзийклмнопрстуфхцчшщъьюя
+    Byelorussian:   ЁІЎАБВГДЕЖЗЙКЛМНОПРСТУФХЦЧШЫЬЭЮЯабвгдежзйклмнопрстуфхцчшыьэюяёіў
+    Croatian:       ABCDEFGHIJKLMNOPRSTUVZabcdefghijklmnoprstuvxzÐĆćČčđŠšŽž
+    Czech:          ABCDEFGHIJKLMNOPQRSTUVWXYZhÁÉÍÓÚÝČĎĚŇŘŠŤŮŽabcdefghijklmnopqrstuvwxyzháéíóúýčďěňřšťůž
+    English:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+    Estonian:       ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÕÖÜäõöüŠšŽž
+    Finnish:        ABCDEFGHIJKLMNOPQRSTUVWXYZ[]abcdefghijklmnopqrstuvwxyzÄÅÖäåæöŽž
+    French:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÂÆÇÈÉÊËÎÏÔÙÛÜàâæçèéêëîïôùûüÿŒœŸ
+    Georgian:       აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ
+    German:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÖÜßäöü
+    Hungarian:      ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁÉÍÓÖÚÜáéíóöúüŐőŰű
+    Kazakh:         ЁІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёіҒғҚқҢңҮүҰұҺһӘәӨө
+    Kirghiz:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҢңҮүӨө
+    Latvian:        ABCDEFGHIJKLMNOPRSTUVZabcdefghijklmnoprstuvzĀāČčĒēĢģĪīĶķĻļŅņŠšŪūŽž
+    Lithuanian:     ABCDEFGHIJKLMNOPRSTUVYZabcdefghijklmnoprstuvyzĄąČčĖėĘęĮįŠšŪūŲųŽž
+    Macedonian:     ЃЅЈЉЊЌЏАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШабвгдежзиклмнопрстуфхцчшѓѕјљњќџ
+    Moldovan_Cyr:   АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЫЬЭЮЯабвгдежзийклмнопрстуфхцчшыьэюяӁӂ
+    Mongol:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҮүӨө
+    Polish:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÓóĄąĆćĘęŁłŃńŚśŹźŻż
+    Portuguese:     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÇÉÊÍÓÔÕÚàáâãçéêíóôõú
+    Romanian:       ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÂÎâîĂăȘșȚț
+    Russian:        АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя
+    Serbian:        ЂЈЉЊЋЏАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШабвгдежзиклмнопрстуфхцчшђјљњћџ
+    Spanish:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÑñÁáÉéÍíÓóÚúÜü
+    Tadjik:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЧШЪЭЮЯабвгдежзийклмнопрстуфхчшъэюяёҒғҚқҲҳҶҷӢӣӮӯ
+    Tatar:          ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҖҗҢңҮүҺһӘәӨө
+    Turkish:        ABCDEFGHIJKLMNOPRSTUVYZabcdefghijklmnoprstuvyzÇÖÜçöüĞğİıŞş
+    Turkmen_Cyr:    ƏЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҖҗҢңҮүәӨө
+    Turkmen_Lat:    ABDEFGHIJKLMNOPRSTUWYZabdefghijklmnoprstuwyzÄÇÖÜÝäçöüýŇňŞşŽž
+    Ukrainian:      ЄІЇАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгдежзийклмнопрстуфхцчшщьюяєіїҐґ
+    Uzbek_Cyr:      ЁЎАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЪЬЭЮЯабвгдежзийклмнопрстуфхцчшъьэюяёўҒғҚқҲҳ
+    Uzbek_Lat:      ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyzʻʼ

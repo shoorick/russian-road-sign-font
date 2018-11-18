@@ -11,7 +11,7 @@ use List::Util qw( uniq );
 use YAML::Tiny;
 
 my $config = YAML::Tiny->read( 'config.yml' )->[0];
-my ( %ranges, %range_by_code, %count_glyph, %count_ref );
+my ( %ranges, %range_by_code, %count_glyph, %count_ref, @codes, %has_code );
 my $other = 0;
 
 foreach my $type ( qw( gost unicode ) ) {
@@ -30,7 +30,10 @@ local $/;
 my $font = <>;
 
 while ( $font =~ /StartChar: (.+?)\nEncoding: (\d+) \d+ (\d+)\n.+?\n(.+?)\nEndChar\n/gs ) {
-    my ( $name, $code, $number, $content ) = ( $1, $2, $3, $4 );
+    my ( $name,  $code, $number, $content ) = ( $1, $2, $3, $4 );
+    #push @codes, $code;
+    $has_code{$code} = 1;
+
     my $ref = $content =~ /Refer:/ ? 'reference' : '';
     my $set = '';
 
@@ -60,9 +63,24 @@ while ( $font =~ /StartChar: (.+?)\nEncoding: (\d+) \d+ (\d+)\n.+?\n(.+?)\nEndCh
     printf "%d\t%s (%x)\t%s\t%s\n", $number, $name, $code, $ref, $set;
 }
 
+# Statistics for writing systems
+
 print "--------------------\nGOST compliant:\n", stats('gost'),
     "\n--------------------\nMore:\n",           stats('unicode'),
-    "other\t$other\n";
+    "other\t$other\n\n--------------------\nLanguages:\n";
+
+# Supported languages
+foreach my $alphabet ( sort keys %{ $config->{'alphabet'} } ) {
+    my @alphabet = map { ord } split '', $config->{'alphabet'}->{$alphabet};
+    my $presented = 1;
+    foreach my $code ( @alphabet ) {
+        $presented = 0
+        and last
+            unless exists $has_code{$code}
+    }
+    print "$alphabet " if $presented;
+}
+print "\n";
 
 sub stats {
     my $type = shift;
