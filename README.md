@@ -11,20 +11,20 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By November 19, 2018 this font contains 692 characters including:
+By November 19, 2018 this font contains 713 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 54 (+62) = 116 of 161 (72 %)
-* ~~Armenian alphabet:~~ 0 (+9) = 9 of 77 (11 %)
+* Cyrillic alphabet: 63 (+64) = 127 of 161 (78 %)
+* ~~Armenian alphabet:~~ 0 (+11) = 11 of 77 (14 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
 Additional glyphs which are not described by GOST:
 
-* Digits and punctuation signs: 26 (+39) = 65
-* Latin alphabet and IPA: 18 (+256) = 274
-* Cyrillic alphabet: 12 (+29) = 41
-* Greek alphabet: 9 (+54) = 63
+* Digits and punctuation signs: 22 (+32) = 54
+* Latin alphabet and IPA: 23 (+263) = 286
+* Cyrillic alphabet: 17 (+29) = 46
+* Greek alphabet: 11 (+54) = 65
 * other: 4 (+4) = 8
 
 Font contains all digits (normal size, subscript, superscript),
@@ -65,20 +65,20 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 19.11.2018 содержит 692 символа, в том числе:
+Этот шрифт по состоянию на 19.11.2018 содержит 713 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 54 (+62) = 116 из 161 (72 %)
-* ~~Армянский алфавит:~~ 0 (+9) из 77 (11 %)
+* Кириллица: 63 (+64) = 127 из 161 (78 %)
+* ~~Армянский алфавит:~~ 0 (+11) = 11 из 77 (14 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
 Не определены в ГОСТ, но есть в шрифте:
 
-* Цифры и знаки пунктуации: 26 (+39) = 65
-* Латинский алфавит и МФА: 18 (+256) = 274
-* Кириллица: 12 (+29) = 41
-* Греческий алфавит: 9 (+54) = 63
+* Цифры и знаки пунктуации: 22 (+32) = 54
+* Латинский алфавит и МФА: 23 (+263) = 286
+* Кириллица: 17 (+29) = 46
+* Греческий алфавит: 11 (+54) = 65
 * прочее: 4 (+4) = 8
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),

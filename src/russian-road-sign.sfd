@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -10117,7 +10116,7 @@ StartChar: afii10147
 Encoding: 1138 1138 571
 Width: 588
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.527>
 VStem: 66 96<159.405 252 322 400.615> 426 96<159.405 252 322 400.615>
 LayerCount: 2
@@ -10171,7 +10170,7 @@ StartChar: afii10195
 Encoding: 1139 1139 574
 Width: 504
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 70<198.534 305.466> 168 56<156 348> 336 70<198.534 305.466>
 VStem: 70 86<102.68 168 224 289.32> 348 86<102.68 168 224 289.32>
 CounterMasks: 1 e0
@@ -10276,7 +10275,7 @@ StartChar: uni0275
 Encoding: 629 629 582
 Width: 504
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 70<198.534 305.466> 168 56<156 348> 336 70<198.534 305.466>
 VStem: 70 86<102.68 168 224 289.32> 348 86<102.68 168 224 289.32>
 CounterMasks: 1 e0
@@ -11011,7 +11010,7 @@ StartChar: uni019F
 Encoding: 415 415 628
 Width: 588
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.527>
 VStem: 66 96<159.405 252 322 400.615> 426 96<159.405 252 322 400.615>
 LayerCount: 2
@@ -11834,7 +11833,7 @@ StartChar: uni03F4
 Encoding: 1012 1012 672
 Width: 588
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 91<232.319 355.681> 252 70<163 425> 483 91<232.162 355.527>
 VStem: 66 96<159.405 252 322 400.615> 426 96<159.405 252 322 400.615>
 LayerCount: 2
