@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="z.svg">
   <defs
      id="defs4" />
@@ -25,20 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="523.79015"
-     inkscape:cy="485.32094"
+     inkscape:zoom="2"
+     inkscape:cx="412.20888"
+     inkscape:cy="713.34012"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -185,8 +185,8 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="fill:#990000;stroke:none"
-       d="m 217,548 0,-84 63,0 c 56,0 77,-49 77,-70 0,-21 -14,-77 -91,-77 -98,0 -140,54 -140,54 L 73,289 c 0,0 81,-63 193,-63 112,0 182,70 182,154 0,105 -98,126 -98,126 0,0 119,28 119,140 0,70 -77,168 -210,168 C 140,814 49,737 49,737 l 63,-77 c 0,0 49,63 154,63 56,0 105,-35 105,-84 0,-56 -42,-91 -91,-91 z"
+       style="opacity:0.7;fill:#990000;stroke:none"
+       d="m 217,548 0,-84 63,0 c 56,0 75,-49 75,-70 0,-21 -12,-77 -89,-77 -98,0 -140,54 -140,54 L 73,289 c 0,0 81,-63 193,-63 113.06066,0 180,70 180,154 0,105 -96,126 -96,126 0,0 115,17.03984 115,140 0,66.43198 -66,168 -206,168 C 140,814 53,739 53,739 l 59,-79 c 0,0 49,63 154,63 56,0 99,-35 99,-84 0,-56 -36,-91 -85,-91 z"
        id="path3010"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsssccsscssccsssc" />
