@@ -32,9 +32,9 @@ uppercase and lowercase symbols of Russian (modern and pre-Revolution)
 and Basic Latin alphabets.
 
 Supported languages: Avar, Bulgarian, Byelorussian, Chechen, Czech, English,
-Estonian, Finnish, German, Hungarian, Kirghiz, Latvian, Lithuanian, Macedonian,
-Moldovan (Cyrillic), Mongol, Romanian, Russian, Spanish, Tatar, Turkmen
-(Cyrillic), Ukrainian, Uzbek (Latin).
+Estonian, Finnish, German, Hungarian, Italian, Kirghiz, Latin, Latvian,
+Lithuanian, Macedonian, Moldovan (Cyrillic), Mongol, Romanian, Russian,
+Spanish, Tatar, Turkmen (Cyrillic), Ukrainian, Uzbek (Latin).
 
 Author
 ------
@@ -85,10 +85,10 @@ _The same in Russian:_
 буквы русского и основного латинского алфавитов.
 
 Поддерживаемые языки: аварский, английский, белорусский, болгарский,
-венгерский, испанский, киргизский, латышский, литовский, македонский,
-молдавский (кириллица), монгольский, немецкий, румынский, русский, татарский,
-туркменский (кириллица), узбекский (латиница), украинский, финский, чеченский,
-чешский, эстонский.
+венгерский, испанский, итальянский, киргизский, латинский, латышский,
+литовский, македонский, молдавский (кириллица), монгольский, немецкий,
+румынский, русский, татарский, туркменский (кириллица), узбекский (латиница),
+украинский, финский, чеченский, чешский, эстонский.
 
 Проприетарный аналог
 --------------------
