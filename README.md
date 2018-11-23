@@ -11,11 +11,11 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By November 19, 2018 this font contains 713 characters including:
+By November 23, 2018 this font contains 717 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 63 (+64) = 127 of 161 (78 %)
+* Cyrillic alphabet: 65 (+64) = 129 of 161 (80 %)
 * ~~Armenian alphabet:~~ 0 (+11) = 11 of 77 (14 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -23,7 +23,7 @@ Additional glyphs which are not described by GOST:
 
 * Digits and punctuation signs: 22 (+32) = 54
 * Latin alphabet and IPA: 23 (+263) = 286
-* Cyrillic alphabet: 17 (+29) = 46
+* Cyrillic alphabet: 19 (+29) = 48
 * Greek alphabet: 11 (+54) = 65
 * other: 4 (+4) = 8
 
@@ -34,7 +34,7 @@ and Basic Latin alphabets.
 Supported languages: Avar, Bulgarian, Byelorussian, Chechen, Czech, English,
 Estonian, Finnish, German, Hungarian, Kirghiz, Latvian, Lithuanian, Macedonian,
 Moldovan (Cyrillic), Mongol, Romanian, Russian, Spanish, Tatar, Turkmen
-(Cyrillic), Uzbek (Latin).
+(Cyrillic), Ukrainian, Uzbek (Latin).
 
 Author
 ------
@@ -65,11 +65,11 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 19.11.2018 содержит 713 символов, в том числе:
+Этот шрифт по состоянию на 19.11.2018 содержит 717 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 63 (+64) = 127 из 161 (78 %)
+* Кириллица: 65 (+64) = 129 из 161 (80 %)
 * ~~Армянский алфавит:~~ 0 (+11) = 11 из 77 (14 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
@@ -77,7 +77,7 @@ _The same in Russian:_
 
 * Цифры и знаки пунктуации: 22 (+32) = 54
 * Латинский алфавит и МФА: 23 (+263) = 286
-* Кириллица: 17 (+29) = 46
+* Кириллица: 19 (+29) = 48
 * Греческий алфавит: 11 (+54) = 65
 * прочее: 4 (+4) = 8
 
@@ -87,8 +87,8 @@ _The same in Russian:_
 Поддерживаемые языки: аварский, английский, белорусский, болгарский,
 венгерский, испанский, киргизский, латышский, литовский, македонский,
 молдавский (кириллица), монгольский, немецкий, румынский, русский, татарский,
-туркменский (кириллица), узбекский (латиница), финский, чеченский, чешский,
-эстонский.
+туркменский (кириллица), узбекский (латиница), украинский, финский, чеченский,
+чешский, эстонский.
 
 Проприетарный аналог
 --------------------
