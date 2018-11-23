@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1543000159
+ModificationTime: 1543000636
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 988 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 714
+BeginChars: 1114112 715
 
 StartChar: F
 Encoding: 70 70 0
@@ -1570,7 +1570,7 @@ StartChar: afii10028
 Encoding: 1050 1050 71
 Width: 588
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: 0 21G<84 182 415 546> 256 93<182.095 243.922> 476 98<431.122 470.5> 540 20G<84 182>
 VStem: 84 98<0 256 349 560>
 LayerCount: 2
@@ -12380,7 +12380,7 @@ StartChar: uni0496
 Encoding: 1174 1174 699
 Width: 910
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: 0 21G<49 185.5 399 497> 259 87<340.75 398.906 497.094 555.25> 473 94<123.915 160.677 735.323 772.085> 540 20G<399 497>
 VStem: 399 98<0 256 346.001 560> 770 70<-112 -14>
 LayerCount: 2
@@ -12441,8 +12441,8 @@ SplineSet
  308 392 l 1
  392 392 l 1xdc
  392 245 l 1
- 395 244 397 244 400 244 c 4
- 458 244 495 392 602 399 c 5
+ 395 244 397 244 400 244 c 0
+ 458 244 495 392 602 399 c 1
  623 315 l 1
  546 315 528 229 476 217 c 1
  531 213 566 168 588 112 c 0
@@ -12820,7 +12820,7 @@ StartChar: uni04A0
 Encoding: 1184 1184 713
 Width: 638
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<140 238 465 596> 256 93<238.095 299.368> 476 98<481.27 520.5> 476 84<28 140>
 VStem: 140 98<0 256 349 476>
 LayerCount: 2
@@ -12845,6 +12845,41 @@ SplineSet
  28 560 l 1
  238 560 l 1
  238 351 l 1xd8
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni049A
+Encoding: 1178 1178 714
+Width: 607
+VWidth: 0
+Flags: W
+HStem: 0 21G<84 182> 476 98<431.122 470.5> 540 20G<84 182>
+VStem: 84 98<0 257.984 349 560> 462 75<-112 -14>
+LayerCount: 2
+Fore
+SplineSet
+182 351 m 1xb8
+ 184 349 188 349 193 349 c 0
+ 295 349 324 560 469 574 c 1
+ 490 476 l 1xd8
+ 436 476 422 446 392 406 c 0
+ 365 371 321 308 294 308 c 1
+ 364 301 383 249 418 189 c 0
+ 438 154 457 117 477 84 c 1
+ 551 84 l 1
+ 537 -112 l 1
+ 462 -112 l 1
+ 454 0 l 1
+ 422 0 l 1
+ 404 35 348 126 313 189 c 0
+ 288 233 266 259 224 259 c 0
+ 210 259 182 256 182 256 c 1
+ 182 0 l 1
+ 84 0 l 1
+ 84 560 l 1
+ 182 560 l 1
+ 182 351 l 1xb8
 EndSplineSet
 Validated: 1
 EndChar
