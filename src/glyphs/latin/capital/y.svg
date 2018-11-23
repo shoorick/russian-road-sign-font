@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="y.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="433.96148"
-     inkscape:cy="438.56167"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="497.32139"
+     inkscape:cy="412.59036"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="732"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -184,7 +184,7 @@
      id="layer3"
      inkscape:label="glyph">
     <path
-       style="fill:#800000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#800000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.7"
        d="m 245,800 98,0 0,-224 L 518,240 406,240 294,471 182,240 70,240 245,576 z"
        id="path3109"
        inkscape:connector-curvature="0"

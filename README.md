@@ -15,7 +15,7 @@ By November 23, 2018 this font contains 728 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 76 (+64) = 140 of 161 (86 %)
+* Cyrillic alphabet: 78 (+64) = 142 of 161 (88 %)
 * ~~Armenian alphabet:~~ 0 (+11) = 11 of 77 (14 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -33,9 +33,9 @@ and Basic Latin alphabets.
 
 Supported languages: Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
 Chuvash, Czech, English, Estonian, Finnish, German, Hungarian, Italian, Kalmyk,
-Kirghiz, Latin, Latvian, Lithuanian, Macedonian, Moldovan (Cyrillic), Mongol,
-Romanian, Russian, Spanish, Tatar, Turkmen (Cyrillic), Tuvan, Ukrainian, Uzbek
-(Latin).
+Kazakh, Kirghiz, Latin, Latvian, Lithuanian, Macedonian, Moldovan (Cyrillic),
+Mongol, Romanian, Russian, Spanish, Tatar, Turkmen (Cyrillic), Tuvan,
+Ukrainian, Uzbek (Latin).
 
 Author
 ------
@@ -70,7 +70,7 @@ _The same in Russian:_
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 76 (+64) = 140 из 161 (86 %)
+* Кириллица: 78 (+64) = 142 из 161 (88 %)
 * ~~Армянский алфавит:~~ 0 (+11) = 11 из 77 (14 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
@@ -86,11 +86,11 @@ _The same in Russian:_
 буквы русского и основного латинского алфавитов.
 
 Поддерживаемые языки: аварский, английский, башкирский, белорусский,
-болгарский, бурятский, венгерский, испанский, итальянский, калмыкский,
-киргизский, латинский, латышский, литовский, македонский, молдавский
-(кириллица), монгольский, немецкий, румынский, русский, татарский, тувинский,
-туркменский (кириллица), узбекский (латиница), украинский, финский, чеченский,
-чешский, чувашский, эстонский.
+болгарский, бурятский, венгерский, испанский, итальянский, казахский,
+калмыкский, киргизский, латинский, латышский, литовский, македонский,
+молдавский (кириллица), монгольский, немецкий, румынский, русский, татарский,
+тувинский, туркменский (кириллица), узбекский (латиница), украинский, финский,
+чеченский, чешский, чувашский, эстонский.
 
 Проприетарный аналог
 --------------------
