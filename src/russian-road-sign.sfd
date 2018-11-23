@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -47,7 +46,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1300 26 10
+WinInfo: 1040 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
@@ -1818,7 +1817,7 @@ StartChar: product
 Encoding: 8719 8719 82
 Width: 588
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<91 189 399 497> 476 84<189 399>
 VStem: 91 98<0 476> 399 98<0 476>
 LayerCount: 2
@@ -3779,7 +3778,7 @@ StartChar: uni0209
 Encoding: 521 521 180
 Width: 252
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<84 168> 372 20G<84 168> 466 147
 VStem: -79.5 292 84 84<0 392>
 LayerCount: 2
@@ -3793,7 +3792,7 @@ StartChar: uni020B
 Encoding: 523 523 181
 Width: 252
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<84 168> 372 20G<84 168> 543 63<61.251 184.236>
 VStem: -24.5 63<466 520.25> 84 84<0 392> 206.5 70<466 520.25>
 LayerCount: 2
@@ -5380,7 +5379,7 @@ StartChar: afii10093
 Encoding: 1099 1099 282
 Width: 656
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<474 558> 0 77<182 325.404> 175 77<182 325.404> 372 20G<98 182 474 558>
 VStem: 98 84<77 175 252 392> 336 81<87.2884 164.712> 474 84<0 392>
 LayerCount: 2
@@ -5875,7 +5874,7 @@ StartChar: uni03F3
 Encoding: 1011 1011 304
 Width: 252
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -167.852 80.7067<3.77817 98.1945> 372 20G<84 168> 460 122<79.8809 172.119>
 VStem: 65 122<474.881 567.119> 84 84<-84.2205 392>
 LayerCount: 2
@@ -5943,7 +5942,7 @@ StartChar: Upsilondieresis
 Encoding: 939 939 308
 Width: 588
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<245 343> 540 20G<70 191.697 396.303 518> 625 122<156.881 249.119 340.881 433.119>
 VStem: 142 122<639.881 732.119> 245 98<0 224> 326 122<639.881 732.119>
 LayerCount: 2
@@ -6247,8 +6246,8 @@ StartChar: uni212A
 Encoding: 8490 8490 323
 Width: 583
 VWidth: 0
-Flags: HW
-HStem: 0 21<95 193 388.878 529> 540 20<95 193 374.227 515>
+Flags: W
+HStem: 0 21G<95 193 388.878 529> 540 20G<95 193 374.227 515>
 VStem: 95 98<0 560>
 LayerCount: 2
 Fore
@@ -7804,8 +7803,8 @@ StartChar: uni2160
 Encoding: 8544 8544 421
 Width: 280
 VWidth: 0
-Flags: HW
-HStem: 0 21<91 189> 540 20<91 189>
+Flags: W
+HStem: 0 21G<91 189> 540 20G<91 189>
 VStem: 91 98<0 560>
 LayerCount: 2
 Fore
@@ -7817,8 +7816,8 @@ StartChar: uni2161
 Encoding: 8545 8545 422
 Width: 462
 VWidth: 0
-Flags: HW
-HStem: 0 21<91 189 273 371> 540 20<91 189 273 371>
+Flags: W
+HStem: 0 21G<91 189 273 371> 540 20G<91 189 273 371>
 VStem: 91 98<0 560> 273 98<0 560>
 LayerCount: 2
 Fore
@@ -7831,8 +7830,8 @@ StartChar: uni2162
 Encoding: 8546 8546 423
 Width: 644
 VWidth: 0
-Flags: HW
-HStem: 0 21<91 189 273 371 455 553> 540 20<91 189 273 371 455 553>
+Flags: W
+HStem: 0 21G<91 189 273 371 455 553> 540 20G<91 189 273 371 455 553>
 VStem: 91 98<0 560> 273 98<0 560> 455 98<0 560>
 CounterMasks: 1 38
 LayerCount: 2
@@ -8302,9 +8301,9 @@ StartChar: quotedblbase
 Encoding: 8222 8222 446
 Width: 385
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -2 112<76.9218 141.584 216.922 281.584>
-VStem: 142 38<-30.841 2> 282 38<-30.841 2>
+VStem: 142 38<-30.8412 2> 282 38<-30.8412 2>
 LayerCount: 2
 Fore
 Refer: 291 39 S 1 0 0 1 140 -336 2
@@ -8316,7 +8315,7 @@ StartChar: quoteright
 Encoding: 8217 8217 447
 Width: 245
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 334 112<76.9218 141.584>
 VStem: 142 38<305.159 338>
 LayerCount: 2
@@ -8329,7 +8328,7 @@ StartChar: quotedblright
 Encoding: 8221 8221 448
 Width: 385
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 334 112<76.9218 141.584 216.922 281.584>
 VStem: 142 38<305.159 338> 282 38<305.159 338>
 LayerCount: 2
@@ -8343,7 +8342,7 @@ StartChar: quoteleft
 Encoding: 8216 8216 449
 Width: 245
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 334 112<103.416 168.078>
 VStem: 65 38<442 474.841>
 LayerCount: 2
@@ -8356,7 +8355,7 @@ StartChar: quotedblleft
 Encoding: 8220 8220 450
 Width: 385
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 334 112<103.416 168.078 243.416 308.078>
 VStem: 65 38<442 474.841> 205 38<442 474.841>
 LayerCount: 2
@@ -8370,9 +8369,9 @@ StartChar: quotesinglbase
 Encoding: 8218 8218 451
 Width: 245
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 112<76.9218 141.584>
-VStem: 142 38<-28.841 4>
+VStem: 142 38<-28.8412 4>
 LayerCount: 2
 Fore
 Refer: 447 8217 S 1 0 0 1 0 -334 2
@@ -8383,7 +8382,7 @@ StartChar: quotereversed
 Encoding: 8219 8219 452
 Width: 245
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 334 112<103.416 168.078>
 VStem: 65 38<305.159 338>
 LayerCount: 2
@@ -8396,7 +8395,7 @@ StartChar: uni201F
 Encoding: 8223 8223 453
 Width: 385
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 334 112<103.416 168.078 243.416 308.078>
 VStem: 65 38<305.159 338> 205 38<305.159 338>
 LayerCount: 2
@@ -9583,7 +9582,7 @@ StartChar: uni03FD
 Encoding: 1021 1021 537
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 91<205.018 331.603> 483 91<205.018 331.603>
 VStem: 402 95<162.98 397.02>
 LayerCount: 2
@@ -9596,7 +9595,7 @@ StartChar: uni03FF
 Encoding: 1023 1023 538
 Width: 560
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 91<205.018 331.603> 219 122<221.881 314.119> 483 91<205.018 331.603>
 VStem: 207 122<233.881 326.119> 402 95<162.98 397.02>
 CounterMasks: 1 e0
@@ -10199,7 +10198,6 @@ StartChar: uni04F9
 Encoding: 1273 1273 576
 Width: 656
 VWidth: 0
-Flags: H
 HStem: 0 21G<474 558> 0 77<182 325.404> 175 77<182 325.404> 372 20G<98 182 474 558> 466 122<189.881 282.119 373.881 466.119>
 VStem: 98 84<77 175 252 392> 175 122<480.881 573.119> 336 81<87.2884 164.712> 359 122<480.881 573.119> 474 84<0 392>
 LayerCount: 2
@@ -11757,7 +11755,7 @@ StartChar: uni037B
 Encoding: 891 891 668
 Width: 476
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 70<175.304 283.805> 336 70<175.304 283.805>
 VStem: 329 91<104.722 287.278>
 LayerCount: 2
@@ -11770,7 +11768,7 @@ StartChar: uni037D
 Encoding: 893 893 669
 Width: 476
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 70<175.304 283.805> 135 122<182.881 275.119> 336 70<175.304 283.805>
 VStem: 168 122<149.881 242.119> 329 91<104.722 287.278>
 CounterMasks: 1 e0
@@ -11947,7 +11945,7 @@ StartChar: kappa
 Encoding: 954 954 678
 Width: 474
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 21G<98 182 300.464 418> 372.005 20G<98 182 297.393 415>
 VStem: 98 84<0 209 214 392.005>
 LayerCount: 2
