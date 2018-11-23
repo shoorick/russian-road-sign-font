@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1542584011
+ModificationTime: 1543000159
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -46,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1144 26 10
+WinInfo: 988 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 713
+BeginChars: 1114112 714
 
 StartChar: F
 Encoding: 70 70 0
@@ -12795,7 +12796,7 @@ StartChar: uni04AF
 Encoding: 1199 1199 712
 Width: 448
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<182 266> 372 20G<49 162.93 285.07 399>
 VStem: 182 84<0 168>
 LayerCount: 2
@@ -12811,6 +12812,39 @@ SplineSet
  266 168 l 1
  266 0 l 1
  182 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni04A0
+Encoding: 1184 1184 713
+Width: 638
+VWidth: 0
+Flags: WO
+HStem: 0 21G<140 238 465 596> 256 93<238.095 299.368> 476 98<481.27 520.5> 476 84<28 140>
+VStem: 140 98<0 256 349 476>
+LayerCount: 2
+Fore
+SplineSet
+238 351 m 1xd8
+ 240 349 244 349 249 349 c 0
+ 351 349 374 560 519 574 c 1xe8
+ 540 476 l 1
+ 486 476 472 446 442 406 c 0
+ 415 371 371 308 344 308 c 1
+ 414 301 435 249 470 189 c 0
+ 511 118 547 38 596 0 c 1
+ 474 0 l 1
+ 456 35 400 126 365 189 c 0
+ 340 233 322 259 280 259 c 0
+ 266 259 238 256 238 256 c 1
+ 238 0 l 1
+ 140 0 l 1
+ 140 476 l 1
+ 28 476 l 1
+ 28 560 l 1
+ 238 560 l 1
+ 238 351 l 1xd8
 EndSplineSet
 Validated: 1
 EndChar
