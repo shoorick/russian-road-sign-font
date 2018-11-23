@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1543010201
+ModificationTime: 1543010589
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 962 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 722
+BeginChars: 1114112 723
 
 StartChar: F
 Encoding: 70 70 0
@@ -3415,7 +3415,7 @@ SplineSet
  175 392 l 1xd8
  175 252 l 1
  178 251 182 251 185 251 c 0
- 248 251 304 392 392 399 c 5
+ 248 251 304 392 392 399 c 1
  413 329 l 1
  347 324 325 236 273 224 c 1
  368 204 381 69 455 0 c 1
@@ -10690,7 +10690,7 @@ SplineSet
  266 336 l 2
  406 336 448 238 448 168 c 0
  448 98 434 0 294 0 c 2
- 49 0 l 5
+ 49 0 l 1
  49 419 l 1
  0 420 l 1
 147 84 m 1
@@ -10719,8 +10719,8 @@ SplineSet
  91 560 l 1
  175 560 l 1
  175 392 l 1
- 224 392 l 5
- 224 315 l 5
+ 224 392 l 1
+ 224 315 l 1
  175 315 l 1
  175 252 l 1
  266 252 l 2
@@ -11133,28 +11133,28 @@ VStem: 91 84<0 168 245 392> 282 84<77 168 252 392> 476 81<87.2884 164.712>
 LayerCount: 2
 Fore
 SplineSet
-91 0 m 5xde
- 91 392 l 5
- 175 392 l 5
- 175 245 l 5
- 282 245 l 5xde
- 282 392 l 5
- 366 392 l 5
- 366 252 l 5
- 420 252 l 6xbe
- 518 252 557 189 557 126 c 4
- 557 63 518 0 420 0 c 6
- 282 0 l 5
- 282 168 l 5
- 175 168 l 5
- 175 0 l 5
- 91 0 l 5xde
-366 77 m 5
- 427 77 l 6
- 455 77 476 103 476 126 c 4
- 476 149 455 175 427 175 c 6
- 366 175 l 5xbe
- 366 77 l 5
+91 0 m 1xde
+ 91 392 l 1
+ 175 392 l 1
+ 175 245 l 1
+ 282 245 l 1xde
+ 282 392 l 1
+ 366 392 l 1
+ 366 252 l 1
+ 420 252 l 2xbe
+ 518 252 557 189 557 126 c 0
+ 557 63 518 0 420 0 c 2
+ 282 0 l 1
+ 282 168 l 1
+ 175 168 l 1
+ 175 0 l 1
+ 91 0 l 1xde
+366 77 m 1
+ 427 77 l 2
+ 455 77 476 103 476 126 c 0
+ 476 149 455 175 427 175 c 2
+ 366 175 l 1xbe
+ 366 77 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -12894,15 +12894,15 @@ VStem: 91 98<0 476> 357 84<560 672>
 LayerCount: 2
 Fore
 SplineSet
-91 0 m 5
- 91 560 l 5
- 357 560 l 5
- 357 672 l 5
- 441 672 l 5
- 441 476 l 5
- 189 476 l 5
- 189 0 l 5
- 91 0 l 5
+91 0 m 1
+ 91 560 l 1
+ 357 560 l 1
+ 357 672 l 1
+ 441 672 l 1
+ 441 476 l 1
+ 189 476 l 1
+ 189 0 l 1
+ 91 0 l 1
 EndSplineSet
 Validated: 1
 EndChar
@@ -12917,15 +12917,15 @@ VStem: 91 84<0 315> 280 84<392 476>
 LayerCount: 2
 Fore
 SplineSet
-91 0 m 5xb8
- 91 392 l 5
- 280 392 l 5xb8
- 280 476 l 5
- 364 476 l 5
- 364 315 l 5xd8
- 175 315 l 5
- 175 0 l 5
- 91 0 l 5xb8
+91 0 m 1xb8
+ 91 392 l 1
+ 280 392 l 1xb8
+ 280 476 l 1
+ 364 476 l 1
+ 364 315 l 1xd8
+ 175 315 l 1
+ 175 0 l 1
+ 91 0 l 1xb8
 EndSplineSet
 Validated: 1
 EndChar
@@ -13108,6 +13108,35 @@ SplineSet
  276 252 301 285 329 318 c 0
  364 358 402 400 439 400 c 0
  442 400 445 400 448 399 c 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0493
+Encoding: 1171 1171 722
+Width: 428
+VWidth: 0
+Flags: WO
+HStem: 0 21G<99 183> 168 56<35 99 183 284> 315 77<183 372>
+VStem: 99 84<0 168 224 315>
+LayerCount: 2
+Fore
+SplineSet
+99 392 m 1
+ 372 392 l 1
+ 372 315 l 1
+ 183 315 l 1
+ 183 224 l 1
+ 284 224 l 1
+ 284 168 l 1
+ 183 168 l 1
+ 183 0 l 1
+ 99 0 l 1
+ 99 168 l 1
+ 35 168 l 1
+ 35 224 l 1
+ 99 224 l 1
+ 99 392 l 1
 EndSplineSet
 Validated: 1
 EndChar
