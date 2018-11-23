@@ -29,6 +29,9 @@ unicode:
                 2753-2755 2757 275b-2762 2768-2793 2795-2797
 
 # Character sets used in alphabets
+# use
+#   perl -MList::Util=uniq -0777 -nE 'say join "", sort(uniq(split ""))'
+# to extract alphabet from text
 alphabet:
     Armenian:       ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖաբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև
     Avar:           ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЭЮЯабвгдежзийклмнопрстуфхцчшщъьэюяёӀ
@@ -36,6 +39,7 @@ alphabet:
     Azeri_Lat:      ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyzÇÖÜçöüĞğİıŞşƏə
     Bashkir:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҒғҘҙҠҡҢңҪҫҮүҺһӘәӨө
     Bulgarian:      АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯабвгдежзийклмнопрстуфхцчшщъьюя
+    Buryat:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҮүҺһӨө
     Byelorussian:   ЁІЎАБВГДЕЖЗЙКЛМНОПРСТУФХЦЧШЫЬЭЮЯабвгдежзйклмнопрстуфхцчшыьэюяёіў
     Chechen:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӀ
     Chuvash:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҪҫӐӑӖӗӲӳ
@@ -49,6 +53,7 @@ alphabet:
     German:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÖÜßäöü
     Hungarian:      ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁÉÍÓÖÚÜáéíóöúüŐőŰű
     Italian:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÈÉÌÍÒÓÙÚàáèéìíòóùú
+    Kalmyk:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҖҗҢңҮүҺһӘәӨө
     Kazakh:         ЁІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёіҒғҚқҢңҮүҰұҺһӘәӨө
     Khakassian:     ЁІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёіҒғҢңӋӌӦӧӰӱ
     Kirghiz:        ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҢңҮүӨө
@@ -69,6 +74,7 @@ alphabet:
     Turkish:        ABCDEFGHIJKLMNOPRSTUVYZabcdefghijklmnoprstuvyzÇÖÜçöüĞğİıŞş
     Turkmen_Cyr:    ƏЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҖҗҢңҮүәӨө
     Turkmen_Lat:    ABDEFGHIJKLMNOPRSTUWYZabdefghijklmnoprstuwyzÄÇÖÜÝäçöüýŇňŞşŽž
+    Tuvan:          ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҢңҮүӨө
     Ukrainian:      ЄІЇАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгдежзийклмнопрстуфхцчшщьюяєіїҐґ
     Uzbek_Cyr:      ЁЎАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЪЬЭЮЯабвгдежзийклмнопрстуфхцчшъьэюяёўҒғҚқҲҳ
     Uzbek_Lat:      ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvxyzʻʼ

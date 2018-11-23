@@ -15,7 +15,7 @@ By November 23, 2018 this font contains 719 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 67 (+64) = 131 of 161 (81 %)
+* Cyrillic alphabet: 69 (+64) = 133 of 161 (82 %)
 * ~~Armenian alphabet:~~ 0 (+11) = 11 of 77 (14 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -31,10 +31,10 @@ Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
 and Basic Latin alphabets.
 
-Supported languages: Avar, Bulgarian, Byelorussian, Chechen, Czech, English,
-Estonian, Finnish, German, Hungarian, Italian, Kirghiz, Latin, Latvian,
-Lithuanian, Macedonian, Moldovan (Cyrillic), Mongol, Romanian, Russian,
-Spanish, Tatar, Turkmen (Cyrillic), Ukrainian, Uzbek (Latin).
+Supported languages: Avar, Bulgarian, Buryat, Byelorussian, Chechen, Czech,
+English, Estonian, Finnish, German, Hungarian, Italian, Kalmyk, Kirghiz, Latin,
+Latvian, Lithuanian, Macedonian, Moldovan (Cyrillic), Mongol, Romanian,
+Russian, Spanish, Tatar, Turkmen (Cyrillic), Tuvan, Ukrainian, Uzbek (Latin).
 
 Author
 ------
@@ -69,7 +69,7 @@ _The same in Russian:_
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 67 (+64) = 131 из 161 (81 %)
+* Кириллица: 69 (+64) = 133 из 161 (82 %)
 * ~~Армянский алфавит:~~ 0 (+11) = 11 из 77 (14 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
@@ -84,11 +84,11 @@ _The same in Russian:_
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 буквы русского и основного латинского алфавитов.
 
-Поддерживаемые языки: аварский, английский, белорусский, болгарский,
-венгерский, испанский, итальянский, киргизский, латинский, латышский,
-литовский, македонский, молдавский (кириллица), монгольский, немецкий,
-румынский, русский, татарский, туркменский (кириллица), узбекский (латиница),
-украинский, финский, чеченский, чешский, эстонский.
+Поддерживаемые языки: аварский, английский, белорусский, болгарский, бурятский,
+венгерский, испанский, итальянский, калмыкский, киргизский, латинский,
+латышский, литовский, македонский, молдавский (кириллица), монгольский,
+немецкий, румынский, русский, татарский, тувинский, туркменский (кириллица),
+узбекский (латиница), украинский, финский, чеченский, чешский, эстонский.
 
 Проприетарный аналог
 --------------------
