@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1543011274
+ModificationTime: 1543012791
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1196 26 10
+WinInfo: 1040 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 724
+BeginChars: 1114112 726
 
 StartChar: F
 Encoding: 70 70 0
@@ -2171,7 +2171,7 @@ StartChar: afii10035
 Encoding: 1057 1057 96
 Width: 560
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: -14 91<231.397 357.981> 483 91<231.397 357.981>
 VStem: 66 95<162.98 397.02>
 LayerCount: 2
@@ -2490,7 +2490,7 @@ StartChar: afii10025
 Encoding: 1047 1047 112
 Width: 524
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -14 91<163.791 327.544> 252 84<213 329.348> 483 91<165.983 326.102>
 VStem: 351 91<358.446 458.3> 361 100<107.5 224.314>
 LayerCount: 2
@@ -11639,7 +11639,7 @@ HStem: -14 91<190.456 354.209> 252 84<188.652 305> 483 91<191.898 352.017>
 VStem: 57 100<107.5 224.314> 76 91<358.446 458.3>
 LayerCount: 2
 Fore
-Refer: 112 1047 S -1 0 0 1 518 0 2
+Refer: 112 1047 N -1 0 0 1 518 0 2
 Validated: 25
 EndChar
 
@@ -13167,6 +13167,75 @@ SplineSet
  120 0 l 5
  120 252 l 5
  65 252 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0498
+Encoding: 1176 1176 724
+Width: 524
+VWidth: 0
+Flags: W
+HStem: -189 119<235.578 305.255> 252 84<213 329.348> 483 91<165.983 326.102>
+VStem: 192 42<-75 -38.6258> 351 91<358.446 458.3> 361 100<108.411 224.314>
+LayerCount: 2
+Fore
+SplineSet
+259 -189 m 0xf4
+ 217 -189 192 -147 192 -105 c 0
+ 192 -67 210 -34 236 -13 c 1
+ 127 -6 49 61 49 61 c 1
+ 108 140 l 1
+ 108 140 157 77 262 77 c 0
+ 318 77 361 112 361 161 c 0xf4
+ 361 217 325 252 276 252 c 2
+ 213 252 l 1
+ 213 336 l 1
+ 276 336 l 2
+ 332 336 351 385 351 406 c 0
+ 351 427 339 483 262 483 c 0
+ 164 483 122 429 122 429 c 1
+ 69 511 l 1
+ 69 511 150 574 262 574 c 0
+ 375 574 442 504 442 420 c 0xf8
+ 442 315 346 294 346 294 c 1
+ 346 294 461 277 461 154 c 0
+ 461 90 401 -5 273 -13 c 1
+ 250 -26 235 -49 234 -75 c 1
+ 242 -71 250 -70 259 -70 c 0
+ 292 -70 319 -97 319 -130 c 0
+ 319 -163 292 -189 259 -189 c 0xf4
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni04AA
+Encoding: 1194 1194 725
+Width: 560
+VWidth: 0
+Flags: WO
+HStem: -188 119<265.578 335.255> -14 91<276.959 355.136> 483 91<231.397 364.023>
+VStem: 66 95<160.201 396.941> 222 42<-74 -37.8585> 406 90<128.768 162 396.933 438.676>
+LayerCount: 2
+Fore
+SplineSet
+289 -188 m 0
+ 247 -188 222 -146 222 -104 c 0
+ 222 -67 240 -33 266 -12 c 1
+ 131 3 66 128 66 280 c 0
+ 66 442 140 574 294 574 c 0
+ 371 574 476 511 497 399 c 1
+ 406 368 l 1
+ 399 462 346 483 294 483 c 0
+ 217 483 161 406 161 280 c 0
+ 161 154 217 77 294 77 c 0
+ 346 77 399 119 406 190 c 1
+ 496 160 l 1
+ 482 62 403 -12 300 -14 c 1
+ 279 -27 265 -49 264 -74 c 1
+ 272 -70 280 -69 289 -69 c 0
+ 322 -69 349 -95 349 -128 c 0
+ 349 -161 322 -188 289 -188 c 0
 EndSplineSet
 Validated: 1
 EndChar
