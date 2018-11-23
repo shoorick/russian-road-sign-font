@@ -11,11 +11,11 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By November 23, 2018 this font contains 719 characters including:
+By November 23, 2018 this font contains 728 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 69 (+64) = 133 of 161 (82 %)
+* Cyrillic alphabet: 76 (+64) = 140 of 161 (86 %)
 * ~~Armenian alphabet:~~ 0 (+11) = 11 of 77 (14 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -31,10 +31,11 @@ Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
 and Basic Latin alphabets.
 
-Supported languages: Avar, Bulgarian, Buryat, Byelorussian, Chechen, Czech,
-English, Estonian, Finnish, German, Hungarian, Italian, Kalmyk, Kirghiz, Latin,
-Latvian, Lithuanian, Macedonian, Moldovan (Cyrillic), Mongol, Romanian,
-Russian, Spanish, Tatar, Turkmen (Cyrillic), Tuvan, Ukrainian, Uzbek (Latin).
+Supported languages: Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
+Chuvash, Czech, English, Estonian, Finnish, German, Hungarian, Italian, Kalmyk,
+Kirghiz, Latin, Latvian, Lithuanian, Macedonian, Moldovan (Cyrillic), Mongol,
+Romanian, Russian, Spanish, Tatar, Turkmen (Cyrillic), Tuvan, Ukrainian, Uzbek
+(Latin).
 
 Author
 ------
@@ -65,11 +66,11 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 19.11.2018 содержит 719 символов, в том числе:
+Этот шрифт по состоянию на 19.11.2018 содержит 728 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 69 (+64) = 133 из 161 (82 %)
+* Кириллица: 76 (+64) = 140 из 161 (86 %)
 * ~~Армянский алфавит:~~ 0 (+11) = 11 из 77 (14 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
@@ -84,11 +85,12 @@ _The same in Russian:_
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 буквы русского и основного латинского алфавитов.
 
-Поддерживаемые языки: аварский, английский, белорусский, болгарский, бурятский,
-венгерский, испанский, итальянский, калмыкский, киргизский, латинский,
-латышский, литовский, македонский, молдавский (кириллица), монгольский,
-немецкий, румынский, русский, татарский, тувинский, туркменский (кириллица),
-узбекский (латиница), украинский, финский, чеченский, чешский, эстонский.
+Поддерживаемые языки: аварский, английский, башкирский, белорусский,
+болгарский, бурятский, венгерский, испанский, итальянский, калмыкский,
+киргизский, латинский, латышский, литовский, македонский, молдавский
+(кириллица), монгольский, немецкий, румынский, русский, татарский, тувинский,
+туркменский (кириллица), узбекский (латиница), украинский, финский, чеченский,
+чешский, чувашский, эстонский.
 
 Проприетарный аналог
 --------------------
