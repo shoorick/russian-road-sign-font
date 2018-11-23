@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1543002168
+ModificationTime: 1543002741
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 988 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 718
+BeginChars: 1114112 719
 
 StartChar: F
 Encoding: 70 70 0
@@ -12935,8 +12935,8 @@ Encoding: 1182 1182 717
 Width: 587
 VWidth: 0
 Flags: WO
-HStem: 0 21G<91 189 414 545> 259 89.8779<189.093 250.977> 457 59<14 91 189 270> 476 98<438.118 477.5> 540 20G<91 189>
-VStem: 91 98<0 257.984 348.878 457 516 560>
+HStem: 0 21G<91 189 414 545> 259 90<189.093 250.922> 457 59<14 91 189 270> 476 98<438.122 477.5> 540 20G<91 189>
+VStem: 91 98<0 257.984 349.606 457 516 560>
 LayerCount: 2
 Fore
 SplineSet
@@ -12964,10 +12964,48 @@ SplineSet
  189 457 l 1xec
  189 351 l 1
  191 350 192 349 196 349 c 0
- 197.431188907 348.918217777 198.848072215 348.877866055 200.251146264 348.877866055 c 0
- 301.785409404 348.877866055 331.00366447 560.190825188 476 574 c 1xd4
+ 197 349 199 349 200 349 c 0
+ 302 349 331 560 476 574 c 1xd4
 EndSplineSet
-Validated: 524289
+Validated: 1
+EndChar
+
+StartChar: uni049C
+Encoding: 1180 1180 718
+Width: 645
+VWidth: 0
+Flags: W
+HStem: 0 21G<63 161 472 603> 259 84<161 210> 476 96<484.837 521.531> 540 20G<63 161>
+VStem: 63 98<0 259 343 560> 210 56<161 259 344 441>
+LayerCount: 2
+Fore
+SplineSet
+520 572 m 1xec
+ 541 476 l 1xec
+ 487 476 479 446 449 406 c 0
+ 422 371 378 308 351 308 c 1
+ 421 301 442 249 477 189 c 0
+ 518 118 554 38 603 0 c 1
+ 481 0 l 1
+ 463 35 407 126 372 189 c 0
+ 348 231 302 263 268 263 c 0
+ 267 263 267 263 266 263 c 2
+ 266 161 l 1
+ 210 161 l 1
+ 210 259 l 1
+ 161 259 l 1
+ 161 0 l 1
+ 63 0 l 1
+ 63 560 l 1
+ 161 560 l 1xdc
+ 161 343 l 1
+ 210 343 l 1
+ 210 441 l 1
+ 266 441 l 1
+ 266 344 l 1
+ 355 366 383 559 520 572 c 1xec
+EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
