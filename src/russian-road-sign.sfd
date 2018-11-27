@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1543350030
+ModificationTime: 1543350404
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1144 26 10
+WinInfo: 1092 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 734
+BeginChars: 1114112 735
 
 StartChar: F
 Encoding: 70 70 0
@@ -13424,6 +13424,7 @@ SplineSet
  91 0 l 1
  91 560 l 1xc0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04B6
@@ -13454,13 +13455,14 @@ SplineSet
  126 203 77 245 77 315 c 2
  77 560 l 1xf0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04AC
 Encoding: 1196 1196 733
 Width: 532
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 476 84<63 217 315 469>
 VStem: 217 98<84 476> 271 72<-112 -14>
 LayerCount: 2
@@ -13480,6 +13482,38 @@ SplineSet
  63 476 l 1
  63 560 l 1xc0
 EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni04CB
+Encoding: 1227 1227 734
+Width: 560
+VWidth: 0
+Flags: WO
+HStem: 203 91<183.982 343.433> 540 20G<77 175 371 469>
+VStem: 77 98<302.207 560> 335 77<-112 -14> 371 98<84 238 317.972 560>
+LayerCount: 2
+Fore
+SplineSet
+77 560 m 5xe8
+ 175 560 l 5
+ 175 351 l 6
+ 175 315 189 294 224 294 c 4
+ 280 294 336 308 371 329 c 5
+ 371 560 l 5
+ 469 560 l 5
+ 469 0 l 5xe8
+ 420 0 l 5
+ 412 -112 l 5
+ 335 -112 l 5xf0
+ 321 84 l 5
+ 371 84 l 5
+ 371 238 l 5
+ 336 210 266 203 224 203 c 4
+ 126 203 77 245 77 315 c 6
+ 77 560 l 5xe8
+EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont

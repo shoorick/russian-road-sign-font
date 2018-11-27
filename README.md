@@ -15,7 +15,7 @@ By November 27, 2018 this font contains 733 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 80 (+64) = 144 of 161 (89 %)
+* Cyrillic alphabet: 81 (+64) = 145 of 161 (90 %)
 * ~~Armenian alphabet:~~ 0 (+11) = 11 of 77 (14 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -23,7 +23,7 @@ Additional glyphs which are not described by GOST:
 
 * Digits and punctuation signs: 22 (+32) = 54
 * Latin alphabet and IPA: 23 (+263) = 286
-* Cyrillic alphabet: 19 (+29) = 48
+* Cyrillic alphabet: 21 (+29) = 50
 * Greek alphabet: 11 (+54) = 65
 * other: 4 (+4) = 8
 
@@ -35,11 +35,11 @@ Supported languages:
 Abaza, Adyghe, Aghul, Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
 Chuvash, Crimean Tatar (Cyrillic), Czech, Dargin, English, Esperanto, Estonian,
 Finnish, German, Hungarian, Ingush, Italian, Kabardian, Kalmyk,
-Karachay_Balkar, Karelian, Kazakh, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian,
-Lezgian, Lithuanian, Macedonian, Moldovan (Cyrillic and Latin), Mongol,
-Mordvinic, Nogai, Ossetian, Romanian, Russian, Rutul, Spanish, Tabasaran,
-Tadjik, Tat, Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan, Udmurt, Ukrainian,
-Uzbek (Cyrillic and Latin), Veps.
+Karachay_Balkar, Karelian, Kazakh, Khakassian, Kirghiz, Komi, Kumyk, Lak,
+Latin, Latvian, Lezgian, Lithuanian, Macedonian, Moldovan (Cyrillic and Latin),
+Mongol, Mordvinic, Nogai, Ossetian, Romanian, Russian, Rutul, Spanish,
+Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan, Udmurt,
+Ukrainian, Uzbek (Cyrillic and Latin), Veps.
 
 Author
 ------
@@ -74,7 +74,7 @@ _The same in Russian:_
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 80 (+64) = 144 из 161 (89 %)
+* Кириллица: 81 (+64) = 145 из 161 (90 %)
 * ~~Армянский алфавит:~~ 0 (+11) = 11 из 77 (14 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
@@ -82,7 +82,7 @@ _The same in Russian:_
 
 * Цифры и знаки пунктуации: 22 (+32) = 54
 * Латинский алфавит и МФА: 23 (+263) = 286
-* Кириллица: 19 (+29) = 48
+* Кириллица: 21 (+29) = 50
 * Греческий алфавит: 11 (+54) = 65
 * прочее: 4 (+4) = 8
 
@@ -99,7 +99,8 @@ _The same in Russian:_
 монгольский, мордовский, немецкий, ногайский, осетинский, румынский, русский,
 рутульский, табасаранский, таджикский, татарский, татский, тувинский,
 туркменский (кириллица), удмуртский, узбекский (оба алфавита), украинский,
-финский, цахурский, чеченский, чешский, чувашский, эсперанто, эстонский.
+финский, хакасский, цахурский, чеченский, чешский, чувашский, эсперанто,
+эстонский.
 
 Проприетарный аналог
 --------------------
