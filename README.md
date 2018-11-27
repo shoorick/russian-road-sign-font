@@ -31,11 +31,15 @@ Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
 and Basic Latin alphabets.
 
-Supported languages: Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
-Chuvash, Czech, English, Estonian, Finnish, German, Hungarian, Italian, Kalmyk,
-Kazakh, Kirghiz, Latin, Latvian, Lithuanian, Macedonian, Moldovan (Cyrillic and
-Latin), Mongol, Romanian, Russian, Spanish, Tadjik, Tatar, Turkmen (Cyrillic),
-Tuvan, Ukrainian, Uzbek (Cyrillic and Latin).
+Supported languages:
+Abaza, Adyghe, Aghul, Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
+Chuvash, Crimean Tatar (Cyrillic), Czech, Dargin, English, Esperanto, Estonian,
+Finnish, German, Hungarian, Ingush, Italian, Kabardian, Kalmyk,
+Karachay_Balkar, Karelian, Kazakh, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian,
+Lezgian, Lithuanian, Macedonian, Moldovan (Cyrillic and Latin), Mongol,
+Mordvinic, Nogai, Ossetian, Romanian, Russian, Rutul, Spanish, Tabasaran,
+Tadjik, Tat, Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan, Udmurt, Ukrainian,
+Uzbek (Cyrillic and Latin), Veps.
 
 Author
 ------
@@ -85,13 +89,17 @@ _The same in Russian:_
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 буквы русского и основного латинского алфавитов.
 
-Поддерживаемые языки: аварский, английский, башкирский, белорусский,
-болгарский, бурятский, венгерский, испанский, итальянский, казахский,
-калмыкский, киргизский, латинский, латышский, литовский, македонский,
-молдавский (оба алфавита — кириллический и латинский), монгольский, немецкий,
-румынский, русский, таджикский, татарский, тувинский, туркменский (кириллица),
-узбекский (оба алфавита), украинский, финский, чеченский, чешский, чувашский,
-эстонский.
+Поддерживаемые языки:
+абазинский, аварский, агульский, адыгейский, английский, башкирский,
+белорусский, болгарский, бурятский, венгерский, вепсский, даргинский,
+ингушский, испанский, итальянский, кабардино-черкесский, казахский, калмыкский,
+карачаево-балкарский, карельский, киргизский, коми, крымскотатарский
+(кириллица), кумыкский, лакский, латинский, латышский, лезгинский, литовский,
+македонский, молдавский (оба алфавита — кириллический и латинский),
+монгольский, мордовский, немецкий, ногайский, осетинский, румынский, русский,
+рутульский, табасаранский, таджикский, татарский, татский, тувинский,
+туркменский (кириллица), удмуртский, узбекский (оба алфавита), украинский,
+финский, цахурский, чеченский, чешский, чувашский, эсперанто, эстонский.
 
 Проприетарный аналог
 --------------------
