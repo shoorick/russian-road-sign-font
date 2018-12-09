@@ -11,7 +11,7 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By December 9, 2018 this font contains 1001 characters including:
+By December 9, 2018 this font contains 1022 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
@@ -21,15 +21,15 @@ By December 9, 2018 this font contains 1001 characters including:
 
 Additional glyphs which are not described by GOST:
 
-* Digits and punctuation signs: 26 (+32) = 58
-* Latin alphabet and IPA: 24 (+444) = 468
+* Digits and punctuation signs: 34 (+55) = 89
+* Latin alphabet and IPA: 19 (+438) = 457
 * Cyrillic alphabet: 21 (+29) = 50
 * Greek alphabet: 11 (+134) = 145
 * other: 4 (+4) = 8
 
 Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
-and Basic Latin alphabets.
+and Basic Latin alphabets. Also font contains full visible part of ASCII.
 
 Supported languages:
 Abaza, Adyghe, Aghul, Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
@@ -70,7 +70,7 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 09.12.2018 содержит 1001 символ, в том числе:
+Этот шрифт по состоянию на 09.12.2018 содержит 1022 символа, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
@@ -80,14 +80,15 @@ _The same in Russian:_
 
 Не определены в ГОСТ, но есть в шрифте:
 
-* Цифры и знаки пунктуации: 26 (+32) = 58
-* Латинский алфавит и МФА: 24 (+444) = 468
+* Цифры и знаки пунктуации: 34 (+55) = 89
+* Латинский алфавит и МФА: 19 (+438) = 457
 * Кириллица: 21 (+29) = 50
 * Греческий алфавит: 11 (+134) = 145
 * прочее: 4 (+4) = 8
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
-буквы русского и основного латинского алфавитов.
+буквы русского и основного латинского алфавитов. Кроме того, шрифт содержит все
+видимые символы ASCII.
 
 Поддерживаемые языки:
 абазинский, аварский, агульский, адыгейский, английский, башкирский,
