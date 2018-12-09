@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1543354580
+ModificationTime: 1544368255
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8138 26 10
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 999
+BeginChars: 1114112 1000
 
 StartChar: F
 Encoding: 70 70 0
@@ -16884,6 +16884,7 @@ LayerCount: 2
 Fore
 Refer: 471 715 N 1 0 0 1 -147 -14 2
 Refer: 144 933 N 1 0 0 1 0 0 2
+Validated: 9
 EndChar
 
 StartChar: uni1FE9
@@ -16896,6 +16897,7 @@ LayerCount: 2
 Fore
 Refer: 600 772 N 1 0 0 1 77 175 2
 Refer: 144 933 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1FE8
@@ -16908,6 +16910,7 @@ LayerCount: 2
 Fore
 Refer: 587 774 N 1 0 0 1 103.5 32 2
 Refer: 144 933 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1FEC
@@ -16920,6 +16923,7 @@ LayerCount: 2
 Fore
 Refer: 477 701 N 1 0 0 1 -149 128 2
 Refer: 50 929 N 1 0 0 1 0 0 2
+Validated: 9
 EndChar
 
 StartChar: uni1FF8
@@ -16932,6 +16936,7 @@ LayerCount: 2
 Fore
 Refer: 471 715 N 1 0 0 1 50 -14 2
 Refer: 77 927 N 1 0 0 1 141 0 2
+Validated: 9
 EndChar
 
 StartChar: uni1FC8
@@ -16944,13 +16949,14 @@ LayerCount: 2
 Fore
 Refer: 471 715 N 1 0 0 1 -126 -14 2
 Refer: 39 917 N 1 0 0 1 0 0 2
+Validated: 9
 EndChar
 
 StartChar: perthousand
 Encoding: 8240 8240 997
 Width: 714
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -7 64<307.121 364.879 527.121 584.879> 119 64<307.121 364.879 527.121 584.879> 313 64<129.121 186.879> 439 64<129.121 186.879>
 VStem: 63 64<379.121 436.879> 189 64<379.121 436.879> 241 64<59.1208 116.879> 367 64<59.1208 116.879> 461 64<59.1208 116.879> 587 64<59.1208 116.879>
 LayerCount: 2
@@ -16992,6 +16998,7 @@ SplineSet
  574 57 587 70 587 88 c 0
  587 106 574 119 556 119 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2031
@@ -17049,6 +17056,33 @@ SplineSet
  745 70 758 57 776 57 c 0
  794 57 807 70 807 88 c 0
  807 106 794 119 776 119 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: plus
+Encoding: 43 43 999
+Width: 504
+VWidth: 0
+Flags: WO
+HStem: 252 84<56 210 294 448>
+VStem: 210 84<98 252 336 490>
+LayerCount: 2
+Fore
+SplineSet
+210 490 m 1
+ 294 490 l 1
+ 294 336 l 1
+ 448 336 l 1
+ 448 252 l 1
+ 294 252 l 1
+ 294 98 l 1
+ 210 98 l 1
+ 210 252 l 1
+ 56 252 l 1
+ 56 336 l 1
+ 210 336 l 1
+ 210 490 l 1
 EndSplineSet
 EndChar
 EndChars
