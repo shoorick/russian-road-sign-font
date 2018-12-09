@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1544372431
+ModificationTime: 1544372664
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8528 26 10
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1015
+BeginChars: 1114112 1016
 
 StartChar: F
 Encoding: 70 70 0
@@ -17084,6 +17084,7 @@ SplineSet
  210 336 l 1
  210 490 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: multiply
@@ -17116,6 +17117,7 @@ SplineSet
  259 357 l 1
  371 469 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: minus
@@ -17133,6 +17135,7 @@ SplineSet
  448 252 l 5
  56 252 l 5
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2164
@@ -17144,6 +17147,7 @@ HStem: 0 21G<225.25 362.5> 540 20G<70 187.333 400.667 511>
 LayerCount: 2
 Fore
 Refer: 32 86 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2165
@@ -17157,6 +17161,7 @@ LayerCount: 2
 Fore
 Refer: 421 8544 N 1 0 0 1 490 0 2
 Refer: 32 86 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2166
@@ -17170,6 +17175,7 @@ LayerCount: 2
 Fore
 Refer: 421 8544 N 1 0 0 1 679 0 2
 Refer: 1003 8549 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2163
@@ -17183,6 +17189,7 @@ LayerCount: 2
 Fore
 Refer: 421 8544 N 1 0 0 1 0 0 2
 Refer: 32 86 N 1 0 0 1 182 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2167
@@ -17197,6 +17204,7 @@ LayerCount: 2
 Fore
 Refer: 421 8544 N 1 0 0 1 868 0 2
 Refer: 1004 8550 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni216C
@@ -17209,6 +17217,7 @@ VStem: 91 98<84 560>
 LayerCount: 2
 Fore
 Refer: 30 76 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni216D
@@ -17221,6 +17230,7 @@ VStem: 66 95<162.98 397.02>
 LayerCount: 2
 Fore
 Refer: 88 67 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni216E
@@ -17233,6 +17243,7 @@ VStem: 91 98<84 476> 420 102<172.869 387.131>
 LayerCount: 2
 Fore
 Refer: 89 68 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni216F
@@ -17245,6 +17256,7 @@ VStem: 84 98<0 406> 518 98<0 406> 525 91<0 406>
 LayerCount: 2
 Fore
 Refer: 35 77 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2169
@@ -17256,6 +17268,7 @@ HStem: 0 21G<42 171.034 372.966 502> 540 20G<56 191.4 352.6 488>
 LayerCount: 2
 Fore
 Refer: 4 88 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2168
@@ -17269,6 +17282,7 @@ LayerCount: 2
 Fore
 Refer: 421 8544 N 1 0 0 1 0 0 2
 Refer: 1011 8553 N 1 0 0 1 182 0 2
+Validated: 1
 EndChar
 
 StartChar: uni216A
@@ -17282,19 +17296,35 @@ LayerCount: 2
 Fore
 Refer: 421 8544 N 1 0 0 1 453 0 2
 Refer: 1011 8553 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni216B
 Encoding: 8555 8555 1014
 Width: 922
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<42 171.034 372.966 502 544 642 733 831> 540 20G<56 191.4 352.6 488 544 642 733 831>
 VStem: 544 98<0 560> 733 98<0 560>
 LayerCount: 2
 Fore
 Refer: 421 8544 N 1 0 0 1 642 0 2
 Refer: 1013 8554 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: divide
+Encoding: 247 247 1015
+Width: 504
+VWidth: 0
+Flags: WO
+HStem: 93 122<204.881 297.119> 252 84<56 448> 373 122<204.881 297.119>
+VStem: 190 122<107.881 200.119 387.881 480.119>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+Refer: 1001 8722 S 1 0 0 1 0 0 2
+Refer: 66 58 S 1 0 0 1 139 98 2
 EndChar
 EndChars
 EndSplineFont
