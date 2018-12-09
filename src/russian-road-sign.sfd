@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1544371436
+ModificationTime: 1544372431
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8684 26 10
+WinInfo: 8528 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1002
+BeginChars: 1114112 1015
 
 StartChar: F
 Encoding: 70 70 0
@@ -17122,7 +17122,7 @@ StartChar: minus
 Encoding: 8722 8722 1001
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 252 84<56 448>
 LayerCount: 2
 Fore
@@ -17133,6 +17133,168 @@ SplineSet
  448 252 l 5
  56 252 l 5
 EndSplineSet
+EndChar
+
+StartChar: uni2164
+Encoding: 8548 8548 1002
+Width: 581
+VWidth: 0
+Flags: W
+HStem: 0 21G<225.25 362.5> 540 20G<70 187.333 400.667 511>
+LayerCount: 2
+Fore
+Refer: 32 86 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2165
+Encoding: 8549 8549 1003
+Width: 770
+VWidth: 0
+Flags: W
+HStem: 0 21G<225.25 362.5 581 679> 540 20G<70 187.333 400.667 511 581 679>
+VStem: 581 98<0 560>
+LayerCount: 2
+Fore
+Refer: 421 8544 N 1 0 0 1 490 0 2
+Refer: 32 86 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2166
+Encoding: 8550 8550 1004
+Width: 959
+VWidth: 0
+Flags: W
+HStem: 0 21G<225.25 362.5 581 679 770 868> 540 20G<70 187.333 400.667 511 581 679 770 868>
+VStem: 581 98<0 560> 770 98<0 560>
+LayerCount: 2
+Fore
+Refer: 421 8544 N 1 0 0 1 679 0 2
+Refer: 1003 8549 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2163
+Encoding: 8547 8547 1005
+Width: 763
+VWidth: 0
+Flags: W
+HStem: 0 21G<91 189 407.25 544.5> 540 20G<91 189 252 369.333 582.667 693>
+VStem: 91 98<0 560>
+LayerCount: 2
+Fore
+Refer: 421 8544 N 1 0 0 1 0 0 2
+Refer: 32 86 N 1 0 0 1 182 0 2
+EndChar
+
+StartChar: uni2167
+Encoding: 8551 8551 1006
+Width: 1148
+VWidth: 0
+Flags: W
+HStem: 0 21G<225.25 362.5 581 679 770 868 959 1057> 540 20G<70 187.333 400.667 511 581 679 770 868 959 1057>
+VStem: 581 98<0 560> 770 98<0 560> 959 98<0 560>
+CounterMasks: 1 38
+LayerCount: 2
+Fore
+Refer: 421 8544 N 1 0 0 1 868 0 2
+Refer: 1004 8550 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni216C
+Encoding: 8556 8556 1007
+Width: 504
+VWidth: 0
+Flags: W
+HStem: 0 84<189 441> 540 20G<91 189>
+VStem: 91 98<84 560>
+LayerCount: 2
+Fore
+Refer: 30 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni216D
+Encoding: 8557 8557 1008
+Width: 560
+VWidth: 0
+Flags: W
+HStem: -14 91<231.397 357.982> 483 91<231.397 357.982>
+VStem: 66 95<162.98 397.02>
+LayerCount: 2
+Fore
+Refer: 88 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni216E
+Encoding: 8558 8558 1009
+Width: 588
+VWidth: 0
+Flags: W
+HStem: 0 84<189 340.992> 476 84<189 340.992>
+VStem: 91 98<84 476> 420 102<172.869 387.131>
+LayerCount: 2
+Fore
+Refer: 89 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni216F
+Encoding: 8559 8559 1010
+Width: 700
+VWidth: 0
+Flags: W
+HStem: 0 21G<84 182 524.655 616> 540 20G<84 207.892 492.108 616>
+VStem: 84 98<0 406> 518 98<0 406> 525 91<0 406>
+LayerCount: 2
+Fore
+Refer: 35 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2169
+Encoding: 8553 8553 1011
+Width: 544
+VWidth: 0
+Flags: W
+HStem: 0 21G<42 171.034 372.966 502> 540 20G<56 191.4 352.6 488>
+LayerCount: 2
+Fore
+Refer: 4 88 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni2168
+Encoding: 8552 8552 1012
+Width: 726
+VWidth: 0
+Flags: W
+HStem: 0 21G<91 189 224 353.034 554.966 684> 540 20G<91 189 238 373.4 534.6 670>
+VStem: 91 98<0 560>
+LayerCount: 2
+Fore
+Refer: 421 8544 N 1 0 0 1 0 0 2
+Refer: 1011 8553 N 1 0 0 1 182 0 2
+EndChar
+
+StartChar: uni216A
+Encoding: 8554 8554 1013
+Width: 733
+VWidth: 0
+Flags: W
+HStem: 0 21G<42 171.034 372.966 502 544 642> 540 20G<56 191.4 352.6 488 544 642>
+VStem: 544 98<0 560>
+LayerCount: 2
+Fore
+Refer: 421 8544 N 1 0 0 1 453 0 2
+Refer: 1011 8553 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni216B
+Encoding: 8555 8555 1014
+Width: 922
+VWidth: 0
+Flags: WO
+HStem: 0 21G<42 171.034 372.966 502 544 642 733 831> 540 20G<56 191.4 352.6 488 544 642 733 831>
+VStem: 544 98<0 560> 733 98<0 560>
+LayerCount: 2
+Fore
+Refer: 421 8544 N 1 0 0 1 642 0 2
+Refer: 1013 8554 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
