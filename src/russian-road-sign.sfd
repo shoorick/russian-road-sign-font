@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1544811669
+ModificationTime: 1544812687
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1144 26 10
+WinInfo: 1066 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1036
+BeginChars: 1114112 1038
 
 StartChar: F
 Encoding: 70 70 0
@@ -17659,7 +17659,7 @@ StartChar: uni04C8
 Encoding: 1224 1224 1035
 Width: 469
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -167.852 80.7067<252.021 327.378> 0 21G<98 182> 168 77<182 328.84> 372 20G<98 182 328.994 413>
 VStem: 98 84<0 168 245 392> 328.5 84<-84.2205 168 245 392>
 LayerCount: 2
@@ -17683,6 +17683,64 @@ SplineSet
  182 0 l 1
  98 0 l 1
  98 392 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni04C7
+Encoding: 1223 1223 1036
+Width: 588
+VWidth: 0
+Flags: W
+HStem: -136 98<243.879 382.116> 0 21G<91 189> 256 80<189 399> 540 20G<91 189 399 497>
+VStem: 91 98<0 256 336 560> 399 98<-21.1654 256 336 560>
+LayerCount: 2
+Fore
+SplineSet
+91 560 m 1
+ 189 560 l 1
+ 189 336 l 1
+ 399 336 l 1
+ 399 560 l 1
+ 497 560 l 1
+ 497 374.591145833 497 189.182291667 497 3.7734375 c 0
+ 497 -62.169921875 441 -136 343 -136 c 0
+ 308 -136 238 -122 238 -122 c 1
+ 245 -24 l 1
+ 245 -24 287 -38 336 -38 c 0
+ 364 -38 399 -17.0009765625 399 31.552734375 c 2
+ 399 256 l 1
+ 189 256 l 1
+ 189 0 l 1
+ 91 0 l 1
+ 91 560 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0512
+Encoding: 1298 1298 1037
+Width: 609
+VWidth: 0
+Flags: WO
+HStem: -136 98<266.038 403.116> -14 21G<66.5957 88> 476 84<266 420>
+VStem: 161 98<137.999 475.848> 168 98<199.382 476> 420 98<-20.9648 476>
+LayerCount: 2
+Fore
+SplineSet
+168 560 m 1xec
+ 518 560 l 1
+ 518 4 l 2
+ 518 -62 462 -136 364 -136 c 0
+ 329 -136 266 -122 266 -122 c 1
+ 266 -24 l 1
+ 266 -24 308 -38 357 -38 c 0
+ 385 -38 420 -17 420 32 c 2
+ 420 476 l 1
+ 266 476 l 1xec
+ 266 476 266 266 259 196 c 4
+ 239 -0 70 -14 70 -14 c 1
+ 54 80 l 1
+ 54 80 148 105 161 182 c 0xf4
+ 168 224 168 434 168 560 c 1xec
 EndSplineSet
 EndChar
 EndChars
