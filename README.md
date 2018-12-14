@@ -11,7 +11,7 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By December 9, 2018 this font contains 1022 characters including:
+By December 15, 2018 this font contains 1041 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
@@ -21,11 +21,11 @@ By December 9, 2018 this font contains 1022 characters including:
 
 Additional glyphs which are not described by GOST:
 
-* Digits and punctuation signs: 34 (+55) = 89
-* Latin alphabet and IPA: 19 (+438) = 457
-* Cyrillic alphabet: 21 (+29) = 50
-* Greek alphabet: 11 (+134) = 145
-* other: 4 (+4) = 8
+* Digits and punctuation signs: 34 (+59) = 93
+* Latin alphabet and IPA: 22 (+439) = 461
+* Cyrillic alphabet: 27 (+29) = 56
+* Greek alphabet: 11 (+135) = 146
+* other: 8 (+4) = 12
 
 Font contains all digits (normal size, subscript, superscript),
 uppercase and lowercase symbols of Russian (modern and pre-Revolution)
@@ -33,13 +33,13 @@ and Basic Latin alphabets. Also font contains full visible part of ASCII.
 
 Supported languages:
 Abaza, Adyghe, Aghul, Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
-Chuvash, Crimean Tatar (Cyrillic), Czech, Dargin, English, Esperanto, Estonian,
-Finnish, German, Hungarian, Ingush, Italian, Kabardian, Kalmyk,
-Karachay_Balkar, Karelian, Kazakh, Khakassian, Kirghiz, Komi, Kumyk, Lak,
-Latin, Latvian, Lezgian, Lithuanian, Macedonian, Moldovan (Cyrillic and Latin),
-Mongol, Mordvinic, Nogai, Ossetian, Romanian, Russian, Rutul, Spanish,
-Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan, Udmurt,
-Ukrainian, Uzbek (Cyrillic and Latin), Veps.
+Chuvash, Crimean Tatar (Cyrillic), Czech, Dargin, Dolgan, English, Esperanto,
+Estonian, Even, Evenki, Finnish, German, Hungarian, Ingush, Italian, Kabardian,
+Kalmyk, Karachay Balkar, Karelian, Kazakh, Khakassian, Kirghiz, Komi, Kumyk,
+Lak, Latin, Latvian, Lezgian, Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic
+and Latin), Mongol, Mordvinic, Nogai, Nenets, Ossetian, Romanian, Russian,
+Rutul, Selkup, Spanish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen
+(Cyrillic), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps.
 
 Author
 ------
@@ -70,7 +70,7 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 09.12.2018 содержит 1022 символа, в том числе:
+Этот шрифт по состоянию на 15.12.2018 содержит 1041 символ, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
@@ -80,11 +80,11 @@ _The same in Russian:_
 
 Не определены в ГОСТ, но есть в шрифте:
 
-* Цифры и знаки пунктуации: 34 (+55) = 89
-* Латинский алфавит и МФА: 19 (+438) = 457
-* Кириллица: 21 (+29) = 50
-* Греческий алфавит: 11 (+134) = 145
-* прочее: 4 (+4) = 8
+* Цифры и знаки пунктуации: 34 (+59) = 93
+* Латинский алфавит и МФА: 22 (+439) = 461
+* Кириллица: 27 (+29) = 56
+* Греческий алфавит: 11 (+135) = 146
+* прочее: 8 (+4) = 12
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 буквы русского и основного латинского алфавитов. Кроме того, шрифт содержит все
@@ -93,15 +93,16 @@ _The same in Russian:_
 Поддерживаемые языки:
 абазинский, аварский, агульский, адыгейский, английский, башкирский,
 белорусский, болгарский, бурятский, венгерский, вепсский, даргинский,
-ингушский, испанский, итальянский, кабардино-черкесский, казахский, калмыкский,
-карачаево-балкарский, карельский, киргизский, коми, крымскотатарский
-(кириллица), кумыкский, лакский, латинский, латышский, лезгинский, литовский,
-македонский, молдавский (оба алфавита — кириллический и латинский),
-монгольский, мордовский, немецкий, ногайский, осетинский, румынский, русский,
-рутульский, табасаранский, таджикский, татарский, татский, тувинский,
-туркменский (кириллица), удмуртский, узбекский (оба алфавита), украинский,
-финский, хакасский, цахурский, чеченский, чешский, чувашский, эсперанто,
-эстонский.
+долганский, ингушский, испанский, итальянский, кабардино-черкесский, казахский,
+калмыкский, карачаево-балкарский, карельский, киргизский, коми,
+крымскотатарский (кириллица), кумыкский, лакский, латинский, латышский,
+лезгинский, литовский, македонский, мансийский, молдавский (оба алфавита —
+кириллический и латинский), монгольский, мордовский, немецкий, ненецкий,
+ногайский, осетинский, румынский, русский, рутульский, селькупский,
+табасаранский, таджикский, татарский, татский, тувинский, туркменский
+(кириллица), удмуртский, узбекский (оба алфавита), украинский, финский,
+хакасский, цахурский, чеченский, чешский, чувашский, чукотский, эвенский,
+эвенкийский, эсперанто, эстонский.
 
 Проприетарный аналог
 --------------------
