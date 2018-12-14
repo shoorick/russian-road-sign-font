@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1544809757
+ModificationTime: 1544810273
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1032
+BeginChars: 1114112 1033
 
 StartChar: F
 Encoding: 70 70 0
@@ -17565,7 +17565,7 @@ StartChar: logicalnot
 Encoding: 172 172 1031
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 252 84<56 364>
 VStem: 364 84<168 252>
 LayerCount: 2
@@ -17578,6 +17578,34 @@ SplineSet
  364 252 l 1
  56 252 l 1
  56 336 l 1
+EndSplineSet
+EndChar
+
+StartChar: mu
+Encoding: 181 181 1032
+Width: 469
+VWidth: 0
+Flags: WO
+HStem: -168 21G<91 175> -7 70<192.713 285.446> 0 21G<339.469 413> 372 20G<91 175 329 413>
+VStem: 91 84<-168 21.7578 80.179 392> 329 84<106.847 392> 341 72<0 45.5001>
+LayerCount: 2
+Fore
+SplineSet
+91 392 m 1xda
+ 175 392 l 1
+ 175 307.666666667 175 223.333333333 175 139 c 0
+ 175 118 189 63 231 63 c 0
+ 271.14453125 63 308 98 329 140 c 1
+ 329 392 l 1
+ 413 392 l 1xdc
+ 413 0 l 1
+ 341 0 l 1xba
+ 337.938476562 17.2099609375 333.39453125 35.455078125 327 46 c 1
+ 327 46 286 -7 230 -7 c 0
+ 209.953125 -7 191.48828125 4.046875 175 21.7578125 c 1
+ 175 -168 l 1
+ 91 -168 l 1
+ 91 18.6666666667 91 205.333333333 91 392 c 1xda
 EndSplineSet
 EndChar
 EndChars
