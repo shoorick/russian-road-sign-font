@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1544808567
+ModificationTime: 1544808651
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 8684 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1024
+BeginChars: 1114112 1025
 
 StartChar: F
 Encoding: 70 70 0
@@ -17471,12 +17471,23 @@ StartChar: uni2213
 Encoding: 8723 8723 1023
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 170 84<56 210 294 448> 446 84<56 448>
 VStem: 210 84<56 170 254 368>
 LayerCount: 2
 Fore
 Refer: 1022 177 S -1 0 0 -1 504 586 2
+EndChar
+
+StartChar: Delta
+Encoding: 8710 8710 1024
+Width: 581
+VWidth: 0
+Flags: WO
+HStem: 0 84<204 384> 540 20G<225.25 362.5>
+LayerCount: 2
+Fore
+Refer: 301 916 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
