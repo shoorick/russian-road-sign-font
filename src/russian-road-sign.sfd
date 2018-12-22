@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1544814778
+ModificationTime: 1545513507
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -46,7 +47,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1066 26 10
+WinInfo: 52 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
@@ -5824,6 +5825,7 @@ EndChar
 
 StartChar: Delta
 Encoding: 916 916 301
+AltUni2: 002206.ffffffff.0
 Width: 581
 VWidth: 0
 Flags: W
@@ -17487,20 +17489,8 @@ Refer: 1022 177 S -1 0 0 -1 504 586 2
 Validated: 1
 EndChar
 
-StartChar: Delta
-Encoding: 8710 8710 1024
-Width: 581
-VWidth: 0
-Flags: W
-HStem: 0 84<204 384> 540 20G<225.25 362.5>
-LayerCount: 2
-Fore
-Refer: 301 916 N 1 0 0 1 0 0 2
-Validated: 2097153
-EndChar
-
 StartChar: gradient
-Encoding: 8711 8711 1025
+Encoding: 8711 8711 1024
 Width: 581
 VWidth: 0
 Flags: W
@@ -17512,7 +17502,7 @@ Validated: 1
 EndChar
 
 StartChar: uni218A
-Encoding: 8586 8586 1026
+Encoding: 8586 8586 1025
 Width: 490
 VWidth: 0
 Flags: W
@@ -17525,7 +17515,7 @@ Validated: 1
 EndChar
 
 StartChar: uni218B
-Encoding: 8587 8587 1027
+Encoding: 8587 8587 1026
 Width: 488
 VWidth: 0
 Flags: W
@@ -17538,7 +17528,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2184
-Encoding: 8580 8580 1028
+Encoding: 8580 8580 1027
 Width: 476
 VWidth: 0
 Flags: W
@@ -17551,7 +17541,7 @@ Validated: 9
 EndChar
 
 StartChar: uni2183
-Encoding: 8579 8579 1029
+Encoding: 8579 8579 1028
 Width: 560
 VWidth: 0
 Flags: W
@@ -17564,7 +17554,7 @@ Validated: 9
 EndChar
 
 StartChar: uni2132
-Encoding: 8498 8498 1030
+Encoding: 8498 8498 1029
 Width: 511
 VWidth: 0
 Flags: W
@@ -17577,7 +17567,7 @@ Validated: 1
 EndChar
 
 StartChar: logicalnot
-Encoding: 172 172 1031
+Encoding: 172 172 1030
 Width: 504
 VWidth: 0
 Flags: W
@@ -17598,7 +17588,7 @@ Validated: 1
 EndChar
 
 StartChar: mu
-Encoding: 181 181 1032
+Encoding: 181 181 1031
 Width: 469
 VWidth: 0
 Flags: W
@@ -17623,11 +17613,11 @@ SplineSet
  91 -168 l 1
  91 18.6666666667 91 205.333333333 91 392 c 1xda
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni03BC
-Encoding: 956 956 1033
+Encoding: 956 956 1032
 Width: 469
 VWidth: 0
 Flags: W
@@ -17635,12 +17625,12 @@ HStem: -168 21G<91 175> -7 70<192.713 285.446> 0 21G<339.469 413> 372 20G<91 175
 VStem: 91 84<-168 21.7578 80.179 392> 329 84<106.847 392> 341 72<0 45.5001>
 LayerCount: 2
 Fore
-Refer: 1032 181 N 1 0 0 1 0 0 2
+Refer: 1031 181 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
 StartChar: uni057A
-Encoding: 1402 1402 1034
+Encoding: 1402 1402 1033
 Width: 672
 VWidth: 0
 Flags: W
@@ -17671,11 +17661,11 @@ SplineSet
  119 -7 84 42 84 112 c 2
  84 392 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni04C8
-Encoding: 1224 1224 1035
+Encoding: 1224 1224 1034
 Width: 469
 VWidth: 0
 Flags: W
@@ -17703,11 +17693,11 @@ SplineSet
  98 0 l 1
  98 392 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni04C7
-Encoding: 1223 1223 1036
+Encoding: 1223 1223 1035
 Width: 588
 VWidth: 0
 Flags: W
@@ -17734,11 +17724,11 @@ SplineSet
  91 0 l 1
  91 560 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni0512
-Encoding: 1298 1298 1037
+Encoding: 1298 1298 1036
 Width: 609
 VWidth: 0
 Flags: W
@@ -17767,7 +17757,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0513
-Encoding: 1299 1299 1038
+Encoding: 1299 1299 1037
 Width: 504
 VWidth: 0
 Flags: W
@@ -17795,7 +17785,7 @@ Validated: 1
 EndChar
 
 StartChar: uni04C4
-Encoding: 1220 1220 1039
+Encoding: 1220 1220 1038
 Width: 504
 VWidth: 0
 Flags: W
@@ -17831,7 +17821,7 @@ Validated: 1
 EndChar
 
 StartChar: uni04C3
-Encoding: 1219 1219 1040
+Encoding: 1219 1219 1039
 Width: 595
 VWidth: 0
 Flags: W
@@ -17863,6 +17853,40 @@ SplineSet
  182 351 l 1xdc
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: Dcroat
+Encoding: 272 272 1040
+Width: 651
+VWidth: 0
+Flags: WO
+HStem: 0 84<252 403.992> 238 84<70 154 252 336> 476 84<252 403.992>
+VStem: 154 98<84 238 322 476> 483 102<172.869 387.131>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+154 560 m 1
+ 343 560 l 2
+ 497 560 585 442 585 280 c 0
+ 585 118 497 0 343 0 c 2
+ 154 0 l 1
+ 154 238 l 1
+ 70 238 l 1
+ 70 322 l 1
+ 154 322 l 1
+ 154 560 l 1
+252 476 m 1
+ 252 322 l 1
+ 336 322 l 1
+ 336 238 l 1
+ 252 238 l 1
+ 252 84 l 1
+ 336 84 l 2
+ 413 84 483 147 483 280 c 0
+ 483 413 413 476 336 476 c 2
+ 252 476 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
