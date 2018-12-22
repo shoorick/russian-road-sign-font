@@ -15,18 +15,19 @@ gost:
 
 unicode:
     latin:      >
-                41-2e4 1d00-1dbe 1e00-1eff 2071 207f 2090-209c 212a 212b
-                2132 214e 2160-2188 2c60-2c7f a722-a7ff ab30-ab64 fb00-fb06
-                ff21-ff5a
+                41-5a 61-7a 7f-aa c0-2e4 1d00-1dbe 1e00-1eff 2071 207f
+                2090-209c 212a 212b 2132 214e 2200-2204 249c-24e9 2c60-2c7f
+                3271-33df a722-a7ff ab30-ab64 fb00-fb06 ff21-ff5a
     greek:      370-3ff 1f00-1fff
     cyrillic:   400-4ff 500-52f 1c80-1c8f 2de0-2dff a640-a69f
     armenian:   530-58f
     hebrew:     590-5ff
     georgian:   10a0-10ff
     digits:     >
-                0-3f 5b-60 7b-7e 300-361
-                2000-208e 2150-218b 2460-249b 24ea-24ff
-                2753-2755 2757 275b-2762 2768-2793 2795-2797
+                0-3f 5b-60 7b-7e ab ac af-bf 300-361
+                2000-2070 2072-207e 2080-208e 2150-218b 23e8 2460-249b 24ea-24ff
+                2753-2755 2757 275b-2762 2768-2793 2795-2797 2e00-2e42 3000-3037
+                3248-324f 3251-325f 32b1-32bf
 
 # Character sets used in alphabets
 # use
