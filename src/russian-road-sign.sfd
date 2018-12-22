@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1545515240
+ModificationTime: 1545516546
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -6394,12 +6394,30 @@ EndChar
 
 StartChar: Lslash
 Encoding: 321 321 333
-Width: 1000
+Width: 574
 VWidth: 0
-Flags: W
+Flags: WO
+HStem: 0 84<252 504> 386 20G<301.714 336> 540 20G<154 252>
+VStem: 154 98<84 196 357 560>
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+154 560 m 1
+ 252 560 l 1
+ 252 357 l 1
+ 336 406 l 1
+ 336 301 l 1
+ 252 252 l 1
+ 252 84 l 1
+ 504 84 l 1
+ 504 0 l 1
+ 154 0 l 1
+ 154 196 l 1
+ 70 147 l 1
+ 70 252 l 1
+ 154 301 l 1
+ 154 560 l 1
+EndSplineSet
 EndChar
 
 StartChar: Kcommaaccent
@@ -17945,7 +17963,7 @@ StartChar: eth
 Encoding: 240 240 1043
 Width: 511
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -14 70<199.829 300.049> 322 70<200.063 301.263> 504.574 75.5996<191.586 239.866>
 VStem: 70 91<97.4983 281.507> 364 77<322 419.247>
 LayerCount: 2
