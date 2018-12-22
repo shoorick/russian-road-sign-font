@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1545513971
+ModificationTime: 1545515240
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -47,11 +46,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 52 26 10
+WinInfo: 156 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1043
+BeginChars: 1114112 1044
 
 StartChar: F
 Encoding: 70 70 0
@@ -17887,6 +17886,7 @@ SplineSet
  483 413 413 476 336 476 c 2
  252 476 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Eth
@@ -17900,13 +17900,14 @@ CounterMasks: 1 e0
 LayerCount: 2
 Fore
 Refer: 1040 272 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: dcroat
 Encoding: 273 273 1042
 Width: 553
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -14 77<208.186 317.589> 0 21G<369.469 441> 336 70<210.488 324.258> 434 77<301 357 441 497> 540 20G<357 441>
 VStem: 84 84<107.769 287.009> 357 84<101.196 306.053 357 434 511 560> 371 70<0 41.503>
 LayerCount: 2
@@ -17936,6 +17937,42 @@ SplineSet
  299.14453125 63 336 91 357 133 c 1
  357 280 l 1
  336 315 294.6171875 336 259 336 c 0
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: eth
+Encoding: 240 240 1043
+Width: 511
+VWidth: 0
+Flags: WO
+HStem: -14 70<199.829 300.049> 322 70<200.063 301.263> 504.574 75.5996<191.586 239.866>
+VStem: 70 91<97.4983 281.507> 364 77<322 419.247>
+LayerCount: 2
+Fore
+SplineSet
+364 588 m 1
+ 406 532 l 1
+ 369.1328125 506.642578125 l 1
+ 424.426757812 447.8203125 441 359.255859375 441 280 c 0
+ 441 147 406 -14 252 -14 c 0
+ 133 -14 70 91 70 189 c 0
+ 70 322 147 392 245 392 c 0
+ 315 392 350 350 364 322 c 1
+ 364 384.06640625 348.39453125 436.814453125 313.806640625 466.951171875 c 1
+ 252 420 l 1
+ 210 476 l 1
+ 241.08203125 497.150390625 l 1
+ 215.178710938 501.865234375 186.858398438 502.3671875 157.287109375 504.57421875 c 1
+ 195.0859375 580.173828125 l 1
+ 228.892578125 573.987304688 247.319335938 570.275390625 273 563.5 c 0
+ 286.8515625 559.845703125 299.596679688 553.198242188 311.3515625 547.708984375 c 1
+ 364 588 l 1
+252 322 m 0
+ 210 322 161 287 161 189 c 0
+ 161 91 210 56 252 56 c 0
+ 287 56 343 91 343 189 c 0
+ 343 287 287 322 252 322 c 0
 EndSplineSet
 EndChar
 EndChars
