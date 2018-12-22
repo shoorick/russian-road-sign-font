@@ -39,8 +39,8 @@ Icelandic, Ingush, Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian,
 Kazakh, Khakassian, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian,
 Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic and Latin), Mongol,
 Mordvinic, Nogai, Nenets, Ossetian, Polish, Romanian, Russian, Rutul, Selkup,
-Spanish, Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen (Cyrillic),
-Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps.
+Serbian, Spanish, Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen
+(Cyrillic), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps.
 
 Author
 ------
@@ -100,10 +100,10 @@ _The same in Russian:_
 латышский, лезгинский, литовский, македонский, мансийский, молдавский (оба
 алфавита — кириллический и латинский), монгольский, мордовский, немецкий,
 ненецкий, ногайский, осетинский, польский, румынский, русский, рутульский,
-селькупский, табасаранский, таджикский, татарский, татский, тувинский,
-туркменский (кириллица), удмуртский, узбекский (оба алфавита), украинский,
-финский, хакасский, хорватский, цахурский, чеченский, чешский, чувашский,
-чукотский, шведский, эвенский, эвенкийский, эсперанто, эстонский.
+селькупский, сербский, табасаранский, таджикский, татарский, татский,
+тувинский, туркменский (кириллица), удмуртский, узбекский (оба алфавита),
+украинский, финский, хакасский, хорватский, цахурский, чеченский, чешский,
+чувашский, чукотский, шведский, эвенский, эвенкийский, эсперанто, эстонский.
 
 Проприетарный аналог
 --------------------

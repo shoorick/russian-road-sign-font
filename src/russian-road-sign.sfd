@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1545518031
+ModificationTime: 1545518277
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -50,7 +50,7 @@ WinInfo: 988 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1048
+BeginChars: 1114112 1049
 
 StartChar: F
 Encoding: 70 70 0
@@ -18078,7 +18078,7 @@ StartChar: afii10099
 Encoding: 1106 1106 1047
 Width: 518
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -168 80.7847<297.249 391> 0 21G<140 224> 329 70<272.281 366.778> 434 77<84 140 224 308> 540 20G<140 224>
 VStem: 140 84<0 285.153 336 434 511 560> 378 84<-84.2496 316.976>
 LayerCount: 2
@@ -18109,6 +18109,40 @@ SplineSet
  84 511 l 1
  140 511 l 1
  140 560 l 1
+EndSplineSet
+EndChar
+
+StartChar: afii10051
+Encoding: 1026 1026 1048
+Width: 640
+VWidth: 0
+Flags: WO
+HStem: -136 98<295.879 434.116> 0 21G<197 295> 266 91<296.562 442.018> 476 84<63 197 295 429>
+VStem: 197 98<0 255.327 342.143 476> 451 98<-21.1654 257.793>
+LayerCount: 2
+Fore
+SplineSet
+63 560 m 1
+ 429 560 l 1
+ 429 476 l 1
+ 295 476 l 1
+ 295 342.142578125 l 1
+ 330.092773438 353.608398438 372.805664062 357 402 357 c 0
+ 500 357 549 315 549 245 c 2
+ 549 3.7734375 l 2
+ 549 -62.169921875 493 -136 395 -136 c 0
+ 360 -136 290 -122 290 -122 c 1
+ 297 -24 l 1
+ 297 -24 339 -38 388 -38 c 0
+ 416 -38 451 -17.0009765625 451 31.552734375 c 2
+ 451 209 l 2
+ 451 245 437 266 402 266 c 0
+ 364.172851562 266 326.354492188 259.606445312 295 248.98828125 c 1
+ 295 0 l 1
+ 197 0 l 1
+ 197 476 l 1
+ 63 476 l 1
+ 63 560 l 1
 EndSplineSet
 EndChar
 EndChars
