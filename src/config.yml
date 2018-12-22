@@ -30,7 +30,7 @@ unicode:
 
 # Character sets used in alphabets
 # use
-#   perl -MList::Util=uniq -0777 -nE 'say join "", sort(uniq(split ""))'
+#   perl -CS -MList::Util=uniq -0777 -nE 'say join "", sort(uniq(split ""))'
 # to extract alphabet from text
 alphabet:
     Abaza:          ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӀ
@@ -53,6 +53,7 @@ alphabet:
     Crimean_Tatar_Cyr:  ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё
     Croatian:       ABCDEFGHIJKLMNOPRSTUVZabcdefghijklmnoprstuvxzÐĆćČčđŠšŽž
     Czech:          ABCDEFGHIJKLMNOPQRSTUVWXYZhÁÉÍÓÚÝČĎĚŇŘŠŤŮŽabcdefghijklmnopqrstuvwxyzháéíóúýčďěňřšťůž
+    Danish:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÅÆØåæø
     Dargin:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӀ
     Dolgan:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҮүҺһӇӈӨө
     English:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
@@ -60,11 +61,13 @@ alphabet:
     Estonian:       ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÕÖÜäõöüŠšŽž
     Even:           ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӇӈӨөӪӫ
     Evenki:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӇӈ
+    Faroese:        ABDEFGHIJKLMNOPRSTUVYabdefghijklmnoprstuvyÁÆÍÐÓØÚÝáæíðóøúý
     Finnish:        ABCDEFGHIJKLMNOPQRSTUVWXYZ[]abcdefghijklmnopqrstuvwxyzÄÅÖäåæöŽž
     French:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÂÆÇÈÉÊËÎÏÔÙÛÜàâæçèéêëîïôùûüÿŒœŸ
     Georgian:       აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ
     German:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÖÜßäöü
     Hungarian:      ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁÉÍÓÖÚÜáéíóöúüŐőŰű
+    Icelandic:      ABDEFGHIJKLMNOPRSTUVXYabdefghijklmnoprstuvxyÁÆÉÍÐÓÖÚÝÞáæéíðóöúýþ
     Ingush:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӀ
     Italian:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÈÉÌÍÒÓÙÚàáèéìíòóùú
     Kabardian:      ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӀ
@@ -90,6 +93,7 @@ alphabet:
     Mordvinic:      ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё
     Nenets:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӇӈ
     Nogai:          ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё
+    Norwegian:      ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÅÆØåæø
     Ossetian:       ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӔӕ
     Polish:         ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÓóĄąĆćĘęŁłŃńŚśŹźŻż
     Portuguese:     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÁÂÃÇÉÊÍÓÔÕÚàáâãçéêíóôõú
@@ -99,6 +103,7 @@ alphabet:
     Selkup:         ЁІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёіӃӄӇӈӒӓӘәӦӧӨөӰӱ
     Serbian:        ЂЈЉЊЋЏАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШабвгдежзиклмнопрстуфхцчшђјљњћџ
     Spanish:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÑñÁáÉéÍíÓóÚúÜü
+    Swedish:        ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÄÅÖäåö
     Tabasaran:      ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёӀ
     Tadjik:         ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЧШЪЭЮЯабвгдежзийклмнопрстуфхчшъэюяёҒғҚқҲҳҶҷӢӣӮӯ
     Tat:            IЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё

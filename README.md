@@ -34,13 +34,13 @@ and Basic Latin alphabets. Also font contains full visible part of ASCII.
 Supported languages:
 Abaza, Adyghe, Aghul, Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
 Chukchi, Chuvash, Crimean Tatar (Cyrillic), Croatian, Czech, Dargin, Dolgan,
-English, Esperanto, Estonian, Even, Evenki, Finnish, German, Hungarian, Ingush,
-Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian, Kazakh, Khakassian,
-Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian, Lithuanian, Macedonian,
-Mansi, Moldovan (Cyrillic and Latin), Mongol, Mordvinic, Nogai, Nenets,
-Ossetian, Romanian, Russian, Rutul, Selkup, Spanish, Tabasaran, Tadjik, Tat,
-Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic
-and Latin), Veps.
+English, Esperanto, Estonian, Even, Evenki, Finnish, German, Hungarian,
+Icelandic, Ingush, Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian,
+Kazakh, Khakassian, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian,
+Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic and Latin), Mongol,
+Mordvinic, Nogai, Nenets, Ossetian, Romanian, Russian, Rutul, Selkup, Spanish,
+Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan,
+Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps.
 
 Author
 ------
@@ -94,16 +94,16 @@ _The same in Russian:_
 Поддерживаемые языки:
 абазинский, аварский, агульский, адыгейский, английский, башкирский,
 белорусский, болгарский, бурятский, венгерский, вепсский, даргинский,
-долганский, ингушский, испанский, итальянский, кабардино-черкесский, казахский,
-калмыкский, карачаево-балкарский, карельский, киргизский, коми,
-крымскотатарский (кириллица), кумыкский, лакский, латинский, латышский,
-лезгинский, литовский, македонский, мансийский, молдавский (оба алфавита —
-кириллический и латинский), монгольский, мордовский, немецкий, ненецкий,
-ногайский, осетинский, румынский, русский, рутульский, селькупский,
+долганский, ингушский, исландский, испанский, итальянский,
+кабардино-черкесский, казахский, калмыкский, карачаево-балкарский, карельский,
+киргизский, коми, крымскотатарский (кириллица), кумыкский, лакский, латинский,
+латышский, лезгинский, литовский, македонский, мансийский, молдавский (оба
+алфавита — кириллический и латинский), монгольский, мордовский, немецкий,
+ненецкий, ногайский, осетинский, румынский, русский, рутульский, селькупский,
 табасаранский, таджикский, татарский, татский, тувинский, туркменский
 (кириллица), удмуртский, узбекский (оба алфавита), украинский, финский,
 хакасский, хорватский, цахурский, чеченский, чешский, чувашский, чукотский,
-эвенский, эвенкийский, эсперанто, эстонский.
+шведский, эвенский, эвенкийский, эсперанто, эстонский.
 
 Проприетарный аналог
 --------------------
