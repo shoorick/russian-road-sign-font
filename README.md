@@ -11,7 +11,7 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By December 15, 2018 this font contains 1041 characters including:
+By December 23, 2018 this font contains 1043 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
@@ -22,7 +22,7 @@ By December 15, 2018 this font contains 1041 characters including:
 Additional glyphs which are not described by GOST:
 
 * Digits and punctuation signs: 34 (+59) = 93
-* Latin alphabet and IPA: 22 (+439) = 461
+* Latin alphabet and IPA: 24 (+440) = 464
 * Cyrillic alphabet: 27 (+29) = 56
 * Greek alphabet: 11 (+135) = 146
 * other: 8 (+4) = 12
@@ -33,13 +33,14 @@ and Basic Latin alphabets. Also font contains full visible part of ASCII.
 
 Supported languages:
 Abaza, Adyghe, Aghul, Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
-Chuvash, Crimean Tatar (Cyrillic), Czech, Dargin, Dolgan, English, Esperanto,
-Estonian, Even, Evenki, Finnish, German, Hungarian, Ingush, Italian, Kabardian,
-Kalmyk, Karachay Balkar, Karelian, Kazakh, Khakassian, Kirghiz, Komi, Kumyk,
-Lak, Latin, Latvian, Lezgian, Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic
-and Latin), Mongol, Mordvinic, Nogai, Nenets, Ossetian, Romanian, Russian,
-Rutul, Selkup, Spanish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen
-(Cyrillic), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps.
+Chukchi, Chuvash, Crimean Tatar (Cyrillic), Croatian, Czech, Dargin, Dolgan,
+English, Esperanto, Estonian, Even, Evenki, Finnish, German, Hungarian, Ingush,
+Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian, Kazakh, Khakassian,
+Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian, Lithuanian, Macedonian,
+Mansi, Moldovan (Cyrillic and Latin), Mongol, Mordvinic, Nogai, Nenets,
+Ossetian, Romanian, Russian, Rutul, Selkup, Spanish, Tabasaran, Tadjik, Tat,
+Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic
+and Latin), Veps.
 
 Author
 ------
@@ -70,7 +71,7 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 15.12.2018 содержит 1041 символ, в том числе:
+Этот шрифт по состоянию на 23.12.2018 содержит 1043 символа, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
@@ -81,7 +82,7 @@ _The same in Russian:_
 Не определены в ГОСТ, но есть в шрифте:
 
 * Цифры и знаки пунктуации: 34 (+59) = 93
-* Латинский алфавит и МФА: 22 (+439) = 461
+* Латинский алфавит и МФА: 24 (+440) = 464
 * Кириллица: 27 (+29) = 56
 * Греческий алфавит: 11 (+135) = 146
 * прочее: 8 (+4) = 12
@@ -101,8 +102,8 @@ _The same in Russian:_
 ногайский, осетинский, румынский, русский, рутульский, селькупский,
 табасаранский, таджикский, татарский, татский, тувинский, туркменский
 (кириллица), удмуртский, узбекский (оба алфавита), украинский, финский,
-хакасский, цахурский, чеченский, чешский, чувашский, чукотский, эвенский,
-эвенкийский, эсперанто, эстонский.
+хакасский, хорватский, цахурский, чеченский, чешский, чувашский, чукотский,
+эвенский, эвенкийский, эсперанто, эстонский.
 
 Проприетарный аналог
 --------------------

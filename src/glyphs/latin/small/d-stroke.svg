@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="f.svg">
+   sodipodi:docname="d-stroke.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="328.00027"
-     inkscape:cy="590.09893"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="420.66212"
+     inkscape:cy="529.97912"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="svg2"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1026"
@@ -38,7 +38,8 @@
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -54,7 +55,7 @@
        originy="200px" />
     <sodipodi:guide
        orientation="0,1"
-       position="0,200"
+       position="420,200"
        id="guide3006" />
     <sodipodi:guide
        orientation="0,1"
@@ -73,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,7 +83,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-52.362183)"
-     style="opacity:0.33000004"
+     style="opacity:0.33000004;display:inline"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -172,23 +173,26 @@
        width="1000"
        height="1000" />
     <image
-       y="275.02963"
-       x="-15.152288"
-       id="image6169"
-       xlink:href="file:///home/as/font/gost/glyphs/latin/small/f.png"
-       height="806.72992"
-       width="400.21292" />
+       y="288.74255"
+       x="-16.157291"
+       id="image3521"
+       xlink:href="file:///home/as/font/gost/glyphs/latin/small/p.png"
+       height="791.5"
+       width="536.16669" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="glyph"
-     style="display:inline">
-    <path
-       style="fill:#800000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.66"
-       d="m 126,800 0,-315 -63,0 0,-77 63,0 0,-77 c 0,-49 42,-91 112,-91 49,0 91,14 91,14 l -21,70 c 0,0 -14,-7 -49,-7 -35,0 -49,21 -49,42 l 0,49 98,0 0,77 -98,0 0,315 z"
-       id="path6172"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccssccsscccccc" />
+     style="display:inline" />
+  <path
+     style="opacity:0.66000001;fill:#990000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 357 240 L 357 289 L 301 289 L 301 366 L 357 366 L 357 443 C 357 436 315 394 259 394 C 217 394 84 429 84 604 C 84 772 189 814 259 814 C 329 814 357 758 357 758 C 363.3941 768.54513 367.9383 782.79006 371 800 L 441 800 L 441 366 L 497 366 L 497 289 L 441 289 L 441 240 L 357 240 z M 259 464 C 294.61679 464 336 485 357 520 L 357 667 C 336 709 299.14418 737 259 737 C 210 737 168 688 168 604 C 168 520 210 464 259 464 z "
+     id="path3612" />
+  <g
+     id="g6159"
+     transform="matrix(1,0,0,-1,0,800)">
+    <g
+       id="g6161" />
   </g>
 </svg>
