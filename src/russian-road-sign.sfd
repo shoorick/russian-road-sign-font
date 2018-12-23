@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1545518277
+ModificationTime: 1545588336
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -46,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 988 26 10
+WinInfo: 754 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1049
+BeginChars: 1114112 1050
 
 StartChar: F
 Encoding: 70 70 0
@@ -17957,7 +17958,7 @@ SplineSet
  357 280 l 1
  336 315 294.6171875 336 259 336 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: eth
@@ -17993,7 +17994,7 @@ SplineSet
  287 56 343 91 343 189 c 0
  343 287 287 322 252 322 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: lslash
@@ -18025,7 +18026,7 @@ SplineSet
  119 268 l 1
  119 560 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: hbar
@@ -18116,7 +18117,7 @@ StartChar: afii10051
 Encoding: 1026 1026 1048
 Width: 640
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -136 98<295.879 434.116> 0 21G<197 295> 266 91<296.562 442.018> 476 84<63 197 295 429>
 VStem: 197 98<0 255.327 342.143 476> 451 98<-21.1654 257.793>
 LayerCount: 2
@@ -18143,6 +18144,34 @@ SplineSet
  197 476 l 1
  63 476 l 1
  63 560 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni04A4
+Encoding: 1188 1188 1049
+Width: 720
+VWidth: 0
+Flags: WO
+HStem: 0 21G<91 189 391 489> 256 80<189 391> 476 84<489 629>
+VStem: 91 98<0 256 336 560> 391 98<0 256 336 476>
+LayerCount: 2
+Fore
+SplineSet
+91 560 m 1
+ 189 560 l 1
+ 189 336 l 1
+ 391 336 l 1
+ 391 560 l 1
+ 629 560 l 1
+ 629 476 l 1
+ 489 476 l 1
+ 489 0 l 1
+ 391 0 l 1
+ 391 256 l 1
+ 189 256 l 1
+ 189 0 l 1
+ 91 0 l 1
+ 91 560 l 1
 EndSplineSet
 EndChar
 EndChars
