@@ -11,7 +11,7 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By December 23, 2018 this font contains 1051 characters including:
+By December 23, 2018 this font contains 1053 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
@@ -23,7 +23,7 @@ Additional glyphs which are not described by GOST:
 
 * Digits and punctuation signs: 37 (+66) = 103
 * Latin alphabet and IPA: 24 (+432) = 456
-* Cyrillic alphabet: 29 (+30) = 59
+* Cyrillic alphabet: 31 (+30) = 61
 * Greek alphabet: 11 (+135) = 146
 * other: 8 (+4) = 12
 
@@ -36,7 +36,7 @@ Abaza, Adyghe, Aghul, Altai, Avar, Bashkir, Bulgarian, Buryat, Byelorussian,
 Chechen, Chukchi, Chuvash, Crimean Tatar (Cyrillic), Croatian, Czech, Dargin,
 Dolgan, English, Esperanto, Estonian, Even, Evenki, Finnish, German, Hungarian,
 Icelandic, Ingush, Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian,
-Kazakh, Khakassian, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian,
+Kazakh, Khakassian, Khanty, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian,
 Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic and Latin), Mongol,
 Mordvinic, Nogai, Nenets, Ossetian, Polish, Romanian, Russian, Rutul, Selkup,
 Serbian, Spanish, Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen
@@ -83,7 +83,7 @@ _The same in Russian:_
 
 * Цифры и знаки пунктуации: 37 (+66) = 103
 * Латинский алфавит и МФА: 24 (+432) = 456
-* Кириллица: 29 (+30) = 59
+* Кириллица: 31 (+30) = 61
 * Греческий алфавит: 11 (+135) = 146
 * прочее: 8 (+4) = 12
 
