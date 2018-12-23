@@ -11,11 +11,11 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By December 23, 2018 this font contains 1049 characters including:
+By December 23, 2018 this font contains 1051 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 81 (+64) = 145 of 161 (90 %)
+* Cyrillic alphabet: 83 (+64) = 147 of 161 (91 %)
 * ~~Armenian alphabet:~~ 1 (+11) = 12 of 77 (15 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -32,9 +32,9 @@ uppercase and lowercase symbols of Russian (modern and pre-Revolution)
 and Basic Latin alphabets. Also font contains full visible part of ASCII.
 
 Supported languages:
-Abaza, Adyghe, Aghul, Avar, Bashkir, Bulgarian, Buryat, Byelorussian, Chechen,
-Chukchi, Chuvash, Crimean Tatar (Cyrillic), Croatian, Czech, Dargin, Dolgan,
-English, Esperanto, Estonian, Even, Evenki, Finnish, German, Hungarian,
+Abaza, Adyghe, Aghul, Altai, Avar, Bashkir, Bulgarian, Buryat, Byelorussian,
+Chechen, Chukchi, Chuvash, Crimean Tatar (Cyrillic), Croatian, Czech, Dargin,
+Dolgan, English, Esperanto, Estonian, Even, Evenki, Finnish, German, Hungarian,
 Icelandic, Ingush, Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian,
 Kazakh, Khakassian, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian,
 Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic and Latin), Mongol,
@@ -71,11 +71,11 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 23.12.2018 содержит 1049 символов, в том числе:
+Этот шрифт по состоянию на 23.12.2018 содержит 1051 символ, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 81 (+64) = 145 из 161 (90 %)
+* Кириллица: 83 (+64) = 147 из 161 (91 %)
 * ~~Армянский алфавит:~~ 1 (+11) = 12 из 77 (15 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
@@ -92,7 +92,7 @@ _The same in Russian:_
 видимые символы ASCII.
 
 Поддерживаемые языки:
-абазинский, аварский, агульский, адыгейский, английский, башкирский,
+абазинский, аварский, агульский, адыгейский, алтайский, английский, башкирский,
 белорусский, болгарский, бурятский, венгерский, вепсский, даргинский,
 долганский, ингушский, исландский, испанский, итальянский,
 кабардино-черкесский, казахский, калмыкский, карачаево-балкарский, карельский,
