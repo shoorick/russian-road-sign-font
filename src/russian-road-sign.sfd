@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546118095
+ModificationTime: 1546118944
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -66,7 +66,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64220 26 10
+WinInfo: 0 26 10
 BeginPrivate: 7
 BlueValues 23 [-14 0 392 406 560 574]
 OtherBlues 11 [-168 -168]
@@ -76,7 +76,7 @@ StdVW 4 [98]
 StemSnapH 24 [60 70 77 84 91 122 147]
 StemSnapV 7 [84 98]
 EndPrivate
-BeginChars: 65537 1055
+BeginChars: 65537 1056
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -32085,7 +32085,7 @@ EndChar
 StartChar: uniFB00
 Encoding: 64256 64256 1054
 Width: 602
-Flags: WO
+Flags: W
 HStem: 0 21G<126 210 364 448> 315 77<63 126 210 364 448 546> 483 77<215.651 312.33 453.651 550.33>
 VStem: 126 84<0 315 392 475.841> 364 84<0 315 392 475.841>
 LayerCount: 2
@@ -32117,6 +32117,50 @@ SplineSet
  448 392 l 1
  546 392 l 1
  546 315 l 1
+ 448 315 l 1
+ 448 0 l 1
+ 364 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFB03
+Encoding: 64259 64259 1055
+Width: 742
+Flags: WO
+HStem: 0 21G<126 210 364 448 602 686> 315 77<63 126 210 364 448 602> 483 77<215.651 312.33 453.651 604.325>
+VStem: 126 84<0 315 392 475.841> 364 84<0 315 392 475.841> 602 84<0 315>
+CounterMasks: 1 1c
+LayerCount: 2
+Fore
+SplineSet
+364 0 m 1
+ 364 315 l 1
+ 210 315 l 1
+ 210 0 l 1
+ 126 0 l 1
+ 126 315 l 1
+ 63 315 l 1
+ 63 392 l 1
+ 126 392 l 1
+ 126 469 l 2
+ 126 518 168 560 238 560 c 0
+ 287 560 329 546 329 546 c 1
+ 308 476 l 1
+ 308 476 294 483 259 483 c 0
+ 224 483 210 462 210 441 c 2
+ 210 392 l 1
+ 364 392 l 1
+ 364 469 l 2
+ 364 518 406 560 476 560 c 0
+ 586 560 623 530 623 530 c 1
+ 602 460 l 1
+ 602 460 573 483 497 483 c 0
+ 462 483 448 462 448 441 c 2
+ 448 392 l 1
+ 686 392 l 1
+ 686 0 l 1
+ 602 0 l 1
+ 602 315 l 1
  448 315 l 1
  448 0 l 1
  364 0 l 1
