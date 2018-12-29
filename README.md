@@ -32,15 +32,16 @@ uppercase and lowercase symbols of Russian (modern and pre-Revolution)
 and Basic Latin alphabets. Also font contains full visible part of ASCII.
 
 Supported languages:
-Abaza, Adyghe, Aghul, Altai, Avar, Bashkir, Bulgarian, Buryat, Byelorussian,
-Chechen, Chukchi, Chuvash, Crimean Tatar (Cyrillic), Croatian, Czech, Dargin,
-Dolgan, English, Esperanto, Estonian, Even, Evenki, Finnish, German, Hungarian,
-Icelandic, Ingush, Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian,
-Kazakh, Khakassian, Khanty, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian,
-Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic and Latin), Mongol,
-Mordvinic, Nogai, Nenets, Ossetian, Polish, Romanian, Russian, Rutul, Selkup,
-Serbian, Spanish, Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkmen
-(Cyrillic), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps.
+Abaza, Adyghe, Aghul, Altai, Avar, Azerbaijani (Cyrillic), Bashkir, Bulgarian,
+Buryat, Byelorussian, Chechen, Chukchi, Chuvash, Crimean Tatar (Cyrillic),
+Croatian, Czech, Dargin, Dolgan, English, Esperanto, Estonian, Even, Evenki,
+Finnish, German, Hungarian, Icelandic, Ingush, Italian, Kabardian, Kalmyk,
+Karachay Balkar, Karelian, Kazakh, Khakassian, Khanty, Kirghiz, Komi, Kumyk,
+Lak, Latin, Latvian, Lezgian, Lithuanian, Macedonian, Mansi, Moldovan (Cyrillic
+and Latin), Mongol, Mordvinic, Nogai, Nenets, Ossetian, Polish, Romanian,
+Russian, Rutul, Selkup, Serbian, Spanish, Swedish, Tabasaran, Tadjik, Tat,
+Tatar, Tsakhur, Turkmen (Cyrillic), Tuvan, Udmurt, Ukrainian,
+Uzbek (Cyrillic and Latin), Veps.
 
 Author
 ------
@@ -92,19 +93,19 @@ _The same in Russian:_
 видимые символы ASCII.
 
 Поддерживаемые языки:
-абазинский, аварский, агульский, адыгейский, алтайский, английский, башкирский,
-белорусский, болгарский, бурятский, венгерский, вепсский, даргинский,
-долганский, ингушский, исландский, испанский, итальянский,
-кабардино-черкесский, казахский, калмыкский, карачаево-балкарский, карельский,
-киргизский, коми, крымскотатарский (кириллица), кумыкский, лакский, латинский,
-латышский, лезгинский, литовский, македонский, мансийский, молдавский (оба
-алфавита — кириллический и латинский), монгольский, мордовский, немецкий,
-ненецкий, ногайский, осетинский, польский, румынский, русский, рутульский,
-селькупский, сербский, табасаранский, таджикский, татарский, татский,
-тувинский, туркменский (кириллица), удмуртский, узбекский (оба алфавита),
-украинский, финский, хакасский, хантыйский, хорватский, цахурский, чеченский,
-чешский, чувашский, чукотский, шведский, эвенский, эвенкийский, эсперанто,
-эстонский.
+абазинский, аварский, агульский, адыгейский, азербайджанский (кириллица),
+алтайский, английский, башкирский, белорусский, болгарский, бурятский,
+венгерский, вепсский, даргинский, долганский, ингушский, исландский, испанский,
+итальянский, кабардино-черкесский, казахский, калмыкский, карачаево-балкарский,
+карельский, киргизский, коми, крымскотатарский (кириллица), кумыкский, лакский,
+латинский, латышский, лезгинский, литовский, македонский, мансийский,
+молдавский (оба алфавита — кириллический и латинский), монгольский, мордовский,
+немецкий, ненецкий, ногайский, осетинский, польский, румынский, русский,
+рутульский, селькупский, сербский, табасаранский, таджикский, татарский,
+татский, тувинский, туркменский (кириллица), удмуртский, узбекский (оба
+алфавита), украинский, финский, хакасский, хантыйский, хорватский, цахурский,
+чеченский, чешский, чувашский, чукотский, шведский, эвенский, эвенкийский,
+эсперанто, эстонский.
 
 Проприетарный аналог
 --------------------

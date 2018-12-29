@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546122327
+ModificationTime: 1546122671
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -76,7 +76,7 @@ StdVW 4 [98]
 StemSnapH 24 [60 70 77 84 91 122 147]
 StemSnapV 7 [84 98]
 EndPrivate
-BeginChars: 65537 1060
+BeginChars: 65537 1061
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -33351,7 +33351,7 @@ StartChar: uni04B8
 Encoding: 1208 1208 1059
 Width: 588
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 21G<399 497> 203 91<186.079 260> 210 92<316 388.544> 540 20G<77 175 399 497>
 VStem: 77 98<304.506 560> 260 56<98 204 302 427> 399 98<0 238 319.072 560>
 LayerCount: 2
@@ -33378,6 +33378,40 @@ SplineSet
  249 203 238 203 230 203 c 4
  133 203 77 259 77 322 c 6
  77 560 l 5xde
+EndSplineSet
+EndChar
+
+StartChar: uni04B9
+Encoding: 1209 1209 1060
+Width: 504
+VWidth: 0
+Flags: WO
+HStem: 0 21G<329 413> 119 70<165.255 228 270 316.84> 372 20G<77 161 329 413>
+VStem: 77 84<197.381 392> 228 42<49 120 195 280> 329 84<0 147 206.75 392>
+LayerCount: 2
+Fore
+SplineSet
+77 392 m 1
+ 161 392 l 1
+ 161 224 l 2
+ 161 203 189 189 207 189 c 0
+ 214 189 221 190 228 190 c 1
+ 228 280 l 1
+ 270 280 l 1
+ 270 195 l 1
+ 301 202 320 212 329 217 c 1
+ 329 392 l 1
+ 413 392 l 1
+ 413 0 l 1
+ 329 0 l 1
+ 329 147 l 1
+ 311 136 292 129 270 125 c 1
+ 270 49 l 1
+ 228 49 l 1
+ 228 120 l 1
+ 219 120 210 119 200 119 c 0
+ 137 119 77 147 77 224 c 2
+ 77 392 l 1
 EndSplineSet
 EndChar
 EndChars
