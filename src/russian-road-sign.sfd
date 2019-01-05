@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546724214
+ModificationTime: 1546724725
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8710 26 10
+WinInfo: 26 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1079
+BeginChars: 1114112 1081
 
 StartChar: F
 Encoding: 70 70 0
@@ -120,7 +120,7 @@ SplineSet
  189 560 l 25
  189 336 l 25
  399 336 l 25
- 399 560 l 25
+ 399 560 l 29
  497 560 l 25
  497 0 l 25
  399 0 l 25
@@ -19053,7 +19053,7 @@ StartChar: uni0283
 Encoding: 643 643 1077
 Width: 336
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -167.852 80.7067<45.7703 140.194> 479.294 80.7062<211.122 286.479>
 VStem: 126 84<-84.2205 476.369>
 LayerCount: 2
@@ -19086,6 +19086,54 @@ VStem: 126 84<-84.2205 476.369>
 LayerCount: 2
 Fore
 Refer: 1077 643 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1D19
+Encoding: 7449 7449 1079
+Width: 483
+VWidth: 0
+Flags: W
+HStem: 0 21G<42 150 308 392> 159 65<219.594 307.581> 315 77<190.148 308>
+VStem: 91 91<233.857 307.274> 308 84<0 158.985 224 315>
+LayerCount: 2
+Fore
+Refer: 289 1103 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 1080
+Width: 588
+VWidth: 0
+Flags: WO
+HStem: -14 91<229.084 356.603> 0 21G<66 176> 483 91<231.397 356.014> 540 20G<408 522>
+VStem: 66 95<177.415 396.941> 427 95<163.059 385.209>
+LayerCount: 2
+Fore
+SplineSet
+294 483 m 4x2c
+ 217 483 161 406 161 280 c 4
+ 161 240 167 205 177 176 c 5
+ 236 271 307 384 357 463 c 5
+ 339 476 317 483 294 483 c 4x2c
+163 0 m 5x4c
+ 66 0 l 5
+ 66 0 86 32 117 81 c 5
+ 83 133 66 203 66 280 c 4
+ 66 442 140 574 294 574 c 4x6c
+ 338 574 377 563 408 543 c 5
+ 415 554 418 560 418 560 c 6
+ 522 560 l 5
+ 471 480 l 5
+ 505 427 522 357 522 280 c 4
+ 522 118 448 -14 294 -14 c 4x9c
+ 247 -14 208 -2 176 20 c 5
+ 163 0 l 5x4c
+227 100 m 5
+ 246 85 269 77 294 77 c 4x8c
+ 371 77 427 154 427 280 c 4
+ 427 321 422 356 411 386 c 5
+ 227 100 l 5
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
