@@ -25,20 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="514.4159"
-     inkscape:cy="336.04496"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="180.69042"
+     inkscape:cy="364.72371"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="970"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
@@ -179,13 +179,13 @@
     <image
        sodipodi:absref="/home/as/font/gost/russian-road-sign-font/src/glyphs/latin/small/s.png"
        xlink:href="s.png"
-       width="488.17001"
-       height="792.06"
-       preserveAspectRatio="none"
-       id="image7551"
-       x="-5.7557998"
+       style="display:inline"
        y="288.54483"
-       style="display:inline" />
+       x="-5.7557998"
+       id="image7551"
+       preserveAspectRatio="none"
+       height="792.06"
+       width="488.17001" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -193,8 +193,8 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="opacity:0.8;fill:#8b0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 70,744 55,-56.0051 C 140,702 196,744 238,744 c 35,0 70,-28 70,-56 0,-21 -7,-42 -98,-56 C 112.15619,616.94711 91,555.25 91,520 c 0,-42 58,-126 154,-126 93,0 153,56 153,56 l -55,56 c -14,-14 -56,-42 -91,-42 -49,0 -74,28.85714 -74,49 0,35 39,35 88,49 88.52811,25.29375 133,49 133,119 0,56 -70,133 -154,133 C 133,814 70,744 70,744 Z"
+       style="opacity:0.6;fill:#8b0000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70,744 55,-56.0051 C 140,702 189.5,740 238,740 c 35,0 70,-24 70,-52 0,-21 -9.1374,-40.13435 -89.5,-53 C 108.09507,617.32472 91,562 91,520 c 0,-56 58,-124 154,-124 93,0 149,56 149,56 l -49,56 c -14,-14 -58,-40 -93,-40 -49,0 -74,24.85714 -74,45 0,35 46.67855,39.67834 96,52.5 91.52811,23.79375 125,54 125,115.5 0,56 -61,129 -154,129 C 133,810 70,744 70,744 Z"
        id="path3835"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsssssccsssssc" />
