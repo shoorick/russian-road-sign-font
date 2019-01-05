@@ -11,11 +11,11 @@ Available glyphs
 ----------------
 
 GOST 10807-78 contains 420 glyphs.
-By January 6, 2019 this font contains 1067 characters including:
+By January 6, 2019 this font contains 1069 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 87 (+64) = 151 of 161 (93 %)
+* Cyrillic alphabet: 89 (+64) = 153 of 161 (95 %)
 * ~~Armenian alphabet:~~ 1 (+11) = 12 of 77 (15 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -72,11 +72,11 @@ _The same in Russian:_
 ----------------
 
 ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 06.01.2019 содержит 1067 символов, в том числе:
+Этот шрифт по состоянию на 06.01.2019 содержит 1069 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 87 (+64) = 151 из 161 (93 %)
+* Кириллица: 89 (+64) = 153 из 161 (95 %)
 * ~~Армянский алфавит:~~ 1 (+11) = 12 из 77 (15 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
