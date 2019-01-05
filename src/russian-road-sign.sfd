@@ -113,7 +113,7 @@ EndChar
 StartChar: exclam
 Encoding: 33 33 2
 Width: 252
-Flags: HW
+Flags: W
 HStem: -5 122<79.7704 172.23> 543 20G<101.5 150.5>
 VStem: 65 122<9.77037 102.23 260.217 550.83>
 LayerCount: 2
@@ -33316,8 +33316,8 @@ EndChar
 StartChar: uni0465
 Encoding: 1125 1125 1058
 Width: 618
-Flags: HW
-HStem: -14 70<362.13 472.294> 0 21G<84 168> 168 63<168 241.288 324 450> 336 70<360.234 472.617> 372 20G<84 168>
+Flags: W
+HStem: -14 70<362.13 472.294> 0 21G<84 168> 168 63<168 241.06 324 450> 336 70<360.18 472.617> 372 20G<84 168>
 VStem: 84 84<0 168 231 392> 239 85<97.3562 168 231 299.022>
 LayerCount: 2
 Fore
@@ -33379,6 +33379,7 @@ SplineSet
  133 203 77 259 77 322 c 6
  77 560 l 5xde
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04B9
@@ -33413,6 +33414,7 @@ SplineSet
  137 119 77 147 77 224 c 2
  77 392 l 1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
