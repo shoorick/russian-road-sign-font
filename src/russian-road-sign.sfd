@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546719862
+ModificationTime: 1546719916
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 104 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1069
+BeginChars: 1114112 1070
 
 StartChar: F
 Encoding: 70 70 0
@@ -18816,6 +18816,37 @@ SplineSet
  84 392 l 1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 1069
+Width: 560
+VWidth: 0
+Flags: WO
+HStem: -12 89<229.873 266 323 358.414> 483 91<231.397 357.919>
+VStem: 66 95<160.201 396.941> 304 65<-167.314 -75.9212>
+LayerCount: 2
+Fore
+SplineSet
+294 574 m 4
+ 400 574 462 511 497 420 c 5
+ 403 385 l 5
+ 382 455 346 483 294 483 c 4
+ 217 483 161 406 161 280 c 4
+ 161 154 217 77 294 77 c 4
+ 346 77 382 105 403 175 c 5
+ 497 140 l 5
+ 465 58 412 -2 323 -12 c 5
+ 319 -35 l 5
+ 319 -35 369 -56 369 -107 c 4
+ 369 -147 343 -175 301 -224 c 5
+ 259 -203 l 5
+ 259 -203 304 -161 304 -119 c 4
+ 304 -70 252 -63 252 -63 c 5
+ 266 -12 l 5
+ 131 3 66 128 66 280 c 4
+ 66 442 140 574 294 574 c 4
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
