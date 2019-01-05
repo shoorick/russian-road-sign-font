@@ -14,7 +14,7 @@
    height="1000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="s.svg">
   <defs
      id="defs4" />
@@ -26,19 +26,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="323.14766"
-     inkscape:cy="306.5036"
+     inkscape:cx="301.88427"
+     inkscape:cy="264.87946"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -73,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,8 +185,8 @@
      inkscape:label="glyph"
      style="display:inline">
     <path
-       style="fill:#990000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 88,716 69,-57 c 0,0 53,64 151,64 91,0 112,-56 112,-77 0,-21 14.66119,-66.53718 -126,-91 C 133,527 119,450 119,401 c 0,-98 84,-175 203,-175 98,0 189,77 189,77 l -63,70 c 0,0 -42,-56 -126,-56 -84,0 -105,56 -105,84 0,49 70.47486,60.60176 147,77 98,21 161,77 161,161 0,70 -77,175 -217,175 C 182,814 88,716 88,716 z"
+       style="opacity:0.66000001;fill:#990000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88,716 69,-59 c 0,0 55,66 153,66 85.5,0 110,-56 110,-77 0,-21 1.38243,-69.62515 -126.5,-88.5 C 137.155,534.42421 119,444 119,401 c 0,-98 84,-175 203,-175 98,0 189,77 189,77 l -64.5,70 c 0,0 -51.5,-56 -124.5,-56 -84,0 -105,55 -105,82 0,53.5 70.47486,62.60176 147,79 98,21 159,77 159,161 0,70 -75,175 -215,175 C 182,814 88,716 88,716 Z"
        id="path3835"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsssssccsssssc" />
