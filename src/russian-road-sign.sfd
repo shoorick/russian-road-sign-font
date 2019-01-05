@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546723683
+ModificationTime: 1546724214
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 260 0 0 "Mark to base attachment lookup 0" { "Mark to base attachment lookup 0-1"  } ['Mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -46,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 26 10
+WinInfo: 8710 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1077
+BeginChars: 1114112 1079
 
 StartChar: F
 Encoding: 70 70 0
@@ -19018,7 +19019,7 @@ StartChar: florin
 Encoding: 402 402 1076
 Width: 364
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -168 81<45.774 140> 315 77<63 126 210 308> 483 77<215.651 312.33>
 VStem: 126 84<-84.1124 315 392 475.841>
 LayerCount: 2
@@ -19046,6 +19047,45 @@ SplineSet
  308 315 l 1
  210 315 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni0283
+Encoding: 643 643 1077
+Width: 336
+VWidth: 0
+Flags: WO
+HStem: -167.852 80.7067<45.7703 140.194> 479.294 80.7062<211.122 286.479>
+VStem: 126 84<-84.2205 476.369>
+LayerCount: 2
+Fore
+SplineSet
+210.025390625 560 m 2
+ 252 559.77734375 273 560.1484375 308 546.1484375 c 1
+ 287 476.1484375 l 1
+ 275.902009248 477.941791742 264.361344119 479.293760056 253.695679201 479.293760056 c 0
+ 229.618265182 479.293760056 210 472.40390122 210 448.1484375 c 2
+ 210 -70 l 2
+ 210 -132.866941861 154.235325563 -167.852032724 126.15254851 -167.852032724 c 0
+ 84.1795468074 -167.852032724 62.9299829204 -167.971993168 28 -154 c 1
+ 49 -84 l 1
+ 60.0979907523 -85.7933542419 71.6386558813 -87.1453225565 82.3043207991 -87.1453225565 c 0
+ 106.381734818 -87.1453225565 126 -80.2554637196 126 -56 c 2
+ 126 462.1484375 l 2
+ 126 525.015379361 181.764674437 560.000470224 209.84745149 560.000470224 c 2
+ 210.025390625 560 l 2
+EndSplineSet
+EndChar
+
+StartChar: integral
+Encoding: 8747 8747 1078
+Width: 336
+VWidth: 0
+Flags: W
+HStem: -167.852 80.7067<45.7703 140.194> 479.294 80.7062<211.122 286.479>
+VStem: 126 84<-84.2205 476.369>
+LayerCount: 2
+Fore
+Refer: 1077 643 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
