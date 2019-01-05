@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546720702
+ModificationTime: 1546720877
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 728 26 10
+WinInfo: 208 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1072
+BeginChars: 1114112 1073
 
 StartChar: F
 Encoding: 70 70 0
@@ -7751,9 +7751,9 @@ StartChar: Scaron
 Encoding: 352 352 418
 Width: 586
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 91<219.496 385.923> 483 91<248.722 400.812> 634 168
-VStem: 119 98<360.052 451.833> 166 312 420.001 102.999<111.504 204.742>
+VStem: 119 98<360.052 451.833> 166 312 420 103<111.504 204.692>
 LayerCount: 2
 Fore
 Refer: 505 780 N 1 0 0 1 116 186 2
@@ -18862,7 +18862,7 @@ StartChar: cedilla
 Encoding: 184 184 1070
 Width: 217
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -63 63<67 89.9395>
 VStem: 67 56<-25.9412 0> 102 65<-167.314 -75.9212>
 LayerCount: 2
@@ -18892,6 +18892,42 @@ LayerCount: 2
 Fore
 Refer: 1070 184 N 1 0 0 1 0 0 2
 Validated: 1
+EndChar
+
+StartChar: Scedilla
+Encoding: 350 350 1072
+Width: 586
+VWidth: 0
+Flags: WO
+HStem: -11 88<220.198 293 351 385.873> 483 91<248.722 400.812>
+VStem: 119 98<360.052 451.833> 332 65<-167.314 -75.9212> 420 103<110.641 204.692>
+LayerCount: 2
+Fore
+SplineSet
+88 84 m 2
+ 157 143 l 1
+ 157 143 212 77 310 77 c 0
+ 396 77 420 133 420 154 c 2
+ 420 155 l 0
+ 420 177 419 224 294 242 c 0
+ 138 265 119 356 119 399 c 0
+ 119 497 203 574 322 574 c 0
+ 420 574 511 497 511 497 c 1
+ 446 427 l 1
+ 446 427 395 483 322 483 c 0
+ 238 483 217 428 217 401 c 0
+ 217 347 287 338 364 322 c 0
+ 462 301 523 245 523 161 c 0
+ 523 99 463 8 351 -11 c 1
+ 347 -35 l 1
+ 347 -35 397 -56 397 -107 c 0
+ 397 -147 371 -175 329 -224 c 1
+ 287 -203 l 1
+ 287 -203 332 -161 332 -119 c 0
+ 332 -70 280 -63 280 -63 c 1
+ 293 -14 l 1
+ 174 -7 88 84 88 84 c 2
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
