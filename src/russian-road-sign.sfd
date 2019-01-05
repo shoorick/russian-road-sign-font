@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546714166
+ModificationTime: 1546715029
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8684 26 10
+WinInfo: 832 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1064
+BeginChars: 1114112 1065
 
 StartChar: F
 Encoding: 70 70 0
@@ -18393,6 +18393,7 @@ SplineSet
  126 392 l 1
  63 392 l 1
 EndSplineSet
+Validated: 9
 EndChar
 
 StartChar: uni0464
@@ -18426,6 +18427,7 @@ SplineSet
  549 490 574 476 616 420 c 1
  693 483 l 1
 EndSplineSet
+Validated: 9
 EndChar
 
 StartChar: uni0465
@@ -18459,6 +18461,7 @@ SplineSet
  168 0 l 1
  84 0 l 1x66
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04B8
@@ -18492,6 +18495,7 @@ SplineSet
  133 203 77 259 77 322 c 2
  77 560 l 1xde
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04B9
@@ -18525,6 +18529,7 @@ SplineSet
  137 119 77 147 77 224 c 2
  77 392 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniFB04
@@ -18577,6 +18582,7 @@ SplineSet
  126 315 l 1
  63 315 l 1x7e
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uniFB02
@@ -18616,13 +18622,14 @@ SplineSet
  126 315 l 1
  63 315 l 9x7c
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Sigma
 Encoding: 931 931 1062
 Width: 560
 VWidth: 0
-Flags: WO
+Flags: HWO
 HStem: 0 84<210 469> 476 84<217 462>
 LayerCount: 2
 Fore
@@ -18631,27 +18638,56 @@ SplineSet
  462 560 l 1
  462 476 l 1
  217 476 l 1
- 341.791015625 285.34765625 l 1
+ 342 285 l 1
  210 84 l 1
  469 84 l 1
  469 0 l 1
  91 0 l 1
  91 91 l 1
- 228.208984375 285.34765625 l 1
+ 228 285 l 1
  98 469 l 1
  98 560 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: summation
 Encoding: 8721 8721 1063
 Width: 560
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 84<210 469> 476 84<217 462>
 LayerCount: 2
 Fore
 Refer: 1062 931 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: gamma
+Encoding: 947 947 1064
+Width: 471
+VWidth: 0
+Flags: WO
+HStem: -168 21G<205 289> 382 10G<77.5 113 322.167 422>
+VStem: 205 84<-168 0>
+LayerCount: 2
+Fore
+SplineSet
+81 402 m 4
+ 145 402 201 335 216 280 c 5
+ 251 128 l 5
+ 328 392 l 5
+ 422 392 l 5
+ 289 0 l 5
+ 289 -168 l 5
+ 205 -168 l 5
+ 205 0 l 5
+ 132 262 l 6
+ 119 310 86 326 40 329 c 5
+ 61 399 l 5
+ 68 401 74 402 81 402 c 4
+EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
