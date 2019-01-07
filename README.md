@@ -5,7 +5,7 @@ The Font which used for road signs in USSR and Russia.
 It was described in Soviet state standard GOST 10807-78 and
 in modern Russian state standard GOST R 52290-2004.
 
-![Font sample](http://habrastorage.org/storage2/fb7/716/823/fb771682308a41efbfd9082e7633f7e2.png)
+![Font sample](plates.png)
 
 Available glyphs
 ----------------
