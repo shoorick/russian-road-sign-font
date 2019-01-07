@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546886659
+ModificationTime: 1546887689
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 7800 26 10
+WinInfo: 1040 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1082
+BeginChars: 1114112 1083
 
 StartChar: F
 Encoding: 70 70 0
@@ -2235,7 +2235,7 @@ StartChar: e
 Encoding: 101 101 100
 Width: 504
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -14 77<201.565 320.975> 168 70<161 342.999> 336 70<198.517 305.821>
 VStem: 68 93<102.827 168 238 297.782> 343 91<199.5 298.871>
 AnchorPoint: "FirstAnchor" 250 458 basechar 0
@@ -19175,6 +19175,50 @@ SplineSet
  308 56 350 112 350 196 c 4
  350 219 347 240 341 258 c 5
  298 196 248 124 209 68 c 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni04BF
+Encoding: 1215 1215 1082
+Width: 566
+VWidth: 0
+Flags: WO
+HStem: -175 109<306.274 372.078> -14 77<315.463 390.055> 168 63<85.312 141.568 231 405> 336 70<270.126 368.598>
+VStem: 28 56<231.972 308> 139 92<102.593 168> 266 39<-75 -36.3465> 405 91<199.5 298.42>
+LayerCount: 2
+Fore
+SplineSet
+328 -175 m 0
+ 289 -175 266 -137 266 -98 c 0
+ 266 -64 282 -33 306 -13 c 1
+ 219 -2 149 67 139 168 c 1
+ 92 168 l 2
+ 64 168 28 200 28 228 c 2
+ 28 308 l 1
+ 84 329 l 1
+ 84 259 l 2
+ 84 245 98 231 112 231 c 2
+ 140 231 l 1
+ 144 274 155 308 178 336 c 0
+ 212 378 267 406 320 406 c 0
+ 418 406 496 315 496 210 c 0
+ 496 189 487 168 475 168 c 2
+ 231 168 l 1
+ 231 84 301 63 336 63 c 0
+ 371 63 392 81 420 116 c 1
+ 490 77 l 1
+ 449 8 381 -13 332 -14 c 0
+ 331 -14 l 0
+ 316 -29 306 -51 305 -75 c 1
+ 311 -69 320 -66 328 -66 c 0
+ 359 -66 384 -91 384 -121 c 0
+ 384 -151 359 -175 328 -175 c 0
+320 336 m 0
+ 278 336 231 287 231 231 c 1
+ 402 231 l 2
+ 405 231 405 238 405 245 c 0
+ 405 286 362 336 320 336 c 0
 EndSplineSet
 Validated: 1
 EndChar
