@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546975558
+ModificationTime: 1546975634
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,7 +51,7 @@ WinInfo: 364 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1094
+BeginChars: 1114112 1098
 
 StartChar: F
 Encoding: 70 70 0
@@ -19512,6 +19512,54 @@ VStem: 45 84<-71.2729 100.278>
 LayerCount: 2
 Fore
 Refer: 1089 1249 S -1 0 0 1 416 0 2
+EndChar
+
+StartChar: uni01EF
+Encoding: 495 495 1094
+Width: 427
+VWidth: 0
+HStem: -182 65<141.596 247.411> 133 60<192.5 255.938> 315 77<56 238> 466 168
+VStem: 33 312 287 84<-71.2729 100.278>
+LayerCount: 2
+Fore
+Refer: 505 780 N 1 0 0 1 -17 18 2
+Refer: 1090 658 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01EE
+Encoding: 494 494 1095
+Width: 504
+VWidth: 0
+HStem: -14 84<172.501 309.363> 301 61<255.5 324> 476 84<98 280> 634 168
+VStem: 92.5 312 357 91<119.063 267.904>
+LayerCount: 2
+Fore
+Refer: 505 780 N 1 0 0 1 42.5 186 2
+Refer: 1091 439 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Oslashacute
+Encoding: 510 510 1096
+Width: 588
+VWidth: 0
+HStem: -14 91<229.084 356.603> 0 21G<66 176> 483 91<231.397 356.014> 540 20G<408 522> 634 147
+VStem: 66 95<177.415 396.941> 268.5 162 427 95<163.059 385.209>
+LayerCount: 2
+Fore
+Refer: 472 714 N 1 0 0 1 273.5 193 2
+Refer: 1080 216 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: oslashacute
+Encoding: 511 511 1097
+Width: 504
+VWidth: 0
+HStem: -14 70<209.77 304.531> 336 70<199.469 294.23> 480 147
+VStem: 70 84<135.117 287.278> 226.5 162 350 84<104.722 256.883>
+LayerCount: 2
+Fore
+Refer: 472 714 N 1 0 0 1 231.5 39 2
+Refer: 1081 248 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
