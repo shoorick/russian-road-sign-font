@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546973403
+ModificationTime: 1546975254
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 78 26 10
+WinInfo: 520 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1090
+BeginChars: 1114112 1091
 
 StartChar: F
 Encoding: 70 70 0
@@ -8982,9 +8982,8 @@ StartChar: uni0205
 Encoding: 517 517 493
 Width: 504
 VWidth: 0
-Flags: H
-HStem: -14 77<200.02 320.926> 168 70<161 342.999> 336 70<191.679 305.613> 466 147
-VStem: 46.5 292 68 93<102.002 168 238 305.22> 343 91<199.5 298.871>
+HStem: -14 77<201.565 320.975> 168 70<161 342.999> 336 70<198.517 305.821> 466 147
+VStem: 46.5 292 68 93<102.827 168 238 297.782> 343 91<199.5 298.871>
 LayerCount: 2
 Fore
 Refer: 492 783 N 1 0 0 1 51.5 25 2
@@ -10075,7 +10074,7 @@ StartChar: uni01DD
 Encoding: 477 477 567
 Width: 504
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -14 70<191.78 310.321> 153.999 70.001<159 341> 329 77<181.074 301.98>
 VStem: 68 91<94.2007 153.999> 341 93<86.7798 153.999 224 289.998>
 LayerCount: 2
@@ -10604,9 +10603,8 @@ StartChar: uni0207
 Encoding: 519 519 604
 Width: 504
 VWidth: 0
-Flags: H
-HStem: -14 77<200.02 320.926> 168 70<161 342.999> 336 70<191.679 305.613> 543 63<187.251 310.236>
-VStem: 68 93<102.002 168 238 305.22> 101.5 63<466 520.25> 332.5 70<466 520.25> 343 91<199.5 298.871>
+HStem: -14 77<201.565 320.975> 168 70<161 342.999> 336 70<198.517 305.821> 543 63<187.251 310.236>
+VStem: 68 93<102.827 168 238 297.782> 101.5 63<466 520.25> 332.5 70<466 520.25> 343 91<199.5 298.871>
 LayerCount: 2
 Fore
 Refer: 588 785 N 1 0 0 1 61.5 -136 2
@@ -19083,7 +19081,7 @@ StartChar: integral
 Encoding: 8747 8747 1078
 Width: 336
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -168 81<45.7744 140> 479 82.2731<212.254 290.397>
 VStem: 126 84<-84.1124 475.113>
 LayerCount: 2
@@ -19466,6 +19464,18 @@ SplineSet
  329 193 371 126 371 21 c 0
  371 -99 280 -182 196 -182 c 0
 EndSplineSet
+EndChar
+
+StartChar: uni0292
+Encoding: 658 658 1090
+Width: 427
+VWidth: 0
+Flags: W
+HStem: -182 65<141.596 247.411> 133 60<192.5 255.938> 315 77<56 238>
+VStem: 287 84<-71.2729 100.278>
+LayerCount: 2
+Fore
+Refer: 1089 1249 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
