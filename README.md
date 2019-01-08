@@ -10,12 +10,14 @@ in modern Russian state standard GOST R 52290-2004.
 Available glyphs
 ----------------
 
-GOST 10807-78 contains 420 glyphs.
-By January 8, 2019 this font contains 1087 characters including:
+GOST R 52290-2004 contains samples of 140 glyphs placed on coordinate grid,
+GOST 10807-78 describes 420 glyphs, same as above plus letters from non-Russian
+alphabets used in USSR and Russia.
+By January 9, 2019 this font contains 1088 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 94 (+64) = 158 of 161 (98 %)
+* Cyrillic alphabet: 97 (+64) = 161 of 161
 * ~~Armenian alphabet:~~ 1 (+11) = 12 of 77 (15 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
@@ -27,22 +29,22 @@ Additional glyphs which are not described by GOST:
 * Greek alphabet: 13 (+135) = 148
 * other: 10 (+4) = 14
 
-Font contains all digits (normal size, subscript, superscript),
-uppercase and lowercase symbols of Russian (modern and pre-Revolution)
-and Basic Latin alphabets. Also font contains full visible part of ASCII.
+Font contains all digits (normal size, subscript, superscript)
+and letters of Cyrillic and Latin alphabets as described in standards.
+Also font contains full visible part of ASCII.
 
 Supported languages:
-Abaza, Adyghe, Aghul, Altai, Avar, Azerbaijani (Cyrillic and Latin), Bashkir,
-Bulgarian, Buryat, Byelorussian, Chechen, Chukchi, Chuvash, Crimean Tatar
-(Cyrillic), Croatian, Czech, Danish, Dargin, Dolgan, English, Esperanto,
+Abaza, Abkhasian, Adyghe, Aghul, Altai, Avar, Azerbaijani (Cyrillic and Latin),
+Bashkir, Bulgarian, Buryat, Byelorussian, Chechen, Chukchi, Chuvash, Crimean
+Tatar (Cyrillic), Croatian, Czech, Danish, Dargin, Dolgan, English, Esperanto,
 Estonian, Even, Evenki, Finnish, French, German, Hungarian, Icelandic, Ingush,
 Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian, Kazakh, Khakassian,
 Khanty, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian, Lithuanian,
 Macedonian, Mansi, Mari (with Hill Mari), Moldovan (Cyrillic and Latin),
 Mongol, Mordvinic, Nenets, Nogai, Norwegian, Ossetian, Polish, Portuguese,
-Romanian, Russian, Rutul, Selkup, Serbian, Spanish, Swedish, Tabasaran, Tadjik,
-Tat, Tatar, Tsakhur, Turkish, Turkmen (Cyrillic and Latin), Tuvan, Udmurt,
-Ukrainian, Uzbek (Cyrillic and Latin), Veps, Yakut.
+Romanian, Russian (modern and pre-Revolution), Rutul, Selkup, Serbian, Spanish,
+Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkish, Turkmen (Cyrillic and
+Latin), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps, Yakut.
 
 Author
 ------
@@ -72,12 +74,15 @@ _The same in Russian:_
 Доступные символы
 ----------------
 
-ГОСТ 10807-78 описывает 420 глифов.
-Этот шрифт по состоянию на 08.01.2019 содержит 1087 символов, в том числе:
+ГОСТ Р 52290-2004 содержит образцы 140 глифов, размещённых на координатной
+сетке: русский и латинский алфавиты, цифры и знаки пунктуации.
+ГОСТ 10807-78 содержит 420 глифов — туда также входят символы, используемые в
+языках народов СССР и России.
+Этот шрифт по состоянию на 09.01.2019 содержит 1088 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 94 (+64) = 158 из 161 (98 %)
+* Кириллица: 97 (+64) = 161 из 161
 * ~~Армянский алфавит:~~ 1 (+11) = 12 из 77 (15 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
@@ -90,24 +95,25 @@ _The same in Russian:_
 * прочее: 10 (+4) = 14
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
-буквы русского и основного латинского алфавитов. Кроме того, шрифт содержит все
-видимые символы ASCII.
+а также предусмотренные указанными стандартами буквы кириллического и латинского
+алфавитов. Кроме того, шрифт содержит все видимые символы ASCII.
 
 Поддерживаемые языки:
-абазинский, аварский, агульский, адыгейский, азербайджанский (оба алфавита —
-кириллический и латинский), алтайский, английский, башкирский, белорусский,
-болгарский, бурятский, венгерский, вепсский, даргинский, датский, долганский,
-ингушский, исландский, испанский, итальянский, кабардино-черкесский, казахский,
-калмыкский, карачаево-балкарский, карельский, киргизский, коми,
-крымскотатарский (кириллица), кумыкский, лакский, латинский, латышский,
-лезгинский, литовский, македонский, мансийский, марийский (с горномарийским),
-молдавский (оба алфавита), монгольский, мордовский, немецкий, ненецкий,
-ногайский, норвежский, осетинский, польский, португальский, румынский, русский,
-рутульский, селькупский, сербский, табасаранский, таджикский, татарский,
-татский, тувинский, турецкий, туркменский (оба алфавита), удмуртский, узбекский
-(оба алфавита), украинский, финский, французский, хакасский, хантыйский,
-хорватский, цахурский, чеченский, чешский, чувашский, чукотский, шведский,
-эвенский, эвенкийский, эсперанто, эстонский, якутский.
+абазинский, абхазский, аварский, агульский, адыгейский, азербайджанский (оба
+алфавита — кириллический и латинский), алтайский, английский, башкирский,
+белорусский, болгарский, бурятский, венгерский, вепсский, даргинский, датский,
+долганский, ингушский, исландский, испанский, итальянский,
+кабардино-черкесский, казахский, калмыкский, карачаево-балкарский, карельский,
+киргизский, коми, крымскотатарский (кириллица), кумыкский, лакский, латинский,
+латышский, лезгинский, литовский, македонский, мансийский, марийский
+(с горномарийским), молдавский (оба алфавита), монгольский, мордовский,
+немецкий, ненецкий, ногайский, норвежский, осетинский, польский, португальский,
+румынский, русский (современный и дореволюционный), рутульский, селькупский,
+сербский, табасаранский, таджикский, татарский, татский, тувинский, турецкий,
+туркменский (оба алфавита), удмуртский, узбекский (оба алфавита), украинский,
+финский, французский, хакасский, хантыйский, хорватский, цахурский, чеченский,
+чешский, чувашский, чукотский, шведский, эвенский, эвенкийский, эсперанто,
+эстонский, якутский.
 
 Проприетарный аналог
 --------------------
