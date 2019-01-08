@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546975634
+ModificationTime: 1546976984
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 364 26 10
+WinInfo: 78 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1098
+BeginChars: 1114112 1099
 
 StartChar: F
 Encoding: 70 70 0
@@ -19370,6 +19370,7 @@ SplineSet
  577 385 558 426 528 455 c 4
  498 484 470 490 444 490 c 4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04A9
@@ -19404,6 +19405,7 @@ SplineSet
  410 89 442 152 442 217 c 0
  442 280 409 334 364 334 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04E0
@@ -19434,6 +19436,7 @@ SplineSet
  406 362 448 280 448 203 c 0
  448 83 364 -14 238 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni04E1
@@ -19464,6 +19467,7 @@ SplineSet
  329 193 371 126 371 21 c 0
  371 -99 280 -182 196 -182 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0292
@@ -19476,6 +19480,7 @@ VStem: 287 84<-71.2729 100.278>
 LayerCount: 2
 Fore
 Refer: 1089 1249 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni01B7
@@ -19488,6 +19493,7 @@ VStem: 357 91<119.063 267.904>
 LayerCount: 2
 Fore
 Refer: 1088 1248 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni01B8
@@ -19500,18 +19506,20 @@ VStem: 49 91<119.063 267.904>
 LayerCount: 2
 Fore
 Refer: 1091 439 S -1 0 0 1 497 0 2
+Validated: 25
 EndChar
 
 StartChar: uni01B9
 Encoding: 441 441 1093
 Width: 427
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -182 65<168.589 274.404> 133 60<160.062 223.5> 315 77<178 360>
 VStem: 45 84<-71.2729 100.278>
 LayerCount: 2
 Fore
 Refer: 1089 1249 S -1 0 0 1 416 0 2
+Validated: 25
 EndChar
 
 StartChar: uni01EF
@@ -19524,6 +19532,7 @@ LayerCount: 2
 Fore
 Refer: 505 780 N 1 0 0 1 -17 18 2
 Refer: 1090 658 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni01EE
@@ -19536,6 +19545,7 @@ LayerCount: 2
 Fore
 Refer: 505 780 N 1 0 0 1 42.5 186 2
 Refer: 1091 439 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Oslashacute
@@ -19548,6 +19558,7 @@ LayerCount: 2
 Fore
 Refer: 472 714 N 1 0 0 1 273.5 193 2
 Refer: 1080 216 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: oslashacute
@@ -19560,6 +19571,47 @@ LayerCount: 2
 Fore
 Refer: 472 714 N 1 0 0 1 231.5 39 2
 Refer: 1081 248 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar
+
+StartChar: section
+Encoding: 167 167 1098
+Width: 362
+VWidth: 0
+Flags: WO
+HStem: -61 72<131.147 222.572> 444 72<139.428 230.853>
+VStem: 52 71<191.689 274.557> 62 69<361.737 436.02> 231 69<18.9799 93.2632> 239 71<180.443 263.311>
+LayerCount: 2
+Fore
+SplineSet
+210 176 m 5xe4
+ 204 178 197 179 190 180 c 4
+ 133 186 123 204 123 231 c 4
+ 123 252 136 272 152 279 c 5
+ 158 277 165 276 172 275 c 4
+ 229 269 239 251 239 224 c 4
+ 239 203 226 183 210 176 c 5xe4
+62 399 m 4xd4
+ 62 371 69 349 86 325 c 5
+ 61 302 52 269 52 237 c 4
+ 52 159 91 124 161 107 c 4
+ 195 98 231 97 231 58 c 4
+ 231 39 216 11 183 11 c 4
+ 160 11 130 31 120 43 c 5
+ 85 -18 l 5
+ 85 -18 130 -61 186 -61 c 4
+ 254 -61 300 0 300 56 c 4xe8
+ 300 84 293 106 276 130 c 5
+ 301 153 310 186 310 218 c 4
+ 310 296 271 331 201 348 c 4
+ 167 357 131 358 131 397 c 4
+ 131 416 146 444 179 444 c 4
+ 202 444 232 424 242 412 c 5
+ 277 473 l 5
+ 277 473 232 516 176 516 c 4
+ 108 516 62 455 62 399 c 4xd4
+EndSplineSet
+Validated: 9
 EndChar
 EndChars
 EndSplineFont

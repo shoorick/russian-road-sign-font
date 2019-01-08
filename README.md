@@ -13,7 +13,7 @@ Available glyphs
 GOST R 52290-2004 contains samples of 140 glyphs placed on coordinate grid,
 GOST 10807-78 describes 420 glyphs, same as above plus letters from non-Russian
 alphabets used in USSR and Russia.
-By January 9, 2019 this font contains 1088 characters including:
+By January 9, 2019 this font contains 1099 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
@@ -21,10 +21,10 @@ By January 9, 2019 this font contains 1088 characters including:
 * ~~Armenian alphabet:~~ 1 (+11) = 12 of 77 (15 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
-Additional glyphs which are not described by GOST:
+Additional glyphs which are not described by specified standards:
 
 * Digits and punctuation signs: 38 (+67) = 105
-* Latin alphabet and IPA: 37 (+434) = 471
+* Latin alphabet and IPA: 38 (+442) = 480
 * Cyrillic alphabet: 33 (+30) = 63
 * Greek alphabet: 13 (+135) = 148
 * other: 10 (+4) = 14
@@ -78,7 +78,7 @@ _The same in Russian:_
 сетке: русский и латинский алфавиты, цифры и знаки пунктуации.
 ГОСТ 10807-78 содержит 420 глифов — туда также входят символы, используемые в
 языках народов СССР и России.
-Этот шрифт по состоянию на 09.01.2019 содержит 1088 символов, в том числе:
+Этот шрифт по состоянию на 09.01.2019 содержит 1099 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
@@ -86,10 +86,10 @@ _The same in Russian:_
 * ~~Армянский алфавит:~~ 1 (+11) = 12 из 77 (15 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
-Не определены в ГОСТ, но есть в шрифте:
+Не определены в стандартах, но есть в шрифте:
 
 * Цифры и знаки пунктуации: 38 (+67) = 105
-* Латинский алфавит и МФА: 37 (+434) = 471
+* Латинский алфавит и МФА: 38 (+442) = 480
 * Кириллица: 33 (+30) = 63
 * Греческий алфавит: 13 (+135) = 148
 * прочее: 10 (+4) = 14
