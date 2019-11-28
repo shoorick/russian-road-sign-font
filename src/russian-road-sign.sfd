@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1546976984
+ModificationTime: 1574977054
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,11 +47,11 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 78 26 10
+WinInfo: 9776 26 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1099
+BeginChars: 1114112 1100
 
 StartChar: F
 Encoding: 70 70 0
@@ -19081,7 +19081,7 @@ StartChar: integral
 Encoding: 8747 8747 1078
 Width: 336
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -168 81<45.7744 140> 479 82.2731<212.254 290.397>
 VStem: 126 84<-84.1124 475.113>
 LayerCount: 2
@@ -19578,7 +19578,7 @@ StartChar: section
 Encoding: 167 167 1098
 Width: 362
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -61 72<131.147 222.572> 444 72<139.428 230.853>
 VStem: 52 71<191.689 274.557> 62 69<361.737 436.02> 231 69<18.9799 93.2632> 239 71<180.443 263.311>
 LayerCount: 2
@@ -19612,6 +19612,66 @@ SplineSet
  108 516 62 455 62 399 c 4xd4
 EndSplineSet
 Validated: 9
+EndChar
+
+StartChar: uni26FD
+Encoding: 9981 9981 1099
+Width: 616
+VWidth: 0
+Flags: WO
+HStem: 0 28<98.2879 206.575> 308 29<280.37 298> 490 29<252.133 298> 507 53<346 550>
+VStem: 28 28<73.7788 175.293> 224 28<374 489.998> 252 28<74.4219 307.664> 308 38<332.232 506.768> 550 38<332.232 506.768>
+LayerCount: 2
+Fore
+SplineSet
+336 560 m 2xd980
+ 560 560 l 2
+ 575 560 588 547 588 532 c 2
+ 588 0 l 1
+ 308 0 l 1
+ 308 532 l 2
+ 308 547 321 560 336 560 c 2xd980
+368 507 m 2
+ 356 507 346 498 346 486 c 2
+ 346 353 l 2
+ 346 341 356 332 368 332 c 2
+ 528 332 l 2
+ 540 332 550 341 550 353 c 2
+ 550 486 l 2
+ 550 498 540 507 528 507 c 2
+ 368 507 l 2
+259 519 m 0xed80
+ 273 519 298 517 298 517 c 1
+ 298 490 l 1
+ 266 490 l 2
+ 257 490 252 485 252 476 c 2
+ 252 406 l 2xed80
+ 252 383 239 364 223 345 c 0
+ 207 326 187 305 165 280 c 0
+ 136 247 108 223 88 200 c 0
+ 68 177 56 157 56 126 c 0
+ 56 111 61 86 75 65 c 0
+ 89 44 112 28 154 28 c 0
+ 189 28 212 42 228 60 c 0
+ 244 78 252 102 252 119 c 2
+ 252 301 l 2
+ 252 322 266 337 287 337 c 0
+ 289 337 298 336 298 336 c 1
+ 298 308 l 1
+ 287 308 l 2
+ 283 308 280 308 280 301 c 2
+ 280 119 l 2xeb80
+ 280 94 270 66 249 42 c 0
+ 228 18 196 0 154 0 c 0
+ 105 0 71 22 52 49 c 0
+ 33 76 28 106 28 126 c 0
+ 28 165 44 194 66 219 c 0
+ 88 244 116 266 143 298 c 0
+ 166 324 187 345 202 363 c 0
+ 217 381 224 394 224 406 c 2
+ 224 485 l 2
+ 224 503 243 519 259 519 c 0xed80
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
