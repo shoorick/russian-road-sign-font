@@ -18,7 +18,7 @@ By January 9, 2019 this font contains 1099 characters including:
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
 * Cyrillic alphabet: 97 (+64) = 161 of 161
-* ~~Armenian alphabet:~~ 1 (+11) = 12 of 77 (15 %)
+* ~~Armenian alphabet:~~ 2 (+11) = 13 of 77 (16 %)
 * ~~Georgian alphabet:~~ 0 of 66
 
 Additional glyphs which are not described by specified standards:
@@ -83,7 +83,7 @@ _The same in Russian:_
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
 * Кириллица: 97 (+64) = 161 из 161
-* ~~Армянский алфавит:~~ 1 (+11) = 12 из 77 (15 %)
+* ~~Армянский алфавит:~~ 2 (+11) = 13 из 77 (16 %)
 * ~~Грузинский алфавит:~~ 0 из 66
 
 Не определены в стандартах, но есть в шрифте:
