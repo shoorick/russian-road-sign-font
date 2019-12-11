@@ -27,11 +27,11 @@ Additional glyphs which are not described by specified standards:
 * Latin alphabet and IPA: 38 (+442) = 480
 * Cyrillic alphabet: 33 (+30) = 63
 * Greek alphabet: 13 (+135) = 148
-* other: 10 (+4) = 14
+* other: 15 (+4) = 19
 
 Font contains all digits (normal size, subscript, superscript)
 and letters of Cyrillic and Latin alphabets as described in standards.
-Also font contains full visible part of ASCII.
+Also font contains full visible part of ASCII and some icons.
 
 Supported languages:
 Abaza, Abkhasian, Adyghe, Aghul, Altai, Avar, Azerbaijani (Cyrillic and Latin),
@@ -92,11 +92,12 @@ _The same in Russian:_
 * Латинский алфавит и МФА: 38 (+442) = 480
 * Кириллица: 33 (+30) = 63
 * Греческий алфавит: 13 (+135) = 148
-* прочее: 10 (+4) = 14
+* прочее: 15 (+4) = 19
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 а также предусмотренные указанными стандартами буквы кириллического и латинского
-алфавитов. Кроме того, шрифт содержит все видимые символы ASCII.
+алфавитов. Кроме того, шрифт содержит все видимые символы ASCII
+и некоторые фигуры с дорожных знаков.
 
 Поддерживаемые языки:
 абазинский, абхазский, аварский, агульский, адыгейский, азербайджанский (оба
