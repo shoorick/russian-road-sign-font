@@ -13,7 +13,7 @@ Available glyphs
 GOST R 52290-2004 contains samples of 140 glyphs placed on coordinate grid,
 GOST 10807-78 describes 420 glyphs, same as above plus letters from non-Russian
 alphabets used in USSR and Russia.
-By January 9, 2019 this font contains 1099 characters including:
+By January 5, 2023 this font contains 1112 characters including:
 
 * Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
 * Latin alphabet: 51 (+43) = 94 of 94
@@ -78,7 +78,7 @@ _The same in Russian:_
 сетке: русский и латинский алфавиты, цифры и знаки пунктуации.
 ГОСТ 10807-78 содержит 420 глифов — туда также входят символы, используемые в
 языках народов СССР и России.
-Этот шрифт по состоянию на 09.01.2019 содержит 1099 символов, в том числе:
+Этот шрифт по состоянию на 05.01.2023 содержит 1112 символов, в том числе:
 
 * Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
 * Латинский алфавит: 51 (+43) = 94 из 94
