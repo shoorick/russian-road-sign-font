@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1359148831
-ModificationTime: 1672942743
+ModificationTime: 1672943486
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -57,7 +57,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 411042 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "FirstAnchor" "Mark to base attachment lookup 0-1"
-BeginChars: 1114112 1114
+BeginChars: 1114112 1115
 
 StartChar: F
 Encoding: 70 70 0
@@ -20425,7 +20425,7 @@ EndChar
 StartChar: arrowboth
 Encoding: 8596 8596 1113
 Width: 750
-Flags: WO
+Flags: W
 HStem: 166 84<238 518>
 LayerCount: 2
 Fore
@@ -20441,6 +20441,30 @@ SplineSet
  238 89 l 1
  28 208 l 1
  238 328 l 1
+EndSplineSet
+EndChar
+
+StartChar: arrowupdn
+Encoding: 8597 8597 1114
+Width: 314
+Flags: WO
+VStem: 112 84<69 348>
+LayerCount: 2
+Fore
+SplineSet
+34 68 m 1
+ 108 68 l 0
+ 110 69 l 4
+ 112 68 l 1
+ 112 348 l 1
+ 34 348 l 1
+ 154 558 l 1
+ 274 348 l 1
+ 196 348 l 1
+ 196 68 l 1
+ 274 68 l 1
+ 154 -142 l 1
+ 34 68 l 1
 EndSplineSet
 EndChar
 EndChars
