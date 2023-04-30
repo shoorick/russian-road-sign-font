@@ -1,5 +1,4 @@
-Russian road sign font
-======================
+# Russian road sign font
 
 The Font which used for road signs in USSR and Russia.
 It was described in Soviet state standard GOST 10807-78 and
@@ -7,27 +6,26 @@ in modern Russian state standard GOST R 52290-2004.
 
 ![Font sample](plates.png)
 
-Available glyphs
-----------------
+## Available glyphs
 
 GOST R 52290-2004 contains samples of 140 glyphs placed on coordinate grid,
 GOST 10807-78 describes 420 glyphs, same as above plus letters from non-Russian
 alphabets used in USSR and Russia.
 By January 5, 2023 this font contains 1131 characters including:
 
-* Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
-* Latin alphabet: 51 (+43) = 94 of 94
-* Cyrillic alphabet: 97 (+64) = 161 of 161
-* ~~Armenian alphabet:~~ 5 (+11) = 16 of 77 (20 %)
-* ~~Georgian alphabet:~~ 0 of 66
+- Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
+- Latin alphabet: 51 (+43) = 94 of 94
+- Cyrillic alphabet: 97 (+64) = 161 of 161
+- ~~Armenian alphabet:~~ 5 (+11) = 16 of 77 (20 %)
+- ~~Georgian alphabet:~~ 0 of 66
 
 Additional glyphs which are not described by specified standards:
 
-* Digits and punctuation signs: 38 (+67) = 105
-* Latin alphabet and IPA: 38 (+442) = 480
-* Cyrillic alphabet: 33 (+30) = 63
-* Greek alphabet: 13 (+135) = 148
-* other: 15 (+4) = 19
+- Digits and punctuation signs: 38 (+67) = 105
+- Latin alphabet and IPA: 38 (+442) = 480
+- Cyrillic alphabet: 33 (+30) = 63
+- Greek alphabet: 13 (+135) = 148
+- other: 15 (+4) = 19
 
 Font contains all digits (normal size, subscript, superscript)
 and letters of Cyrillic and Latin alphabets as described in standards.
@@ -46,62 +44,57 @@ Romanian, Russian (modern and pre-Revolution), Rutul, Selkup, Serbian, Spanish,
 Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkish, Turkmen (Cyrillic and
 Latin), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps, Yakut.
 
-Author
-------
+## Author
 
 Digitized by [Alexander Sapozhnikov](http://shoorick.ru/), <shoorick@cpan.org>.
 
-Licence
--------
+## Licence
 
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
 
-Proprietary analog
-------------------
+## Proprietary analog
 
-* IndorSoftRoadSignLetters.ttf from
-[IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/) program.
+- IndorSoftRoadSignLetters.ttf from
+  [IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/) program.
 
-See also
---------
+## See also
 
-* Font **Sourse Sans** Semibold (600) contains Latin glyphs which are similar to this font —
-[GitHub](https://github.com/adobe-fonts/source-sans),
-[Wikipedia](https://en.wikipedia.org/wiki/Source_Sans),
-[Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro).
+- Font **Sourse Sans** Semibold (600) contains Latin glyphs which are
+  similar to this font —
+  [GitHub](https://github.com/adobe-fonts/source-sans),
+  [Wikipedia](https://en.wikipedia.org/wiki/Source_Sans),
+  [Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro).
 
---------------------------------------------------
+---
 
 _The same in Russian:_
 
-Шрифт российских дорожных знаков
-================================
+# Шрифт российских дорожных знаков
 
 Шрифт, используемый в дорожных знаках СССР и России.
 Описан в советском ГОСТ 10807-78 и действующем российском ГОСТ Р 52290-2004.
 
-Доступные символы
------------------
+## Доступные символы
 
 ГОСТ Р 52290-2004 содержит образцы 140 глифов, размещённых на координатной
 сетке: русский и латинский алфавиты, цифры и знаки пунктуации.
-ГОСТ 10807-78 содержит 420 глифов — туда также входят символы, используемые в
-языках народов СССР и России.
+ГОСТ 10807-78 содержит 420 глифов — туда также входят символы, используемые
+в языках народов СССР и России.
 Этот шрифт по состоянию на 05.01.2023 содержит 1131 символ, в том числе:
 
-* Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
-* Латинский алфавит: 51 (+43) = 94 из 94
-* Кириллица: 97 (+64) = 161 из 161
-* ~~Армянский алфавит:~~ 5 (+11) = 16 из 77 (20 %)
-* ~~Грузинский алфавит:~~ 0 из 66
+- Цифры и знаки пунктуации: 20 глифов + 2 ссылки = 22 из 22, описанных в ГОСТ
+- Латинский алфавит: 51 (+43) = 94 из 94
+- Кириллица: 97 (+64) = 161 из 161
+- ~~Армянский алфавит:~~ 5 (+11) = 16 из 77 (20 %)
+- ~~Грузинский алфавит:~~ 0 из 66
 
 Не определены в стандартах, но есть в шрифте:
 
-* Цифры и знаки пунктуации: 38 (+67) = 105
-* Латинский алфавит и МФА: 38 (+442) = 480
-* Кириллица: 33 (+30) = 63
-* Греческий алфавит: 13 (+135) = 148
-* прочее: 15 (+4) = 19
+- Цифры и знаки пунктуации: 38 (+67) = 105
+- Латинский алфавит и МФА: 38 (+442) = 480
+- Кириллица: 33 (+30) = 63
+- Греческий алфавит: 13 (+135) = 148
+- прочее: 15 (+4) = 19
 
 В шрифте представлены все цифры (обычного размера, верхние и нижние индексы),
 а также предусмотренные указанными стандартами буквы кириллического и латинского
@@ -126,26 +119,23 @@ _The same in Russian:_
 чешский, чувашский, чукотский, шведский, эвенский, эвенкийский, эсперанто,
 эстонский, якутский.
 
-Автор
------
+## Автор
 
 Отрисовано [Александром Сапожниковым](http://shoorick.ru/), <shoorick@cpan.org>.
 
-Лицензия
---------
+## Лицензия
 
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
 
-Проприетарный аналог
---------------------
+## Проприетарный аналог
 
-* IndorSoftRoadSignLetters.ttf из программы
-[IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/).
+- IndorSoftRoadSignLetters.ttf из программы
+  [IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/).
 
-См. также
----------
+## См. также
 
-* В шрифте **Sourse Sans** Semibold (600) есть латинские и кириллические буквы, похожие на символы этого шрифта —
-[GitHub](https://github.com/adobe-fonts/source-sans),
-[Wikipedia](https://ru.wikipedia.org/wiki/Source_Sans_Pro),
-[Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro).
+- В шрифте **Sourse Sans** Semibold (600) есть латинские и кириллические буквы,
+  похожие на символы этого шрифта —
+  [GitHub](https://github.com/adobe-fonts/source-sans),
+  [Wikipedia](https://ru.wikipedia.org/wiki/Source_Sans_Pro),
+  [Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro).
