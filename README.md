@@ -62,7 +62,16 @@ Proprietary analog
 * IndorSoftRoadSignLetters.ttf from
 [IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/) program.
 
+See also
+--------
+
+* Font **Sourse Sans** Semibold (600) contains Latin glyphs which are similar to this font —
+[GitHub](https://github.com/adobe-fonts/source-sans),
+[Wikipedia](https://en.wikipedia.org/wiki/Source_Sans),
+[Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro).
+
 --------------------------------------------------
+
 _The same in Russian:_
 
 Шрифт российских дорожных знаков
@@ -72,7 +81,7 @@ _The same in Russian:_
 Описан в советском ГОСТ 10807-78 и действующем российском ГОСТ Р 52290-2004.
 
 Доступные символы
-----------------
+-----------------
 
 ГОСТ Р 52290-2004 содержит образцы 140 глифов, размещённых на координатной
 сетке: русский и латинский алфавиты, цифры и знаки пунктуации.
@@ -123,7 +132,7 @@ _The same in Russian:_
 Отрисовано [Александром Сапожниковым](http://shoorick.ru/), <shoorick@cpan.org>.
 
 Лицензия
--------
+--------
 
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -132,3 +141,11 @@ _The same in Russian:_
 
 * IndorSoftRoadSignLetters.ttf из программы
 [IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/).
+
+См. также
+---------
+
+* В шрифте **Sourse Sans** Semibold (600) есть латинские и кириллические буквы, похожие на символы этого шрифта —
+[GitHub](https://github.com/adobe-fonts/source-sans),
+[Wikipedia](https://ru.wikipedia.org/wiki/Source_Sans_Pro),
+[Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro).
