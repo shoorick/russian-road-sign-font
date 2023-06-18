@@ -1,69 +1,50 @@
 # Russian road sign font
 
-The Font which used for road signs in USSR and Russia.
-It was described in Soviet state standard GOST 10807-78 and
-in modern Russian state standard GOST R 52290-2004.
+The font used for road signs in the USSR and Russia is described in Soviet state standard GOST 10807-78 and in the modern Russian state standard GOST R 52290-2004.
 
 ![Font sample](plates.png)
 
 ## Available glyphs
 
-GOST R 52290-2004 contains samples of 140 glyphs placed on coordinate grid,
-GOST 10807-78 describes 420 glyphs, same as above plus letters from non-Russian
-alphabets used in USSR and Russia.
-By January 5, 2023 this font contains 1131 characters including:
+GOST R 52290-2004 contains samples of 140 glyphs placed on a coordinate grid. GOST 10807-78 describes 420 glyphs, which include the same glyphs as mentioned above, plus letters from non-Russian alphabets used in the USSR and Russia. As of January 5, 2023, this font contains 1,131 characters, including:
 
-- Digits and punctuation signs: 20 glyphs + 2 references = 22 of 22 defined in GOST
-- Latin alphabet: 51 (+43) = 94 of 94
-- Cyrillic alphabet: 97 (+64) = 161 of 161
-- ~~Armenian alphabet:~~ 5 (+11) = 16 of 77 (20 %)
-- ~~Georgian alphabet:~~ 0 of 66
+- Digits and punctuation signs: 20 glyphs + 2 references = 22 of the 22 defined in GOST.
+- Latin alphabet: 51 (+43) = 94 of 94.
+- Cyrillic alphabet: 97 (+64) = 161 of 161.
+- ~~Armenian alphabet:~~ 5 (+11) = 16 of 77 (20%).
+- ~~Georgian alphabet:~~ 0 of 66.
 
-Additional glyphs which are not described by specified standards:
+Additional glyphs that are not described by the specified standards:
 
-- Digits and punctuation signs: 38 (+67) = 105
-- Latin alphabet and IPA: 38 (+442) = 480
-- Cyrillic alphabet: 33 (+30) = 63
-- Greek alphabet: 13 (+135) = 148
-- other: 15 (+4) = 19
+- Digits and punctuation signs: 38 (+67) = 105.
+- Latin alphabet and IPA: 38 (+442) = 480.
+- Cyrillic alphabet: 33 (+30) = 63.
+- Greek alphabet: 13 (+135) = 148.
+- Other: 15 (+4) = 19.
 
-Font contains all digits (normal size, subscript, superscript)
-and letters of Cyrillic and Latin alphabets as described in standards.
-Also font contains full visible part of ASCII and some icons.
+The font contains all digits (normal size, subscript, superscript) and letters of the Cyrillic and Latin alphabets as described in the standards. Additionally, the font contains the full visible part of ASCII and some icons.
 
 Supported languages:
-Abaza, Abkhasian, Adyghe, Aghul, Altai, Avar, Azerbaijani (Cyrillic and Latin),
-Bashkir, Bulgarian, Buryat, Byelorussian, Chechen, Chukchi, Chuvash, Crimean
-Tatar (Cyrillic), Croatian, Czech, Danish, Dargin, Dolgan, English, Esperanto,
-Estonian, Even, Evenki, Finnish, French, German, Hungarian, Icelandic, Ingush,
-Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian, Kazakh, Khakassian,
-Khanty, Kirghiz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian, Lithuanian,
-Macedonian, Mansi, Mari (with Hill Mari), Moldovan (Cyrillic and Latin),
-Mongol, Mordvinic, Nenets, Nogai, Norwegian, Ossetian, Polish, Portuguese,
-Romanian, Russian (modern and pre-Revolution), Rutul, Selkup, Serbian, Spanish,
-Swedish, Tabasaran, Tadjik, Tat, Tatar, Tsakhur, Turkish, Turkmen (Cyrillic and
-Latin), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps, Yakut.
+Abaza, Abkhazian, Adyghe, Aghul, Altai, Avar, Azerbaijani (Cyrillic and Latin), Bashkir, Bulgarian, Buryat, Belarusian, Chechen, Chukchi, Chuvash, Crimean Tatar (Cyrillic), Croatian, Czech, Danish, Dargin, Dolgan, English, Esperanto, Estonian, Even, Evenki, Finnish, French, German, Hungarian, Icelandic, Ingush, Italian, Kabardian, Kalmyk, Karachay Balkar, Karelian, Kazakh, Khakassian, Khanty, Kyrgyz, Komi, Kumyk, Lak, Latin, Latvian, Lezgian, Lithuanian, Macedonian, Mansi, Mari (including Hill Mari), Moldovan (Cyrillic and Latin), Mongolian, Mordvinic, Nenets, Nogai, Norwegian, Ossetian, Polish, Portuguese, Romanian, Russian (modern and pre-Revolution), Rutul, Selkup, Serbian, Spanish, Swedish, Tabasaran, Tajik, Tat, Tatar, Tsakhur, Turkish, Turkmen (Cyrillic and Latin), Tuvan, Udmurt, Ukrainian, Uzbek (Cyrillic and Latin), Veps, Yakut.
 
 ## Author
 
 Digitized by [Alexander Sapozhnikov](http://shoorick.ru/), <shoorick@cpan.org>.
 
-## Licence
+## License
 
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Proprietary analog
 
-- IndorSoftRoadSignLetters.ttf from
-  [IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/) program.
+- IndorSoftRoadSignLetters.ttf from [IndorRoadSigns](http://www.indorsoft.ru/products/roadsigns/) program.
 
 ## See also
 
-- Font **Sourse Sans** Semibold (600) contains Latin glyphs which are
-  similar to this font —
-  [GitHub](https://github.com/adobe-fonts/source-sans),
-  [Wikipedia](https://en.wikipedia.org/wiki/Source_Sans),
-  [Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro).
+- Font **Source Sans** Semibold (600) contains Latin glyphs that are similar to this font:
+  - [GitHub](https://github.com/adobe-fonts/source-sans)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Source_Sans)
+  - [Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
 
 ---
 
